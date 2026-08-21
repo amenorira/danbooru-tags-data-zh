@@ -46,6 +46,7 @@ tag, category, aliases, zh, count, notes
 
 - `tags/artist.csv` — 画师标签
 - `tags/copyright.csv` — 作品/版权标签
+- `tags/meta.csv` — 元标签
 - 其他分类整理好后陆续补充
 
 ## 反馈
