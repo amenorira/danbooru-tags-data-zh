@@ -1,0 +1,27 @@
+name: sync-hf
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tags/**'
+      - 'README.md'
+      - 'LICENSE'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install huggingface_hub
+        run: pip install --quiet --upgrade huggingface_hub
+      - name: Upload to HuggingFace
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          hf upload ame-la/danbooru-tags-data-zh tags tags --type dataset
+          hf upload ame-la/danbooru-tags-data-zh README.md README.md --type dataset
+          hf upload ame-la/danbooru-tags-data-zh LICENSE LICENSE --type dataset
