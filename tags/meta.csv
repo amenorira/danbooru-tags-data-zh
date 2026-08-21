@@ -1,410 +1,410 @@
 ﻿tag,category,aliases,zh,count,notes
-highres,5,high_res|high_resolution|hires,高分辨率,8019379,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-commentary_request,5,,请求注释翻译,6256207,danbooru wiki: 注释仅部分翻译需打此tag请求翻译 → 请求注释翻译
-commentary,5,commentaries,作者注释,3181971,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-absurdres,5,,超高分辨率,2933074,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_id,5,,错误ID,1439216,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-english_commentary,5,,英文注释,1296260,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_pixiv_id,5,,错误Pixiv ID,1099057,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-translation_request,5,,请求翻译,837763,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-photoshop_(medium),5,photoshop,Photoshop,709649,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-translated,5,translation,已翻译,649414,danbooru wiki: 图片带翻译注释；已翻译准确
-official_art,5,仕事绘|公式|工作图|版権绘,官方图,532114,danbooru wiki: 官方公司/画师所作图；官方图准确
-commission,5,artcommission|com|comission|comm|commissionart|commissionedart|commissions|commissionsart|付费委托|依赖绘|印象服设|委托|有偿依赖|服设|私人稿件|稿件展示|约稿展示,约稿,330116,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-chinese_commentary,5,simplified_chinese_commentary,中文注释,310571,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_twitter_id,5,,错误Twitter ID,248870,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-variant_set,5,,差分,225834,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-korean_commentary,5,,韩文注释,196921,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-non-web_source,5,,非网页来源,180815,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-partial_commentary,5,,部分译注,155589,danbooru wiki: commentary partially translated(通常标题已译) → 部分译注更准确
-artist_request,5,tagme_(artist),请求画师,142429,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-animated,5,animation,动画,130325,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-paid_reward_available,5,reward_available|付费内容,有付费内容,129409,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-traditional_media,5,handdrawn|traditional_art|traditionalart|手绘|素描,传统媒介,124775,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-copyright_request,5,series_request,请求作品,123066,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-md5_mismatch,5,,MD5不匹配,115304,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-lowres,5,,低分辨率,112263,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-skeb_commission,5,skeb,Skeb约稿,111283,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-large_variant_set,5,,大量差分,109423,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-third-party_source,5,搬运|盗作|转载|遗作,第三方来源,101601,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-second-party_source,5,来源:约稿方|第二方,第二方来源,97354,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-scan,5,,扫图,94090,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-mixed-language_commentary,5,,多语言注释,83712,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-revision,5,revised|修改|修正|修正版|加工|加笔,修订版,81946,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-character_request,5,tagme_(character),请求角色,72990,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_link,5,,错误链接,60422,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-spoilers,5,spoiler|spoiler_warning|tma_spoilers|捏他,剧透,46863,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-check_translation,5,,核对翻译,43689,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-pixiv_commission,5,pixiv_request,Pixiv约稿,43232,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-duplicate,5,dupe|repost,重复,42377,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-protected_link,5,,受保护链接,35929,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-source_request,5,cg_request|need_source|no_source,请求来源,34463,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-resolution_mismatch,5,,分辨率不匹配,32382,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-painting_(medium),5,canvas_(medium)|paint_(medium),绘画,30683,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-self-upload,5,self_upload,作者本人上传,29355,移除误译别名：作者自传=autobiography，与self-upload原义不符
-third-party_edit,5,cardedit|photoshopped|二改|加工|图改,第三方修改,27730,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-inactive_account,5,,账号停用,27537,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-jpeg_artifacts,5,jpeg_artefacts|jpg_artifacts,JPEG伪影,27320,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-textless_version,5,,无字版,27108,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-pixel-perfect_duplicate,5,,像素级重复,26840,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_source,5,,错误来源,26493,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-photo_(medium),5,摄影|撮影,照片,26387,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-derivative_work,5,derivative|plagiarism|临摹|描改|模写|盗作,二次创作,24684,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_tumblr_id,5,,错误Tumblr ID,24505,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-partially_translated,5,partial_translation|partly_translated,部分翻译,23297,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-unfinished,5,wip|work_in_progress|草稿|途中,未完成,23003,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-check_commentary,5,检查解说翻译,核对注释,22324,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-watercolor_(medium),5,watercolor|watercolour|水彩画|透明水彩,水彩,22265,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-dated_commentary,5,,带日期注释,21181,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-marker_(medium),5,copics,马克笔,18099,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-tall_image,5,,竖长图,17787,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-ai-generated,5,ai|ai-created|ai_generated|ai_generated_art|aigenerated|aigeneratedart,AI生成,17646,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-paid_reward,5,,付费内容,17511,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-source_smaller,5,,来源更小,17129,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-anime_screenshot,5,anime_screencap|screencap,动画截图,15629,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-hashtag-only_commentary,5,,仅标签注释,15534,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-alt_text,5,source_image_text,替代文本,15069,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-promotional_art,5,official_ad|宣伝绘|宣传绘,宣传图,14812,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-cropped,5,抠图|裁剪,裁切,14566,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-painttool_sai_(medium),5,paint_tool_sai|painttoolsai|painttoolsai2|sai,SAI,14425,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-making-of_available,5,作业工程,有制作过程,14205,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-source_larger,5,,来源更大,13781,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-commissioner_upload,5,,委托人上传,13582,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-graphite_(medium),5,graphite|pencil_(medium)|pencil_sketch|铅笔画,铅笔,13452,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-imageboard_desourced,5,,图站去源,13190,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-clip_studio_paint_(medium),5,clip_studio_paint|clipstudio|clipstudiopaint|comic_studio_(medium)|comicstudio|illust_studio_(medium)|illuststudio|manga_studio_(medium)|mangastudio,CLIP STUDIO PAINT,12881,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-photo-referenced,5,photo_reference|photo_study|photostudy|写真参考|写真模写|参考照片,照片参考,12210,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-corrupted_twitter_file,5,,损坏的Twitter文件,11545,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-image_sample,5,,图站缩略图,10984,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-artist_collaboration,5,artcollab|collab|multiple_artists|合作|合绘|绘画接龙,合作绘图,10539,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-adversarial_noise,5,glaze_artifacts|glaze_protected_image,对抗噪声,10470,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-official_wallpaper,5,,官方壁纸,10463,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-colorized,5,,上色,9770,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-novel_illustration,5,挿绘,小说插图,9196,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-patreon_reward,5,,Patreon内容,8968,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_deviantart_id,5,,错误DeviantArt ID,8966,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-off-topic,5,non-anime_related,跑题,8640,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-has_bad_revision,5,bad_revision,有劣质修订,8385,danbooru wiki: 源处存在不应上传的劣质revision → 有劣质修订(非损坏)
-concept_art,5,,概念图,8000,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-ai-assisted,5,ai_assisted|aiassisted,AI辅助,7971,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-procreate_(medium),5,procreate|procreate3|procreate4|procreateart,Procreate,7724,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-colored_pencil_(medium),5,pencil_crayon_(medium)|彩铅画|色铅笔|色铅笔画,彩铅,7477,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-clothing_request,5,,请求服装,7159,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-magazine_scan,5,,杂志扫图,7127,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-hard-translated,5,hard_translated|hard_translation|hardsub,硬翻,7091,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-mihuashi_commission,5,,米画师约稿,6849,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-resized,5,补分辨率,已缩放,6692,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-pen_(medium),5,,钢笔,6511,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-incredibly_absurdres,5,,极高分辨率,6508,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-spanish_commentary,5,,西班牙文注释,5793,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_nicoseiga_id,5,,错误Niconico静画ID,5751,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-screenshot,5,,截图,5346,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-making-of,5,making_of|绘画过程,制作过程,5174,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-screenshot_redraw,5,screencap_redraw,截图重绘,5156,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-artbook,5,,画集,4826,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-pixiv_sample,5,pixiv_manga_sample|pixiv_thumbnail,Pixiv缩略图,4780,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-mixed_media,5,,综合媒介,4685,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-flower_request,5,,请求花卉,4563,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-check_copyright,5,,核对作品,4420,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-blender_(medium),5,blender|blender3d,Blender,4235,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-scan_artifacts,5,bad_scan|scanner_artifacts|scanning_artifacts,扫图瑕疵,4016,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-tagme,5,,待补标签,3935,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-fanbox_reward,5,,Fanbox内容,3849,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-alternate_language,5,官方翻译版|正规翻訳版,其他语言版,3810,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-annotated,5,,有批注,3658,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-has_censored_revision,5,,有和谐修订,3646,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-merchandise_available,5,,有周边,3604,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-romaji_commentary,5,,罗马字注释,3549,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_lofter_id,5,,错误Lofter ID,3529,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-redrawn,5,,重绘,3430,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-stitched,5,stitch,拼接图,3409,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-key_visual,5,,主视觉图,3356,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-paint.net_(medium),5,,Paint.NET,3338,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-check_character,5,,核对角色,3285,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-archived_source,5,,存档来源,3248,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-thai_commentary,5,,泰文注释,3180,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-check_artist,5,,核对画师,3146,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-guest_art,5,商业绘图|商单|応援绘,嘉宾绘,3064,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-upscaled,5,upscale,超分放大,3055,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-acrylic_paint_(medium),5,acrylic_paint,丙烯,2886,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-multi-source_commentary,5,multiple_commentaries,多来源注释,2860,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-gift_art,5,,赠绘,2815,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-downscaled,5,,缩小,2771,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-production_art,5,概念图,制作资料图,2771,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-gender_request,5,,请求性别,2751,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_bcy_id,5,,错误半次元ID,2685,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_drawr_id,5,,错误Drawr ID,2666,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-wide_image,5,,横长图,2548,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-food_request,5,,请求食物,2499,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-millipen_(medium),5,millipen,针管笔,2481,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-russian_commentary,5,,俄文注释,2414,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-vgen_commission,5,vgen|vgencomm|vgencomms,VGen约稿,2380,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-nude_filter,5,nudefilter,去衣滤镜,2331,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-has_downscaled_revision,5,,有缩小修订,2264,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-gimp_(medium),5,gimp,GIMP,2212,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-weapon_request,5,,请求武器,2195,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-unconventional_media,5,,非常规媒介,2188,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-cosplay_photo,5,cosplay,角色扮演照片,2183,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-alpha_transparency,5,,透明通道,2081,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-ibispaint_(medium),5,ibispaint|ibispaintx|ibispaintxartist,ibisPaint,2040,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-vector_trace,5,,矢量描摹,2035,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-figure_(medium),5,,手办,2011,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-crease,5,,折痕,2006,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_imgur_id,5,,错误Imgur ID,1903,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-lossy-lossless,5,,有损转无损,1765,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-oil_painting_(medium),5,oil_painting|oilpainting|油彩|油绘,油画,1727,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-commentary_typo,5,,注释笔误,1595,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-nib_pen_(medium),5,fountain_pen_(medium)|nib_pen|tsukepen|万年笔,蘸水笔,1553,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-art_study,5,artstudy|studies|study,习作,1550,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-third-party_watermark,5,,第三方水印,1490,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-decensored,5,descensored,去码,1480,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-engrish_commentary,5,,生硬英文注释,1463,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-album_cover_redraw,5,,专辑封面重绘,1400,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_patreon_id,5,,错误Patreon ID,1391,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-self-portrait,5,self_portrait,自画像,1377,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-game_screenshot,5,,游戏截图,1334,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-detexted,5,,去字,1279,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-completion_time,5,drawing_time,完成耗时,1265,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-end_card,5,endcard,片尾卡,1262,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-koikatsu_(medium),5,koikatu,恋活,1241,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_nijie_id,5,,错误Nijie ID,1227,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-paint_chat_(medium),5,绘茶,绘聊,1205,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-aliasing,5,resampling_artifacts,锯齿,1197,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-microsoft_paint_(medium),5,ms_paint|ms_paint_(medium)|mspaint|mspaint_(medium),画图,1179,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-comic_panel_redraw,5,manga_panel_redraw,漫画分镜重绘,1161,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-mikumikudance_(medium),5,mikumikudance|mmd_(medium),MMD,1147,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-headwear_request,5,,请求头饰,1142,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-annotation_request,5,,请求批注,1138,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-ballpoint_pen_(medium),5,ballpoint_pen,圆珠笔,1070,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-source_mismatch,5,,来源不匹配,1050,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-fantia_reward,5,,Fantia内容,1041,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_instagram_id,5,,错误Instagram ID,992,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-ink_(medium),5,,墨水,974,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-psd_available,5,,有PSD,969,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_poipiku_id,5,,错误Poipiku ID,955,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-adoptable,5,adopt|adoptables|adoptableth|adopts,可领养设,953,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_weibo_id,5,,错误微博ID,942,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-check_clothing,5,,核对服装,923,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-object_request,5,check_object,请求物品,922,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-pdf_available,5,,有PDF,897,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-multilingual_commentary,5,,多语注释,889,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-french_commentary,5,,法文注释,837,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-calligraphy_brush_(medium),5,,毛笔,836,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-enty_reward,5,,Enty内容,835,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-watercolor_pencil_(medium),5,watercolor_pencil|watercolour_pencil|水彩色铅笔,水彩铅笔,834,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_fanbox_id,5,,错误Fanbox ID,811,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-waifu2x,5,,waifu2x放大,799,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-twitter_sample,5,,Twitter缩略图,797,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-tumblr_sample,5,,Tumblr缩略图,791,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-indonesian_commentary,5,,印尼文注释,770,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-hard-translated_(non-english),5,hard_translated_(non-english),非英文硬翻,744,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-krita_(medium),5,krita|kritaart,Krita,738,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-pastel_(medium),5,oil_pastel|oilpastel|oilpastels|pastel,粉彩,736,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-vehicle_request,5,car_request,请求载具,734,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_artstation_id,5,,错误ArtStation ID,720,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-costume_request,5,,请求衣装,718,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-eyecatch,5,eye_catch,过场图,717,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-third-party_extraction,5,,第三方提取,717,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-source_filmmaker_(medium),5,,Source Filmmaker,701,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-countdown_illustration,5,,倒计时图,695,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-thumbnail_collage,5,twitter_thumbnail_collage,缩略图拼贴,684,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-meme_request,5,,请求梗,682,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-parody_request,5,,请求恶搞对象,679,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-corrupted_metadata,5,corrupted_exif_data,元数据损坏,671,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-portuguese_commentary,5,,葡萄牙文注释,668,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-contest_winner,5,,比赛获奖,659,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_yandere_id,5,,错误Yandere ID,643,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-e-hentai_sample,5,ehentai_sample,E-Hentai缩略图,641,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-reverse_translation,5,,回译,641,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-artstation_sample,5,,ArtStation缩略图,632,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_piapro_id,5,,错误Piapro ID,614,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bmp-to-png_conversion,5,,BMP转PNG,610,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-deviantart_sample,5,,DeviantArt缩略图,604,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-mousepad_(medium),5,,鼠标垫,604,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-partially_annotated,5,,部分批注,604,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-papercraft_(medium),5,,纸艺,593,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-figure_available,5,,有手办,590,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-ko-fi_commission,5,,Ko-fi约稿,587,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-video_thumbnail,5,,视频封面,583,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-tegaki_draw_and_tweet,5,tegaki_dt,手绘发推,574,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-exif_rotation,5,,EXIF旋转,540,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-rotated,5,,已旋转,533,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-headshop,5,,换头,531,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-cosplay_request,5,,请求角色扮演,530,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-vietnamese_commentary,5,,越南文注释,517,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-german_commentary,5,,德文注释,515,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-yandere_sample,5,,Yandere缩略图,496,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-art_trade,5,arttrade,交换绘,477,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-game_model,5,,游戏模型,456,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-medium_request,5,,请求媒介,429,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_fantia_id,5,,错误Fantia ID,418,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-corrupted_file,5,corrupted_image|corrupted_video,文件损坏,413,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-animal_request,5,,请求动物,411,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-hairstyle_request,5,check_hairstyle|hair_request|hair_style_request,请求发型,389,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-fanfiction_available,5,,有同人小说,385,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-magazine_request,5,,请求杂志,385,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-plant_request,5,,请求植物,378,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-has_watermarked_revision,5,,有水印修订,364,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-animated_png,5,,动态PNG,356,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bird_request,5,,请求鸟类,355,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-ugoira_conversion,5,,动图转换,352,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-zbrush_(medium),5,zbrush,ZBrush,347,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-masking_tape_(medium),5,washi_tape_(medium),美纹纸胶带,342,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-color_ink_(medium),5,,彩色墨水,310,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-check_gender,5,,核对性别,307,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-stable_diffusion,5,stablediffusion,Stable Diffusion,296,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-pose_request,5,posture_request,请求姿势,295,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_daum_id,5,,错误Daum ID,294,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_pawoo_id,5,,错误Pawoo ID,294,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-lossless-lossy,5,,无损转有损,286,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-app_filter,5,,应用滤镜,282,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-reversed,5,,左右翻转,282,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-medibang_paint_(medium),5,mediabangpaint|medibangpaint|medibangpaintpro,MediBang Paint,280,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-missing_commentary,5,,缺少注释,278,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-video_game_cover_redraw,5,,游戏封面重绘,274,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-italian_commentary,5,,意大利文注释,271,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-gouache_(medium),5,gouache|不透明水彩,水粉,264,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-has_cropped_revision,5,,有裁切修订,263,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-color_halftone,5,screening,半色调,259,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-mecha_request,5,check_mecha|mecha_to_identify,请求机甲,257,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-collage_(medium),5,,拼贴,254,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-character_counter_request,5,,请求角色计数,251,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-gumroad_reward,5,,Gumroad内容,244,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-custom_maid_3d_2,5,,定制女仆3D2,238,VNDB官方简体译名系列为3D定制女仆(COM3D2=3D定制女仆2)；CM3D2社区通用译名=定制女仆3D2
-thumbnail_surprise,5,,缩略图反差,235,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-reference_request,5,,请求参考,229,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-nai_diffusion,5,novelaidiffusion|novelaidiffusionv3|novelaidiffusionv4,NovelAI,227,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-hair_ornament_request,5,,请求发饰,224,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-gibberish_commentary,5,,乱码注释,223,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-aseprite_(medium),5,aseprite,Aseprite,222,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-song_request,5,,请求歌曲,215,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-blueprint_(medium),5,図面,蓝图,214,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-check_source,5,,核对来源,213,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_tinami_id,5,,错误Tinami ID,210,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-gesture_request,5,,请求手势,207,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_aspect_ratio,5,,错误宽高比,204,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-recolored,5,,重上色,203,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_postype_id,5,,错误Postype ID,197,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-autodesk_3ds_max_(medium),5,3ds_max,3ds Max,195,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_newgrounds_id,5,,错误Newgrounds ID,195,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-meme_attire_request,5,,请求梗服装,191,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-fixed,5,,已修复,189,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-zip_available,5,,有压缩包,188,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-style_request,5,,请求画风,179,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bleed_through,5,,透背,178,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-acrylic_stand_(medium),5,,亚克力立牌,177,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-neckwear_request,5,,请求颈饰,177,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-color_banding,5,posterization,色带,176,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-animal_ear_request,5,,请求兽耳,164,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-lego_(medium),5,lego|legomech,乐高,164,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-food_art_(medium),5,,食物艺术,162,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-metadata_reference,5,filesize_reference|metadata_pun|resolution_reference,元数据参考,162,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-paper_cutout_(medium),5,,剪纸,161,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-nicoseiga_sample,5,,Niconico静画缩略图,160,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-creature_request,5,,请求生物,154,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_drawcrowd_id,5,,错误Drawcrowd ID,152,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_blogspot_id,5,bad_blogger_id,错误Blogspot ID,151,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-naver_sample,5,,Naver缩略图,150,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-has_artifacted_revision,5,,有压缩瑕疵修订,144,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-latin_commentary,5,,拉丁文注释,142,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-cleaned,5,,已清理,141,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-nurimas,5,,涂色挑战,139,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-footwear_request,5,,请求鞋子,131,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-location_request,5,,请求地点,129,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-crayon_(medium),5,,蜡笔,120,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-fish_request,5,,请求鱼类,120,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-ukrainian_commentary,5,,乌克兰文注释,120,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-color_issue,5,,色彩问题,117,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-twitter_banner,5,,Twitter横幅,115,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-kisekae,5,,换装人偶,114,danbooru wiki: kisekae=换装纸娃娃/Flash换装游戏 → 换装人偶
-dog_request,5,,请求狗,112,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-mojibake_commentary,5,,乱码注释,112,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-cinema_4d_(medium),5,,Cinema 4D,110,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-brush_(medium),5,,画笔,109,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-poorly_translated,5,,翻译质量差,105,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-avatar_generator,5,,头像生成器,102,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-has_lossy_revision,5,,有有损修订,102,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-instrument_request,5,check_instrument,请求乐器,102,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_fandom_id,5,,错误Fandom ID,95,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-adobe_illustrator_(medium),5,,Adobe Illustrator,92,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-constellation_request,5,,请求星座,91,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-picrew_(medium),5,,Picrew,91,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-vrchat_(medium),5,vrc|vrchat,VRChat,88,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-binding_discoloration,5,,装订变色,82,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-fake_translation,5,,假翻译,80,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-airbrush_(medium),5,,喷枪,79,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-charcoal_(medium),5,,木炭,78,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-exif_thumbnail_surprise,5,,EXIF缩略图反差,77,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-daz_studio_(medium),5,daz-studio|dazstudio,Daz Studio,75,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-reference_photo,5,,参考照片,73,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_google+_id,5,,错误Google+ ID,72,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_cgsociety_id,5,,错误CGSociety ID,70,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-bad_e-hentai_id,5,,错误E-Hentai ID,70,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-webp-to-png_conversion,5,,WebP转PNG,70,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-acrylic_gouache_(medium),5,,丙烯水粉,69,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-coupy_pencil_(medium),5,,Coupy铅笔,64,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-midjourney,5,midjourneyv61|nijijourney|nijijourneyv5|nijijourneyv6,Midjourney,64,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-noise_reduction,5,,降噪,62,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-wallpaper_forced,5,,强行壁纸化,61,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-vector_art,5,,矢量图,60,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-reference_work_request,5,,请求参考作品,58,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-zalgo_commentary,5,,扭曲文字注释,58,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-drawcrowd_sample,5,,Drawcrowd缩略图,54,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-fantia_commission,5,,Fantia约稿,53,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-postcard_(medium),5,,明信片,52,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-whiteboard_(medium),5,,白板,32,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-chalk_(medium),5,,粉笔,24,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-dall-e,5,dalle|dalle2|dalle3,DALL·E,12,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-flyer_(medium),5,,传单,7,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-abyss_orange_mix,5,,AbyssOrangeMix,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-animaginexl,5,,Animagine XL,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-anything_(model),5,,Anything,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-anythingelse,5,,AnythingElse,,WD词典Model类模型名，danbooru无此tag，模型名保留原名
-asian,5,,亚洲人,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-autismmix,5,,AutismMix,,Civitai模型 AutismMix，模型名保留原名
-bad_hentai-foundry_id,5,,错误Hentai Foundry ID,,与bad_pixiv_id等模式一致：错误+站点名+ID
-bad_quality,5,,质量差,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-based_mix,5,,BasedMix,,Civitai模型 based mix，模型名保留原名
-best_quality,5,,质量最好,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-canvas_(medium),5,,画布,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-cat_tower_(model),5,,猫塔（模型）,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-chinese_(nationality),5,,中国国籍,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-collaboration_request,5,,请求合作,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-counterfeit_(model),5,,Counterfeit,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-doujinshi,5,,同人志,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-explicit,5,rating_explicit,露骨,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-extraction,5,,提取,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-game_cg,5,,游戏CG,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-general,5,rating_general,全年龄,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-gyozanmix,5,,GyozanMix,,Civitai模型 gyozan mix，模型名保留原名
-hassaku_xl_(pony),5,,Hassaku XL,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-huge_filesize,5,,超大文件,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-illustrious-xl,5,,Illustrious XL,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-japanese_(nationality),5,,日本国籍,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-japanese_commentary,5,,日文注释,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-korean_(nationality),5,,韩国国籍,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-merchandise_(medium),5,,周边商品,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-metadata_pun,5,,元数据梗,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-metadata_request,5,,元数据请求,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-model_request,5,,请求模型,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-nijijourney,5,,Niji Journey,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-non-asian,5,,非亚洲人,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-noobai-xl,5,,NoobAI XL,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-normal_quality,5,,质量一般,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-novelai,5,,NovelAI,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-number-only_commentary,5,,纯数字评论,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-phone_screenshot,5,,手机截图,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-pony_diffusion_xl,5,,Pony Diffusion XL,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-promotional_menu,5,,宣传菜单,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-questionable,5,rating_questionable,擦边,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-sensitive,5,rating_sensitive,敏感,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-stable_diffusion_(model),5,,Stable Diffusion,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-stable_diffusion_xl,5,,Stable Diffusion XL,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-symbol-only_commentary,5,,纯符号评论,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-t-ponynaiv3,5,,T-ponynai3,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-trinart,5,,TrinArt,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-twitter_thumbnail_collage,5,,推特缩略图拼贴,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-wai-nsfw-illustrious-sdxl,5,,WAI NSFW Illustrious SDXL,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-waifu_diffusion,5,,Waifu Diffusion,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-worst_quality,5,,质量最差,,全文dump逐条审阅：zh与danbooru语义相符，无需改动
-zuki_cute_ill,5,,ZUKI cute ILL,,Civitai模型 ZUKI new cute ILL，模型名保留原名
+highres,5,high_res|high_resolution|hires,高分辨率,8019379,宽或高至少1600像素的高分辨率图
+commentary_request,5,,请求注释翻译,6256207,画师注释尚未完全译成英文时使用
+commentary,5,commentaries,作者注释,3181971,画师注释（作者对作品的文字说明）
+absurdres,5,,超高分辨率,2933074,宽或高至少3200像素的超高分辨率图
+bad_id,5,,错误ID,1439216,原来源链接已失效（图被删或设私）的帖子
+english_commentary,5,,英文注释,1296260,画师注释原文为英文
+bad_pixiv_id,5,,错误Pixiv ID,1099057,Pixiv 原图已不可见（被删或设私）
+translation_request,5,,请求翻译,837763,图中非英文文字需要翻译成英文的请求
+photoshop_(medium),5,photoshop,Photoshop,709649,用 Adobe Photoshop 制作的作品
+translated,5,translation,已翻译,649414,图片注释已完整翻译成英文
+official_art,5,仕事绘|公式|工作图|版権绘,官方图,532114,官方公司或画师本人的官方图
+commission,5,artcommission|com|comission|comm|commissionart|commissionedart|commissions|commissionsart|付费委托|依赖绘|印象服设|委托|有偿依赖|服设|私人稿件|稿件展示|约稿展示,约稿,330116,付费委托画师绘制的约稿作品
+chinese_commentary,5,simplified_chinese_commentary,中文注释,310571,画师注释包含中文
+bad_twitter_id,5,,错误Twitter ID,248870,Twitter 原帖已不可见
+variant_set,5,,差分,225834,原图加一个或多个变体的差分图组
+korean_commentary,5,,韩文注释,196921,画师注释为韩文
+non-web_source,5,,非网页来源,180815,来源是纯文字说明而非网页链接
+partial_commentary,5,,部分译注,155589,注释只翻译了一部分（通常含标题）
+artist_request,5,tagme_(artist),请求画师,142429,请求识别帖子画师的标签
+animated,5,animation,动画,130325,动图或动画片段（GIF、APNG、视频等）
+paid_reward_available,5,reward_available|付费内容,有付费内容,129409,画师提供付费版本或相关素材
+traditional_media,5,handdrawn|traditional_art|traditionalart|手绘|素描,传统媒介,124775,用铅笔、马克笔、颜料等传统工具绘制
+copyright_request,5,series_request,请求作品,123066,请求识别帖子所属作品的标签
+md5_mismatch,5,,MD5不匹配,115304,文件 MD5 与来源不一致（来源有改动）
+lowres,5,,低分辨率,112263,宽高均小于500像素的低分辨率图
+skeb_commission,5,skeb,Skeb约稿,111283,通过 Skeb 平台约稿的作品
+large_variant_set,5,,大量差分,109423,含6张以上图片的大型差分组
+third-party_source,5,搬运|盗作|转载|遗作,第三方来源,101601,来源为画师或官方以外的第三方网站
+second-party_source,5,来源:约稿方|第二方,第二方来源,97354,来源为画师账号代发的转贴账号
+scan,5,,扫图,94090,从书刊、海报等实体媒介扫描的图片
+mixed-language_commentary,5,,多语言注释,83712,注释混用多种语言
+revision,5,revised|修改|修正|修正版|加工|加笔,修订版,81946,画师修图后的修订版本
+character_request,5,tagme_(character),请求角色,72990,请求识别帖中角色的标签
+bad_link,5,,错误链接,60422,来源直接指向图片文件而非所在页面
+spoilers,5,spoiler|spoiler_warning|tma_spoilers|捏他,剧透,46863,剧透内容相关的帖子
+check_translation,5,,核对翻译,43689,翻译已完成、需第二人复核
+pixiv_commission,5,pixiv_request,Pixiv约稿,43232,通过 Pixiv 约稿功能委托的作品
+duplicate,5,dupe|repost,重复,42377,与站内已有帖子相同或更差的重复贴
+protected_link,5,,受保护链接,35929,来源仅对特定用户可见（如关注者限定）
+source_request,5,cg_request|need_source|no_source,请求来源,34463,请求补充图片来源的标签
+resolution_mismatch,5,,分辨率不匹配,32382,站内图片与来源分辨率不一致
+painting_(medium),5,canvas_(medium)|paint_(medium),绘画,30683,用颜料绘制的画作（油画、水彩、丙烯等）
+self-upload,5,self_upload,作者本人上传,29355,作品作者本人上传的图片
+third-party_edit,5,cardedit|photoshopped|二改|加工|图改,第三方修改,27730,画师以外的人修改过的图片
+inactive_account,5,,账号停用,27537,来源账号已停用、冻结或注销
+jpeg_artifacts,5,jpeg_artefacts|jpg_artifacts,JPEG伪影,27320,JPEG 压缩产生的块状噪点等画质瑕疵
+textless_version,5,,无字版,27108,去掉文字的无字版图片
+pixel-perfect_duplicate,5,,像素级重复,26840,与原帖逐像素完全相同的重复图
+bad_source,5,,错误来源,26493,来源链接无法直接到达原图或原页面
+photo_(medium),5,摄影|撮影,照片,26387,相机拍摄的照片
+derivative_work,5,derivative|plagiarism|临摹|描改|模写|盗作,二次创作,24684,部分或全部参考其他作品的再创作
+bad_tumblr_id,5,,错误Tumblr ID,24505,Tumblr 原帖已不可见
+partially_translated,5,partial_translation|partly_translated,部分翻译,23297,带翻译批注的部分翻译帖
+unfinished,5,wip|work_in_progress|草稿|途中,未完成,23003,未完成的作品（草稿、线稿、平涂等）
+check_commentary,5,检查解说翻译,核对注释,22324,注释翻译完成、需第二人复核
+watercolor_(medium),5,watercolor|watercolour|水彩画|透明水彩,水彩,22265,水彩画
+dated_commentary,5,,带日期注释,21181,注释中标有创作日期
+marker_(medium),5,copics,马克笔,18099,用马克笔（如 Copic）绘制
+tall_image,5,,竖长图,17787,高≥1024像素、长宽比≥4:1的竖长图
+ai-generated,5,ai|ai-created|ai_generated|ai_generated_art|aigenerated|aigeneratedart,AI生成,17646,由 AI 生成的图片或视频
+paid_reward,5,,付费内容,17511,Patreon、Gumroad 等平台的付费赞助图
+source_smaller,5,,来源更小,17129,来源图片比站内分辨率更小
+anime_screenshot,5,anime_screencap|screencap,动画截图,15629,动画截图（含 GIF/视频片段）
+hashtag-only_commentary,5,,仅标签注释,15534,仅含话题标签的注释，该标签已停用
+alt_text,5,source_image_text,替代文本,15069,带 alt 替代文字说明的图片
+promotional_art,5,official_ad|宣伝绘|宣传绘,宣传图,14812,动画、漫画等活动用的宣传图
+cropped,5,抠图|裁剪,裁切,14566,大图中裁切出来的部分
+painttool_sai_(medium),5,paint_tool_sai|painttoolsai|painttoolsai2|sai,SAI,14425,用 PaintTool SAI 制作或编辑
+making-of_available,5,作业工程,有制作过程,14205,有制作过程视频或图片可查看
+source_larger,5,,来源更大,13781,来源图片比站内分辨率更大
+commissioner_upload,5,,委托人上传,13582,委托人本人上传的约稿作品
+graphite_(medium),5,graphite|pencil_(medium)|pencil_sketch|铅笔画,铅笔,13452,用铅笔绘制的作品
+imageboard_desourced,5,,图站去源,13190,来源被改写为图站通用地址的历史遗留标签
+clip_studio_paint_(medium),5,clip_studio_paint|clipstudio|clipstudiopaint|comic_studio_(medium)|comicstudio|illust_studio_(medium)|illuststudio|manga_studio_(medium)|mangastudio,CLIP STUDIO PAINT,12881,用 Clip Studio Paint 制作或编辑
+photo-referenced,5,photo_reference|photo_study|photostudy|写真参考|写真模写|参考照片,照片参考,12210,以照片为参考创作的图片
+corrupted_twitter_file,5,,损坏的Twitter文件,11545,被 Twitter 压缩损坏的图（条纹状瑕疵）
+image_sample,5,,图站缩略图,10984,网站为省流量生成的压缩缩略图
+artist_collaboration,5,artcollab|collab|multiple_artists|合作|合绘|绘画接龙,合作绘图,10539,多位画师合作完成的图
+adversarial_noise,5,glaze_artifacts|glaze_protected_image,对抗噪声,10470,加了防 AI 学习的对抗噪点（Glaze 等）
+official_wallpaper,5,,官方壁纸,10463,官方发布的壁纸
+colorized,5,,上色,9770,黑白原图上色的版本
+novel_illustration,5,挿绘,小说插图,9196,小说中的官方插图
+patreon_reward,5,,Patreon内容,8968,Patreon 的付费赞助图
+bad_deviantart_id,5,,错误DeviantArt ID,8966,DeviantArt 原帖已不可见
+off-topic,5,non-anime_related,跑题,8640,与 Danbooru 主题无关的帖子
+has_bad_revision,5,bad_revision,有劣质修订,8385,来源修订版质量差、不应上传
+concept_art,5,,概念图,8000,设计阶段的概念图
+ai-assisted,5,ai_assisted|aiassisted,AI辅助,7971,AI 生成后经画师修正润色的作品
+procreate_(medium),5,procreate|procreate3|procreate4|procreateart,Procreate,7724,用 iPad 绘画应用 Procreate 绘制
+colored_pencil_(medium),5,pencil_crayon_(medium)|彩铅画|色铅笔|色铅笔画,彩铅,7477,彩色铅笔画
+clothing_request,5,,请求服装,7159,请求识别服饰具体类型的标签
+magazine_scan,5,,杂志扫图,7127,杂志内页扫描图
+hard-translated,5,hard_translated|hard_translation|hardsub,硬翻,7091,第三方把日文等原文替换成英文的硬翻图
+mihuashi_commission,5,,米画师约稿,6849,通过米画师平台约稿的作品
+resized,5,补分辨率,已缩放,6692,尺寸被改动过的图片
+pen_(medium),5,,钢笔,6511,钢笔画
+incredibly_absurdres,5,,极高分辨率,6508,宽或高≥10000像素的极高分辨率图
+spanish_commentary,5,,西班牙文注释,5793,注释为西班牙文
+bad_nicoseiga_id,5,,错误Niconico静画ID,5751,Niconico 静画原图已不可见
+screenshot,5,,截图,5346,动画、游戏以外的截图
+making-of,5,making_of|绘画过程,制作过程,5174,展示图片绘制过程的图或视频
+screenshot_redraw,5,screencap_redraw,截图重绘,5156,画师重绘真实截图的图
+artbook,5,,画集,4826,画集中的扫描图
+pixiv_sample,5,pixiv_manga_sample|pixiv_thumbnail,Pixiv缩略图,4780,Pixiv 缩略图而非原图
+mixed_media,5,,综合媒介,4685,综合多种媒介、材料创作的作品
+flower_request,5,,请求花卉,4563,请求识别图中花卉种类的标签
+check_copyright,5,,核对作品,4420,作品归属已识别、需第二人复核
+blender_(medium),5,blender|blender3d,Blender,4235,用 Blender 制作的图像或动画
+scan_artifacts,5,bad_scan|scanner_artifacts|scanning_artifacts,扫图瑕疵,4016,扫描产生的瑕疵（折痕、变色等）
+tagme,5,,待补标签,3935,缺标签但一时叫不出名字时使用
+fanbox_reward,5,,Fanbox内容,3849,Pixiv FANBOX 的付费赞助图
+alternate_language,5,官方翻译版|正规翻訳版,其他语言版,3810,硬翻成其他语言（多为英文）的版本
+annotated,5,,有批注,3658,带翻译批注、标出角色或物品的图
+has_censored_revision,5,,有和谐修订,3646,来源修订版被加码或加大遮挡
+merchandise_available,5,,有周边,3604,以此为原型有周边商品（手办、徽章等）
+romaji_commentary,5,,罗马字注释,3549,注释为罗马字书写
+bad_lofter_id,5,,错误Lofter ID,3529,Lofter 原帖已不可见
+redrawn,5,,重绘,3430,画师完全重绘的版本（常为对比进步）
+stitched,5,stitch,拼接图,3409,多张图拼接成一张的图
+key_visual,5,,主视觉图,3356,动画公司发布的主视觉图
+paint.net_(medium),5,,Paint.NET,3338,用 Paint.NET 制作或编辑
+check_character,5,,核对角色,3285,角色已识别、需第二人复核
+archived_source,5,,存档来源,3248,来源为存档链接而非原链接
+thai_commentary,5,,泰文注释,3180,注释为泰文
+check_artist,5,,核对画师,3146,画师已识别、需第二人复核
+guest_art,5,商业绘图|商单|応援绘,嘉宾绘,3064,客座画师绘制的官方图
+upscaled,5,upscale,超分放大,3055,超分放大的图
+acrylic_paint_(medium),5,acrylic_paint,丙烯,2886,丙烯画
+multi-source_commentary,5,multiple_commentaries,多来源注释,2860,注释来自多个来源
+gift_art,5,,赠绘,2815,画师送给他人的赠图
+downscaled,5,,缩小,2771,缩小尺寸的图
+production_art,5,概念图,制作资料图,2771,动画制作过程中的资料图或未完成稿
+gender_request,5,,请求性别,2751,请求识别角色性别的标签
+bad_bcy_id,5,,错误半次元ID,2685,半次元站已停服，原帖不可见
+bad_drawr_id,5,,错误Drawr ID,2666,drawr 站已停服，原帖不可见
+wide_image,5,,横长图,2548,宽≥1024像素、长宽比≥4:1的横长图
+food_request,5,,请求食物,2499,请求识别图中食物种类的标签
+millipen_(medium),5,millipen,针管笔,2481,用针管笔（ミリペン）绘制
+russian_commentary,5,,俄文注释,2414,注释为俄文
+vgen_commission,5,vgen|vgencomm|vgencomms,VGen约稿,2380,通过 VGen 平台约稿的作品
+nude_filter,5,nudefilter,去衣滤镜,2331,第三方修图去除衣物（或使其裸露）的图
+has_downscaled_revision,5,,有缩小修订,2264,来源修订版为缩小版
+gimp_(medium),5,gimp,GIMP,2212,用 GIMP 制作或编辑
+weapon_request,5,,请求武器,2195,请求识别图中武器的标签
+unconventional_media,5,,非常规媒介,2188,用非常规材料和技法创作的作品
+cosplay_photo,5,cosplay,角色扮演照片,2183,现实中的 cosplay 照片
+alpha_transparency,5,,透明通道,2081,含半透明区域的图片
+ibispaint_(medium),5,ibispaint|ibispaintx|ibispaintxartist,ibisPaint,2040,用 ibisPaint 制作或编辑
+vector_trace,5,,矢量描摹,2035,矢量软件描摹后转成位图的图
+figure_(medium),5,,手办,2011,手办实拍照片
+crease,5,,折痕,2006,扫描图上的折痕
+bad_imgur_id,5,,错误Imgur ID,1903,Imgur 原图已不可见
+lossy-lossless,5,,有损转无损,1765,有损格式转成无损格式（多为 PNG）
+oil_painting_(medium),5,oil_painting|oilpainting|油彩|油绘,油画,1727,油画
+commentary_typo,5,,注释笔误,1595,注释中的笔误
+nib_pen_(medium),5,fountain_pen_(medium)|nib_pen|tsukepen|万年笔,蘸水笔,1553,蘸水笔画
+art_study,5,artstudy|studies|study,习作,1550,为练习而画的习作
+third-party_watermark,5,,第三方水印,1490,第三方网站（图库等）加的水印
+decensored,5,descensored,去码,1480,原图有码、此版本去码
+engrish_commentary,5,,生硬英文注释,1463,注释为生硬不自然的英文
+album_cover_redraw,5,,专辑封面重绘,1400,重绘专辑封面（常为恶搞）
+bad_patreon_id,5,,错误Patreon ID,1391,Patreon 失效链接
+self-portrait,5,self_portrait,自画像,1377,画师的自画像
+game_screenshot,5,,游戏截图,1334,游戏截图
+detexted,5,,去字,1279,去除文字后的版本
+completion_time,5,drawing_time,完成耗时,1265,标注了完成耗时的图
+end_card,5,endcard,片尾卡,1262,动画片尾的插图（常为客座画师绘制）
+koikatsu_(medium),5,koikatu,恋活,1241,用恋活制作的3D图或动画
+bad_nijie_id,5,,错误Nijie ID,1227,Nijie 原帖已不可见
+paint_chat_(medium),5,绘茶,绘聊,1205,多人协作绘画网站（Magma 等）的作品
+aliasing,5,resampling_artifacts,锯齿,1197,线条呈锯齿状的画质缺陷
+microsoft_paint_(medium),5,ms_paint|ms_paint_(medium)|mspaint|mspaint_(medium),画图,1179,用 Microsoft Paint 制作或编辑
+comic_panel_redraw,5,manga_panel_redraw,漫画分镜重绘,1161,重绘漫画或同人志分镜的画
+mikumikudance_(medium),5,mikumikudance|mmd_(medium),MMD,1147,用 MMD 制作的3D动画或静图
+headwear_request,5,,请求头饰,1142,请求识别帽子等头饰类型的标签
+annotation_request,5,,请求批注,1138,请求给图中角色加翻译批注的标签
+ballpoint_pen_(medium),5,ballpoint_pen,圆珠笔,1070,圆珠笔画
+source_mismatch,5,,来源不匹配,1050,来源链接疑似失效或指向错误内容
+fantia_reward,5,,Fantia内容,1041,Fantia 的付费赞助图
+bad_instagram_id,5,,错误Instagram ID,992,Instagram 失效链接
+ink_(medium),5,,墨水,974,墨笔画
+psd_available,5,,有PSD,969,有 PSD 源文件可获取
+bad_poipiku_id,5,,错误Poipiku ID,955,Poipiku 原图已不可见
+adoptable,5,adopt|adoptables|adoptableth|adopts,可领养设,953,画师出售的原创角色设定（领养设）
+bad_weibo_id,5,,错误微博ID,942,微博原帖已不可见
+check_clothing,5,,核对服装,923,服饰已识别、需第二人复核
+object_request,5,check_object,请求物品,922,请求识别图中物品名称的标签
+pdf_available,5,,有PDF,897,有 PDF 文件可获取
+multilingual_commentary,5,,多语注释,889,注释用两种以上语言重复书写
+french_commentary,5,,法文注释,837,注释为法文
+calligraphy_brush_(medium),5,,毛笔,836,毛笔字或毛笔作画
+enty_reward,5,,Enty内容,835,Enty 的付费赞助图
+watercolor_pencil_(medium),5,watercolor_pencil|watercolour_pencil|水彩色铅笔,水彩铅笔,834,水彩铅笔画
+bad_fanbox_id,5,,错误Fanbox ID,811,Pixiv FANBOX 失效链接
+waifu2x,5,,waifu2x放大,799,用 waifu2x 超分放大的图
+twitter_sample,5,,Twitter缩略图,797,Twitter 缩略图而非原图
+tumblr_sample,5,,Tumblr缩略图,791,Tumblr 缩略图而非原图
+indonesian_commentary,5,,印尼文注释,770,注释为印尼文
+hard-translated_(non-english),5,hard_translated_(non-english),非英文硬翻,744,硬翻成英文以外语言的图
+krita_(medium),5,krita|kritaart,Krita,738,用 Krita 制作或编辑
+pastel_(medium),5,oil_pastel|oilpastel|oilpastels|pastel,粉彩,736,粉彩画
+vehicle_request,5,car_request,请求载具,734,请求识别图中车辆型号或类型的标签
+bad_artstation_id,5,,错误ArtStation ID,720,ArtStation 原帖已不可见
+costume_request,5,,请求衣装,718,请求识别角色换装服饰的标签
+eyecatch,5,eye_catch,过场图,717,动画过场或漫画章首的大图
+third-party_extraction,5,,第三方提取,717,从原图抠出角色的第三方提取图
+source_filmmaker_(medium),5,,Source Filmmaker,701,用 Source Filmmaker 制作的图或动画
+countdown_illustration,5,,倒计时图,695,活动或发售前的倒计时插图
+thumbnail_collage,5,twitter_thumbnail_collage,缩略图拼贴,684,多张图拼在一起才完整的拼接图
+meme_request,5,,请求梗,682,请求识别图中梗（meme）的标签
+parody_request,5,,请求恶搞对象,679,请求识别恶搞对象出处的标签
+corrupted_metadata,5,corrupted_exif_data,元数据损坏,671,EXIF 等元数据损坏的图
+portuguese_commentary,5,,葡萄牙文注释,668,注释为葡萄牙文
+contest_winner,5,,比赛获奖,659,比赛获奖作品
+bad_yandere_id,5,,错误Yandere ID,643,Yandere 原图已不可见
+e-hentai_sample,5,ehentai_sample,E-Hentai缩略图,641,E-Hentai 缩略图而非原图
+reverse_translation,5,,回译,641,英文被回译成其他语言（多为日文）的图
+artstation_sample,5,,ArtStation缩略图,632,ArtStation 缩略图而非原图
+bad_piapro_id,5,,错误Piapro ID,614,Piapro 原图已不可见
+bmp-to-png_conversion,5,,BMP转PNG,610,上传前从 BMP 转成 PNG 的图
+deviantart_sample,5,,DeviantArt缩略图,604,DeviantArt 缩略图而非原图
+mousepad_(medium),5,,鼠标垫,604,鼠标垫形状的图
+partially_annotated,5,,部分批注,604,只有部分角色或物品被批注的图
+papercraft_(medium),5,,纸艺,593,纸艺（纸模、剪纸、折纸等）
+figure_available,5,,有手办,590,以此为原型的实体手办
+ko-fi_commission,5,,Ko-fi约稿,587,通过 Ko-fi 约稿的作品
+video_thumbnail,5,,视频封面,583,用作视频封面的图
+tegaki_draw_and_tweet,5,tegaki_dt,手绘发推,574,用 tegaki 手绘工具画的图
+exif_rotation,5,,EXIF旋转,540,靠 EXIF 元数据指定旋转方向的图
+rotated,5,,已旋转,533,整图旋转（多为修正竖图或倒图）
+headshop,5,,换头,531,第三人换头（把角色头部换成别人的）
+cosplay_request,5,,请求角色扮演,530,请求识别图中 cosplay 对象的标签
+vietnamese_commentary,5,,越南文注释,517,注释为越南文
+german_commentary,5,,德文注释,515,注释为德文
+yandere_sample,5,,Yandere缩略图,496,Yande.re 缩略图而非原图
+art_trade,5,arttrade,交换绘,477,两位画师互相交换的交换绘
+game_model,5,,游戏模型,456,描绘角色游戏建模的图
+medium_request,5,,请求媒介,429,请求识别创作媒介的标签
+bad_fantia_id,5,,错误Fantia ID,418,Fantia 失效链接
+corrupted_file,5,corrupted_image|corrupted_video,文件损坏,413,损坏（残缺）的图片文件
+animal_request,5,,请求动物,411,请求识别图中动物的标签
+hairstyle_request,5,check_hairstyle|hair_request|hair_style_request,请求发型,389,请求识别发型类型的标签
+fanfiction_available,5,,有同人小说,385,配合线上同人小说创作的图
+magazine_request,5,,请求杂志,385,请求识别扫描图出处杂志的标签
+plant_request,5,,请求植物,378,请求识别图中植物的标签
+has_watermarked_revision,5,,有水印修订,364,来源修订版带水印
+animated_png,5,,动态PNG,356,APNG 格式的动态图
+bird_request,5,,请求鸟类,355,请求补具体鸟类标签的标签
+ugoira_conversion,5,,动图转换,352,Pixiv 动图转成其他动图或视频格式
+zbrush_(medium),5,zbrush,ZBrush,347,用 ZBrush 制作的3D作品
+masking_tape_(medium),5,washi_tape_(medium),美纹纸胶带,342,美纹纸胶带拼贴艺术
+color_ink_(medium),5,,彩色墨水,310,彩色墨水面
+check_gender,5,,核对性别,307,性别已识别、需第二人复核
+stable_diffusion,5,stablediffusion,Stable Diffusion,296,用 Stable Diffusion 生成的 AI 图
+pose_request,5,posture_request,请求姿势,295,请求识别姿势或体态标签的标签
+bad_daum_id,5,,错误Daum ID,294,Daum 原图已不可见
+bad_pawoo_id,5,,错误Pawoo ID,294,Pawoo 原帖已不可见
+lossless-lossy,5,,无损转有损,286,无损格式转成有损格式（如 PNG 转 JPG）
+app_filter,5,,应用滤镜,282,创作后用其他应用加的滤镜
+reversed,5,,左右翻转,282,整图左右翻转（常为第三方修改）
+medibang_paint_(medium),5,mediabangpaint|medibangpaint|medibangpaintpro,MediBang Paint,280,用 MediBang Paint 制作或编辑
+missing_commentary,5,,缺少注释,278,注释暂时抓取不到时临时使用
+video_game_cover_redraw,5,,游戏封面重绘,274,重绘游戏封面（常为恶搞）
+italian_commentary,5,,意大利文注释,271,注释为意大利文
+gouache_(medium),5,gouache|不透明水彩,水粉,264,水粉画
+has_cropped_revision,5,,有裁切修订,263,来源修订版为裁切后的版本
+color_halftone,5,screening,半色调,259,高分辨率扫描印刷品产生的网点纹理
+mecha_request,5,check_mecha|mecha_to_identify,请求机甲,257,请求识别机甲或机械名称的标签
+collage_(medium),5,,拼贴,254,拼贴画
+character_counter_request,5,,请求角色计数,251,请求统计图中角色数量的标签
+gumroad_reward,5,,Gumroad内容,244,Gumroad 的付费赞助图
+custom_maid_3d_2,5,,定制女仆3D2,238,用定制女仆3D2（CM3D2）制作的 CG 图
+thumbnail_surprise,5,,缩略图反差,235,缩略图与全图观感反差大的图
+reference_request,5,,请求参考,229,请求补充参考素材的标签
+nai_diffusion,5,novelaidiffusion|novelaidiffusionv3|novelaidiffusionv4,NovelAI,227,用 NovelAI 生成的 AI 图
+hair_ornament_request,5,,请求发饰,224,请求识别发饰类型的标签
+gibberish_commentary,5,,乱码注释,223,注释为无意义的乱码
+aseprite_(medium),5,aseprite,Aseprite,222,用 Aseprite 制作或编辑
+song_request,5,,请求歌曲,215,请求识别图中歌曲的标签
+blueprint_(medium),5,図面,蓝图,214,蓝图（工程图）风格的图
+check_source,5,,核对来源,213,来源需要复核的标签
+bad_tinami_id,5,,错误Tinami ID,210,Tinami 原帖已不可见
+gesture_request,5,,请求手势,207,请求识别手势或姿态的标签
+bad_aspect_ratio,5,,错误宽高比,204,宽高比被拉伸或压缩不当的图
+recolored,5,,重上色,203,重新上色的版本
+bad_postype_id,5,,错误Postype ID,197,Postype 原帖已不可见
+autodesk_3ds_max_(medium),5,3ds_max,3ds Max,195,用 Autodesk 3ds Max 制作的3D作品
+bad_newgrounds_id,5,,错误Newgrounds ID,195,Newgrounds 失效链接
+meme_attire_request,5,,请求梗服装,191,请求识别梗服饰的标签
+fixed,5,,已修复,189,修复过折痕或扫描瑕疵的干净版
+zip_available,5,,有压缩包,188,画师提供 ZIP 压缩包下载的帖子
+style_request,5,,请求画风,179,请求识别画风模仿对象的标签
+bleed_through,5,,透背,178,扫描时背面透印的瑕疵
+acrylic_stand_(medium),5,,亚克力立牌,177,亚克力立牌
+neckwear_request,5,,请求颈饰,177,请求识别颈饰类型的标签
+color_banding,5,posterization,色带,176,低色深图片中的色带断层
+animal_ear_request,5,,请求兽耳,164,请求识别兽耳类型的标签
+lego_(medium),5,lego|legomech,乐高,164,乐高积木作品
+food_art_(medium),5,,食物艺术,162,真实食物艺术造型（拉花、便当等）的照片
+metadata_reference,5,filesize_reference|metadata_pun|resolution_reference,元数据参考,162,用图片元数据玩梗的图
+paper_cutout_(medium),5,,剪纸,161,剪纸拼贴作品
+nicoseiga_sample,5,,Niconico静画缩略图,160,Niconico 静画缩略图而非原图
+creature_request,5,,请求生物,154,请求识别图中生物的标签
+bad_drawcrowd_id,5,,错误Drawcrowd ID,152,Drawcrowd 原帖已不可见
+bad_blogspot_id,5,bad_blogger_id,错误Blogspot ID,151,Blogspot 原帖已不可见
+naver_sample,5,,Naver缩略图,150,Naver 缩略图而非原图
+has_artifacted_revision,5,,有压缩瑕疵修订,144,来源修订版压缩瑕疵比原图更多
+latin_commentary,5,,拉丁文注释,142,注释为拉丁文
+cleaned,5,,已清理,141,去除杂物或文字的清理版扫描图
+nurimas,5,,涂色挑战,139,CSP 与 ibisPaint 举办的涂色挑战活动
+footwear_request,5,,请求鞋子,131,请求识别鞋类的标签
+location_request,5,,请求地点,129,请求识别图中地点的标签
+crayon_(medium),5,,蜡笔,120,蜡笔画
+fish_request,5,,请求鱼类,120,请求补具体鱼类标签的标签
+ukrainian_commentary,5,,乌克兰文注释,120,注释为乌克兰文
+color_issue,5,,色彩问题,117,扫描色彩还原不准的瑕疵
+twitter_banner,5,,Twitter横幅,115,画师 Twitter 主页横幅图
+kisekae,5,,换装人偶,114,用换装人偶软件做的换装图
+dog_request,5,,请求狗,112,请求补具体犬种标签的标签
+mojibake_commentary,5,,乱码注释,112,编码错误显示的乱码注释
+cinema_4d_(medium),5,,Cinema 4D,110,用 Cinema 4D 制作的3D作品
+brush_(medium),5,,画笔,109,画笔类工具绘制的作品
+poorly_translated,5,,翻译质量差,105,翻译质量差的硬翻图或字幕
+avatar_generator,5,,头像生成器,102,用头像生成器预制素材制作的图
+has_lossy_revision,5,,有有损修订,102,来源修订版被转成有损格式
+instrument_request,5,check_instrument,请求乐器,102,请求识别图中乐器的标签
+bad_fandom_id,5,,错误Fandom ID,95,Fandom 失效链接
+adobe_illustrator_(medium),5,,Adobe Illustrator,92,用 Adobe Illustrator 制作的作品
+constellation_request,5,,请求星座,91,请求识别图中星座的标签
+picrew_(medium),5,,Picrew,91,用 Picrew 生成的图
+vrchat_(medium),5,vrc|vrchat,VRChat,88,用 VRChat 拍摄或制作的图
+binding_discoloration,5,,装订变色,82,书脊处扫描变色的瑕疵
+fake_translation,5,,假翻译,80,伪造的假翻译（Danbooru 禁止发布）
+airbrush_(medium),5,,喷枪,79,喷枪画
+charcoal_(medium),5,,木炭,78,木炭画
+exif_thumbnail_surprise,5,,EXIF缩略图反差,77,与 EXIF 内嵌缩略图反差大的图
+daz_studio_(medium),5,daz-studio|dazstudio,Daz Studio,75,用 Daz Studio 制作的3D图
+reference_photo,5,,参考照片,73,画师创作时用作参考的照片
+bad_google+_id,5,,错误Google+ ID,72,Google+ 已停服，原帖不可见
+bad_cgsociety_id,5,,错误CGSociety ID,70,CGSociety 原帖已不可见
+bad_e-hentai_id,5,,错误E-Hentai ID,70,E-Hentai 原帖已不可见
+webp-to-png_conversion,5,,WebP转PNG,70,上传前从 WebP 转成 PNG 的图
+acrylic_gouache_(medium),5,,丙烯水粉,69,丙烯水粉画
+coupy_pencil_(medium),5,,Coupy铅笔,64,用 Coupy 彩色塑料铅笔绘制
+midjourney,5,midjourneyv61|nijijourney|nijijourneyv5|nijijourneyv6,Midjourney,64,用 Midjourney 生成的 AI 图
+noise_reduction,5,,降噪,62,用 waifu2x 等工具降噪的图
+wallpaper_forced,5,,强行壁纸化,61,被改成壁纸标准分辨率的图
+vector_art,5,,矢量图,60,矢量图形
+reference_work_request,5,,请求参考作品,58,请求提供参考作品的标签
+zalgo_commentary,5,,扭曲文字注释,58,带大量装饰符号的扭曲文字注释
+drawcrowd_sample,5,,Drawcrowd缩略图,54,Drawcrowd 缩略图而非原图
+fantia_commission,5,,Fantia约稿,53,通过 Fantia 约稿的作品
+postcard_(medium),5,,明信片,52,明信片
+whiteboard_(medium),5,,白板,32,白板画
+chalk_(medium),5,,粉笔,24,粉笔画
+dall-e,5,dalle|dalle2|dalle3,DALL·E,12,用 DALL·E 生成的 AI 图
+flyer_(medium),5,,传单,7,传单（宣传单页）
+abyss_orange_mix,5,,AbyssOrangeMix,,AI 绘图模型 AbyssOrangeMix（二次元混合风），保留原名
+animaginexl,5,,Animagine XL,,AI 绘图模型 Animagine XL（动漫风格），保留原名
+anything_(model),5,,Anything,,AI 绘图模型 Anything（动漫风格），保留原名
+anythingelse,5,,AnythingElse,,AI 绘图模型 AnythingElse（动漫风格），保留原名
+asian,5,,亚洲人,,含义模糊的「亚洲人」标签（东亚/南亚另有细分）
+autismmix,5,,AutismMix,,AI 绘图模型 AutismMix，保留原名
+bad_hentai-foundry_id,5,,错误Hentai Foundry ID,,Hentai Foundry 原帖已不可见
+bad_quality,5,,质量差,,AI 绘图常用的质量分级标签（质量差）
+based_mix,5,,BasedMix,,AI 绘图模型 BasedMix（二次元），保留原名
+best_quality,5,,质量最好,,AI 绘图常用的质量分级标签（质量最好）
+canvas_(medium),5,,画布,,已并入 painting（绘画）的旧标签
+cat_tower_(model),5,,猫塔（模型）,,WD 词典收录的 AI 绘图模型名，保留原名
+chinese_(nationality),5,,中国国籍,,中国国籍（或中国设定）的角色
+collaboration_request,5,,请求合作,,已弃用，改用 artist_request / artist_collaboration
+counterfeit_(model),5,,Counterfeit,,AI 绘图模型 Counterfeit（二次元），保留原名
+doujinshi,5,,同人志,,同人志（自费印制的同人印刷物）
+explicit,5,rating_explicit,露骨,,已停用的分级标签，改用 rating:explicit
+extraction,5,,提取,,从原图提取出角色的图（第三方处理）
+game_cg,5,,游戏CG,,游戏内 CG 图
+general,5,rating_general,全年龄,,含义模糊的「全年龄」标签
+gyozanmix,5,,GyozanMix,,AI 绘图模型 GyozanMix（二次元混合），保留原名
+hassaku_xl_(pony),5,,Hassaku XL,,AI 绘图模型 Hassaku XL（Pony 系），保留原名
+huge_filesize,5,,超大文件,,Danbooru 已移除，改用 filesize 搜索
+illustrious-xl,5,,Illustrious XL,,AI 绘图模型 Illustrious XL（二次元），保留原名
+japanese_(nationality),5,,日本国籍,,日本国籍（或日本设定）的角色
+japanese_commentary,5,,日文注释,,Danbooru 未使用的标签，改用 commentary
+korean_(nationality),5,,韩国国籍,,韩国国籍（或韩国设定）的角色
+merchandise_(medium),5,,周边商品,,周边商品
+metadata_pun,5,,元数据梗,,用图片元数据玩梗的图
+metadata_request,5,,元数据请求,,请求补充或说明图片元数据的标签
+model_request,5,,请求模型,,请求识别所用 AI 模型的标签
+nijijourney,5,,Niji Journey,,用 Niji Journey（Midjourney 二次元模式）生成的 AI 图
+non-asian,5,,非亚洲人,,含义模糊的「非亚洲人」标签
+noobai-xl,5,,NoobAI XL,,AI 绘图模型 NoobAI XL（二次元），保留原名
+normal_quality,5,,质量一般,,AI 绘图常用的质量分级标签（质量一般）
+novelai,5,,NovelAI,,AI 绘图模型 NovelAI，保留原名
+number-only_commentary,5,,纯数字评论,,注释内容纯为数字
+phone_screenshot,5,,手机截图,,手机截图
+pony_diffusion_xl,5,,Pony Diffusion XL,,AI 绘图模型 Pony Diffusion XL，保留原名
+promotional_menu,5,,宣传菜单,,宣传菜单（餐饮店等菜单图片）
+questionable,5,rating_questionable,擦边,,已停用的分级标签，改用 rating:questionable
+sensitive,5,rating_sensitive,敏感,,已停用的分级标签，改用 rating:sensitive
+stable_diffusion_(model),5,,Stable Diffusion,,AI 绘图模型 Stable Diffusion，保留原名
+stable_diffusion_xl,5,,Stable Diffusion XL,,AI 绘图模型 Stable Diffusion XL，保留原名
+symbol-only_commentary,5,,纯符号评论,,注释内容纯为符号
+t-ponynaiv3,5,,T-ponynai3,,AI 绘图模型 T-ponynai3，保留原名
+trinart,5,,TrinArt,,AI 绘图模型 TrinArt（早期动漫模型），保留原名
+twitter_thumbnail_collage,5,,推特缩略图拼贴,,推特缩略图拼接而成的完整图片
+wai-nsfw-illustrious-sdxl,5,,WAI NSFW Illustrious SDXL,,AI 绘图模型 WAI NSFW Illustrious SDXL，保留原名
+waifu_diffusion,5,,Waifu Diffusion,,AI 绘图模型 Waifu Diffusion（早期动漫模型），保留原名
+worst_quality,5,,质量最差,,AI 绘图常用的质量分级标签（质量最差）
+zuki_cute_ill,5,,ZUKI cute ILL,,AI 绘图模型 ZUKI cute ILL，保留原名
