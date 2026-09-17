@@ -13,7 +13,7 @@ Danbooru 标签的中文翻译数据库，收录截至 2026 年 8 月图片数�
 | --- | --- |
 | 画师 artist | 24881 |
 | 作品/版权 copyright | 5818 |
-| 角色 character | 整理中 |
+| 角色 character | 35382 |
 | 通用 general | 30664 |
 | 元标签 meta | 409 |
 
@@ -46,9 +46,9 @@ tag, category, aliases, zh, count, notes
 
 - `tags/artist.csv` — 画师标签
 - `tags/copyright.csv` — 作品/版权标签
+- `tags/character.csv` — 角色标签
 - `tags/general.csv` — 通用标签
 - `tags/meta.csv` — 元标签
-- 其他分类整理好后陆续补充
 
 ## 反馈
 
