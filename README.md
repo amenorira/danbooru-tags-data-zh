@@ -2,6 +2,8 @@
 
 Danbooru 标签的中文翻译数据库，收录截至 2026 年 8 月图片数量大于 50 的标签，译名以社区通用叫法为准。
 
+同一份数据同时发布在 [GitHub 仓库](https://github.com/amenorira/danbooru-tags-data-zh) 与 [HuggingFace 数据集](https://huggingface.co/datasets/ame-la/danbooru-tags-data-zh)，推送 GitHub 后由 Actions 自动同步。
+
 ## 覆盖范围
 
 - 收录 2026 年 8 月时图片数量大于 50 的标签
@@ -12,7 +14,7 @@ Danbooru 标签的中文翻译数据库，收录截至 2026 年 8 月图片数�
 | 分类 | 标签数 |
 | --- | --- |
 | 画师 artist | 24881 |
-| 作品/版权 copyright | 5818 |
+| 作品/版权 copyright | 8413 |
 | 角色 character | 35382 |
 | 通用 general | 30664 |
 | 元标签 meta | 409 |
