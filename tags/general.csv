@@ -706,7 +706,7 @@ cloak,0,斗篷,斗篷披风,78205,覆盖全身的无袖斗篷
 box,0,boxes,箱子,78183,立方或长方形的容器
 highleg_leotard,0,高叉紧身衣,高开叉紧身衣,77791,腿部开口极高的高开叉紧身衣
 sleeves_past_fingers,0,moe_sleeves,袖子长过指尖,77537,长到盖住整只手的袖子
-qipao,0,长衫,旗袍,77464,立领修身、两侧开衩的中国旗袍
+qipao,0,长衫|china_dress,旗袍,77464,立领修身、两侧开衩的中国旗袍
 strapless_dress,0,shoulderless_dress|抹胸裙,无肩带连衣裙,76976,没有肩带、靠布料紧度固定的连衣裙
 mole_under_mouth,0,唇下痣,嘴角下方痣,76914,痣长在嘴巴正下方
 trap,0,伪伪郎|秀吉|萝太,伪娘,76559,外表女性化的男性角色，即伪娘
@@ -2251,7 +2251,7 @@ spiked_bracelet,0,spiked_bracelets,尖刺手镯,15913,带尖刺的手镯，如�
 brick_wall,0,,砖墙,15910,整面由砖砌成的墙
 very_long_braid,0,long_braid,超长辫子,15910,长度及腰或更长的麻花辫
 covering_crotch,0,covering_pussy|覆盖裆部,遮挡胯部,15903,用手或物品刻意遮住裆部
-presenting_own_armpit,0,,展示自己腋下,15900,以挑逗方式向观看者展示腋下
+presenting_own_armpit,0,presenting_armpit,展示自己腋下,15900,以挑逗方式向观看者展示腋下
 popped_collar,0,collar_up|立领,立起的衣领,15896,衬衫或外套立起来而非翻折的衣领
 fur-trimmed_dress,0,毛皮边连衣裙,毛边连衣裙,15895,边缘带毛皮镶边的连衣裙
 platform_sandals,0,,厚底凉鞋,15882,带加厚防水台的凉鞋
@@ -5206,8 +5206,8 @@ whale,0,,鲸鱼,3752,大型海洋哺乳动物鲸，有水平尾鳍和头顶喷�
 naked_coat,0,naked_fur_coat|nude_coat,裸体且披着大衣,3751,大衣下不穿其他衣服，常见于露出狂
 sleeve_ribbon,0,,袖子丝带,3751,系在袖子上的丝带
 suit_pants,0,dress_pants,西裤,3749,常与西装外套配套穿着的正装长裤
-onahole,0,人工阴道,飞机杯,3748,用于自慰的筒状成人玩具飞机杯
-baseball_(sport),0,棒球|野球,棒球（运动）,3747,两队各九人、以击球跑垒得分的棒球运动
+onahole,0,人工阴道|artificial_vagina,飞机杯,3748,用于自慰的筒状成人玩具飞机杯
+baseball_(sport),0,棒球|野球|baseball,棒球（运动）,3747,两队各九人、以击球跑垒得分的棒球运动
 layered_kimono,0,multilayer_kimono|十二単|十二単衣,分层和服,3745,多层叠穿的平安时代贵族和服
 leg_armor,0,,腿部装甲,3740,保护腿部的甲具
 strapless_bra,0,,无肩带胸罩,3739,靠加宽带身固定、没有肩带的胸罩
@@ -5530,7 +5530,7 @@ simple_bird,0,,简笔鸟,3335,简化的远处飞鸟形象，常呈简单弧线�
 tablecloth,0,桌布,台布,3332,比桌面大、铺盖在桌上的薄布
 half-siblings,0,,半血缘兄弟姐妹,3331,只共有一方父母的兄弟姐妹
 holding_notebook,0,,持有笔记本,3330,手里拿着笔记本
-ribbon_in_braid,0,,编入辫子的缎带,3329,编入辫子中的发带
+ribbon_in_braid,0,ribbon_braid,编入辫子的缎带,3329,编入辫子中的发带
 gym_storeroom,0,gym_equipment_shed|gym_storage_room|体育用具室|体育馆仓库,体育仓库,3328,存放体育器材的校内仓库
 pussy_juice_puddle,0,,爱液流成的滩,3328,爱液在表面聚成水滩
 twitter_x_logo,0,,X（推特）标志,3327,2023年起取代小鸟标志的 X 标志
@@ -5780,7 +5780,7 @@ mark_under_both_eyes,0,,双眼下印记,3051,双眼下方各有一处面部印�
 vibrator_cord,0,震动器线,振动器线,3050,连接振动器的电线
 mechanical_eyes,0,artificial_mechanical_eyes,机械眼,3049,拥有一只或多只机械、电子义眼的角色
 c:,0,,c:,3048,抿嘴成半圆、略显得意的表情符号
-presenting_own_pussy,0,小穴展示|阴部展示,展示自己私处,3048,故意向观看者展示自己的私处
+presenting_own_pussy,0,小穴展示|阴部展示|presenting_pussy,展示自己私处,3048,故意向观看者展示自己的私处
 viewer_holding_leash,0,pov_leash,观众牵着牵绳,3045,第一人称视角下观众牵着角色的牵绳
 sparkling_aura,0,,闪光气场,3044,角色或物体周围环绕多个闪光点
 naked_sheet,0,nude_sheet,裸体且裹着被子,3043,赤裸身体用床单或毛毯半遮
@@ -6393,7 +6393,7 @@ mahjong,0,mahjongg|麻雀,麻将,2478,起源于中国的四人麻将牌游戏，
 doodle_inset,0,,涂鸦小窗,2477,填补画面空白的涂鸦小图
 wheat,0,麦子,小麦,2477,世界主要粮食作物小麦，多磨成面粉做面包
 dashed_eyes,0,dash_eyes|line_in_eye,虚线眼,2476,眼中出现横线，多表示强烈快感
-presenting_own_breasts,0,胸部展示,展示自己胸部,2475,向观看者展示自己的胸部
+presenting_own_breasts,0,胸部展示|presenting_breasts,展示自己胸部,2475,向观看者展示自己的胸部
 slapping,0,slap|耳光,掌掴,2475,用手掌击打他人，通常打脸
 unworn_dress,0,dress_removed,未穿的连衣裙,2474,画面中有但没被穿着的连衣裙
 single_shoulder_pad,0,,单肩垫,2473,只在一侧肩膀上戴的护肩
@@ -11458,7 +11458,7 @@ fur-trimmed_vest,0,,毛皮修剪背心,690,带毛皮镶边的背心
 gear_hair_ornament,0,,齿轮发饰,690,齿轮形状的发饰
 imminent_suicide,0,,迫在眉睫的自杀,690,角色即将自杀的场面
 panties_around_thighs,0,,内裤挂在腿上,690,内裤褪下挂在大腿处
-presenting_own_anus,0,,展示自己的肛门,690,通常掰开臀瓣露出自己的肛门
+presenting_own_anus,0,presenting_anus,展示自己的肛门,690,通常掰开臀瓣露出自己的肛门
 tail_under_clothes,0,,尾巴藏在衣服里,690,尾巴从裙子、短裤等下装里伸出
 torn_sleeve,0,,撕裂的袖子,690,只有一只袖子被撕破
 upward_angle_frieren_drawing_(meme),0,how_do_you_guys_able_to_draw_at_different_angles|芙莉莲仰视挑战,芙莉莲仰视图（梗）,690,出自 Reddit 的芙莉莲从下方仰视天空的练习画
@@ -13445,7 +13445,7 @@ organization_xiii,0,13机関,XIII机关（王国之心）,471,《王国之心》
 pointing_at_object,0,,指着物品,471,用手指指向某个物品
 single_nipple_piercing,0,,单侧乳钉,471,只在一侧乳头上戴乳环
 swaying,0,,摇摆,471,身体左右摆动，通常表示开心
-twister_(game),0,扭扭乐,扭扭乐（游戏）,471,在彩色圆点地垫上手脚并用的肢体游戏
+twister_(game),0,扭扭乐|twister,扭扭乐（游戏）,471,在彩色圆点地垫上手脚并用的肢体游戏
 chicken_nuggets,0,,鸡块,470,裹粉油炸的鸡块
 floral_print_panties,0,,花卉印花内裤,470,带花卉印花的内裤
 ground_shatter,0,,地面破碎,470,地面开裂碎石飞溅的视觉特效
@@ -14172,7 +14172,7 @@ squid_girl,0,,乌贼女孩,412,具有乌贼特征或触手的女孩
 triple_wielding,0,triple_wield|三刀流,三手持械,412,同时持握三把武器，如三刀流
 blue_nightgown,0,,蓝色睡裙,411,一件式的蓝色睡裙
 churro,0,,吉事果,411,西班牙油炸面食吉事果
-civilight_eterna_(arknights),0,文明的存续|黑冠,文明之光（明日方舟）,411,《明日方舟》中浮空黑色王冠状的遗物
+civilight_eterna_(arknights),0,文明的存续|黑冠|civilight_eterna,文明之光（明日方舟）,411,《明日方舟》中浮空黑色王冠状的遗物
 clawed_feet,0,,爪足,411,长有爪子的脚
 clip_studio_paint,0,,Clip Studio Paint,411,漫画绘图软件 Clip Studio Paint 的界面或标志
 eyes_of_grima,0,,格里玛之眼（火焰纹章）,411,《火焰之纹章》中与邪龙格里玛相关的六眼纹样
@@ -14285,7 +14285,7 @@ waffen-ss,0,schutzstaffel|ss|ss_uniform,武装党卫军,405,纳粹德国党卫�
 wax,0,,蜡,405,室温下可塑、不溶于水的脂类物质，如石蜡和蜂蜡
 clubroom,0,部室,社团活动室,404,学校中学生进行社团活动的房间
 costume_chart,0,,服装图,404,展示同一角色三套以上服装的图
-flower_in_braid,0,,辫中花,404,编入辫子中的花朵
+flower_in_braid,0,flower_braid,辫中花,404,编入辫子中的花朵
 furry_and_animal,0,furry_confusion,兽人与动物,404,兽人角色与普通动物同时出现
 holding_instrument_case,0,,手持乐器盒,404,手里拿着乐器盒
 improvised_umbrella,0,,简易的伞,404,把非伞物品当作伞挡雨
@@ -30663,3 +30663,31 @@ vine_bondage,0,,藤蔓束缚,50,用藤蔓捆绑束缚身体
 winch,0,,绞盘,50,用绳索卷筒牵引重物的绞盘
 wingdings,0,,Wingdings字体符号,50,由各种符号组成的Wingdings字体
 wishing_cairn_(e.g.o),0,,许愿石堆（E.G.O）,50,源自宝塔崇拜异常、出现在边狱公司等作品的E.G.O装备
+green_visor,0,,绿色护目镜,44,绿色的护目镜或帽檐；Danbooru 将其标记为含义模糊、不建议使用的标签
+artificial_eye,0,,义眼,5,人工制作的假眼球（义眼）；机械眼见 mechanical_eyes，玻璃假眼见 glass_eye
+deal_with_it_(meme),0,deal_with_it,Deal With It（梗）,2,源自戴上墨镜后说「Deal With It」的网络迷因
+hitodama_print,0,,人魂印花,1,衣物上带有人魂（鬼火）状花纹的图案，多见于和风服饰
+soul_gem,0,,灵魂宝石,0,已废弃的模糊标签；指《魔法少女小圆》的灵魂宝石时用 soul_gem_(madoka_magica)
+plaid,0,tartan,格纹,0,已废弃的模糊标签，指格纹图案本身；衣物用 plaid_clothes，其他物件用对应的 plaid_* 标签
+holding_own_legs,0,,抱自己的腿,0,已废弃的模糊标签，Danbooru 建议改用 hugging_own_legs 或 holding_own_legs_back 等
+untied_bikini,0,,解开的比基尼,0,已废弃的模糊标签，需注明部位：untied_bikini_top / untied_bikini_bottom
+belly_grab,0,,抓肚子,0,已废弃的模糊标签，Danbooru 建议改用 pinching_another's_belly 或 grabbing_another's_stomach_bulge 等
+hand_around_neck,0,,手环绕脖子,0,已废弃的模糊标签，Danbooru 建议改用 hand_on_another's_neck 等
+alternate_ass_size,0,,臀部异设,0,已废弃的模糊标签，需注明更大还是更小：alternate_ass_size_(larger) / alternate_ass_size_(smaller)
+gold_buttons,0,,金色纽扣,0,衣物上的金色纽扣，常见于军装制服
+gun_to_head,0,,枪口对准头部,0,已废弃的模糊标签，Danbooru 建议改用 gun_to_own_head 或 gun_to_another's_head
+blowing_smoke,0,,吐烟,0,已废弃的模糊标签，Danbooru 建议改用 exhaling_smoke 或 blowing_smoke_(gun)
+single_sleeve_past_fingers,0,,单只袖子盖过手指,0,只有一只袖子长到盖过手指
+official_alternate_design,0,,官方异设,0,已废弃标签，改用对应角色的换装标签或 official_alternate_costume
+single_sleeve_past_wrist,0,,单只袖子盖过手腕,0,只有一只袖子长到盖过手腕
+unworn_legwear,0,,未穿着的袜类,0,已废弃标签，改用 unworn_socks / unworn_thighhighs / unworn_pantyhose
+holding_rod,0,,手持长杆,0,手里拿着 rod（细长的杆状物，如魔杖、天线）
+finger_gun_to_head,0,,手指枪对准头部,0,已废弃的模糊标签，Danbooru 建议改用 finger_gun_to_own_head 或 finger_gun_to_another's_head
+small_pupils,0,,小瞳孔,0,含义模糊的标签，相关标签有 constricted_pupils / slit_pupils
+black_wetsuit,0,,黑色潜水服,0,黑色的连体潜水服（wetsuit）
+wrapped_up,0,,被包裹,0,已废弃的模糊标签，按语境改用礼物包装、绷带、束缚等具体标签
+tied_sleeves,0,,束起的袖子,0,已废弃的模糊标签，Danbooru 建议改用 sleeves_tied_together 或 sleeve_bow 等
+basin,0,,盆,0,已废弃的模糊标签，Danbooru 建议改用 washbowl / washtub / bucket 等
+arm_around_leg,0,,手臂环抱腿,0,已废弃的模糊标签，Danbooru 建议改用 hugging_own_legs / leg_lift 等
+holding_shell,0,,手持贝壳,0,已废弃的模糊标签，Danbooru 建议改用 holding_seashell 等
+biting_finger,0,,咬手指,0,已废弃标签，改用 biting_own_finger 或 biting_another's_finger

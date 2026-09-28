@@ -4162,7 +4162,7 @@ shiranui_flare_(1st_costume),4,shiranui_flare|不知火フレア,不知火芙蕾
 sunny_(shadow_slave),4,,Sunny（影之奴仆）,792,《影之奴仆》的主角
 chen_(cat),4,,橙（猫形态）,791,《东方Project》中橙的猫形态，双尾猫又
 fujino_shizuru,4,shiznat|ふじのしずる,藤乃静留,791,《舞-HiME》中风华学院的学生会长
-kan'u_unchou_(ikkitousen),4,kanu_unchou,关羽云长（一骑当千）,791,《一骑当千》中关云长的转生斗士
+kan'u_unchou_(ikkitousen),4,kanu_unchou|kan'u_unchou,关羽云长（一骑当千）,791,《一骑当千》中关云长的转生斗士
 koito_otonoshin,4,鯉登音之進,鲤登音之进（黄金神威）,791,《黄金神威》中第七师团的少尉，鹤见的部下
 luxray,4,レントラー,伦琴猫,790,《宝可梦》系列的电属性宝可梦，勒克猫的进化型
 utsugi_yuuki,4,宇津木ユウキ,宇津木优希,790,《少女与战车》中兔子队的无线电操作员
@@ -4412,7 +4412,7 @@ amazon_(dragon's_crown),4,亚马逊女战士,亚马逊（龙之皇冠）,740,《
 asbel_lhant,4,アスベル・ラント,阿斯贝尔·兰特（圣恩传说）,740,《圣恩传说》的主角，立志成为骑士的领主之子
 bay_(nikke),4,bay,贝伊（胜利女神：妮姬）,740,《胜利女神：妮姬》中啦啦队Rewind的队长
 galko,4,gyaru-ko|ギャル子,辣妹子（告诉我！辣妹子酱）,740,《告诉我！辣妹子酱》的主角，金发辣妹高中生
-kei_(orange_robot)_(blue_archive),4,,天童凯伊（橙色机器人形态）（蔚蓝档案）,740,《蔚蓝档案》中凯伊化身的橙色小型机器人形态
+kei_(orange_robot)_(blue_archive),4,kei_(robot)_(blue_archive),天童凯伊（橙色机器人形态）（蔚蓝档案）,740,《蔚蓝档案》中凯伊化身的橙色小型机器人形态
 bottle_miku,4,ボトルミク,瓶装初音,739,画师 PAR. 创作的初音未来衍生角色
 kuroo_tetsurou,4,kuroo|黑尾,黑尾铁朗,739,《排球少年》中音驹高中排球部的队长
 shiba_tomoshibi,4,しばともしび,司马灯,739,《突击莉莉》中登场的角色
@@ -4631,7 +4631,7 @@ dabi_(boku_no_hero_academia),4,Dabi|dabi|轰灯矢,荼毘（我的英雄学院�
 marche_lorraine_(umamusume),4,,玛尔什·洛林（赛马娘）,698,《赛马娘》中短发带白色挑染的赛马娘
 mousse_(ranma_1/2),4,Mousse|ムース,沐斯（乱马1/2）,698,《乱马1/2》中使用暗器的角色，爱慕珊璞
 reimu_endou,4,Endou Reimu|endoujin|reimuart|reimuendou|reimundies|reimural,远藤灵梦,698,彩虹社 EN 的 VTuber，Ethyria 成员，2025年毕业
-phainon_(flame_reaver)_(honkai:_star_rail),4,,白厄（盗火者）（崩坏：星穹铁道）,697,《崩坏：星穹铁道》翁法罗斯的Boss，盗取火种的剑士
+phainon_(flame_reaver)_(honkai:_star_rail),4,flame_reaver_of_the_deepest_dark,白厄（盗火者）（崩坏：星穹铁道）,697,《崩坏：星穹铁道》翁法罗斯的Boss，盗取火种的剑士
 poppi_(xenoblade),4,Poppi|hana_(xenoblade)|波比,花（异度神剑）,697,《异度神剑2》中虎制造的人造异刃
 rahu_(path_to_nowhere),4,Rahu,罗睺（无期迷途）,697,《无期迷途》中登场的禁闭者
 ray_(arknights),4,Rayella|蕾耶拉,莱伊（明日方舟）,697,《明日方舟》的狙击干员，卡特斯族
@@ -4771,7 +4771,7 @@ kearsarge_(azur_lane),4,Kearsarge|キアサージ,奇尔沙治（碧蓝航线）
 paladin_(final_fantasy),4,Paladin|パラディン,圣骑士（最终幻想）,677,《最终幻想》系列中擅长防御与治疗魔法的职业
 tinkaton,4,Tinkaton|デカヌチャン,巨锻匠,677,《宝可梦》中的妖精／钢属性宝可梦，用锤子攻击
 atago_(summer_march)_(azur_lane),4,Atago (Summer March)|atago_(midsummer_march)|atago_(midsummer_march)_(azur_lane)|爱宕（泳装）,爱宕（盛夏进行曲）（碧蓝航线）,676,《碧蓝航线》爱宕的夏日泳装服装「盛夏进行曲」
-cait_sith_(ff7),4,,凯特西（最终幻想7）,676,《最终幻想7》中的机器人猫，骑着莫古力玩偶
+cait_sith_(ff7),4,cait_sith_(final_fantasy),凯特西（最终幻想7）,676,《最终幻想7》中的机器人猫，骑着莫古力玩偶
 mareep,4,Mareep|メリープ,咩利羊,676,宝可梦系列中的电属性宝可梦
 nagant_revolver_(girls'_frontline),4,M1895|Nagant Revolver|m1895_(girls'_frontline)|nagant_revolver_(girls_frontline)|纳甘,纳甘左轮（少女前线）,676,《少女前线》中纳甘M1895左轮手枪的拟人化角色
 ninetales,4,Ninetales|キュウコン|九尾狐,九尾,676,《宝可梦》系列的火属性宝可梦，由六尾进化而来
@@ -6206,12 +6206,12 @@ allelujah_haptism,4,Allelujah Haptism|アレルヤ・ハプティズム|阿雷�
 bounsweet,4,Amakaji|Bounsweet|アマカジ,甜竹竹,498,《宝可梦》中的草属性宝可梦
 chris_(konosuba),4,Chris|クリス|クリス(このすば),克莉丝（为美好的世界献上祝福!）,498,《为美好的世界献上祝福！》中的盗贼，厄里斯的化身
 matsuda_arisa,4,Arisa Matsuda|松田亜利沙,松田亚利沙,498,《偶像大师 百万现场》的偶像，本人是重度偶像宅
-ryomou_shimei_(ikkitousen),4,,吕蒙子明（一骑当千）,498,《一骑当千》中蓝发戴眼罩的吴国军师，吕蒙转世
+ryomou_shimei_(ikkitousen),4,ryomou_shimei,吕蒙子明（一骑当千）,498,《一骑当千》中蓝发戴眼罩的吴国军师，吕蒙转世
 sena_izumi_(ensemble_stars!),4,Sena Izumi|ライハ組|瀬名泉,濑名泉（偶像梦幻祭）,498,《偶像梦幻祭》中Knights的三年级生
 tsukada_satoru,4,,冢田悟,498,日文原名塚田さとる，具体作品不详
 vanillite,4,Vanillite|Vanipeti|バニプッチ,迷你冰,498,宝可梦系列中的冰属性宝可梦，形似小冰淇淋
 ardbert_hylfyst,4,Ardbert|ardbert_(ff14)|アルバート|アルバート(FF14),阿尔博特,497,《最终幻想14》中第一世界的暗之战士
-cappie_(miside),4,,卡皮（MiSide）,497,《MiSide》中的米塔变体之一
+cappie_(miside),4,cool_mita_(miside),卡皮（MiSide）,497,《MiSide》中的米塔变体之一
 dipper_pines,4,Dipper Pines|ディッパー・パインズ,迪普·派恩斯,497,《怪诞小镇》的十二岁少年，与姐姐梅贝尔一同冒险
 rock_lee,4,Rock Lee|ロック・リー|小李|洛克·李,李洛克,497,《火影忍者》中木叶村的忍者，第三班成员
 ryouko_(tenchi_muyou!),4,Ryoko|hakubi_ryoko|hakubi_ryouko|ryoko_(tenchi_muyo)|ryouko_(tenchi_muyou)|白眉魉呼|白眉魎呼|魎呼,魉呼（天地无用）,497,《天地无用！》中的宇宙海盗，能让身体变得透明
@@ -6283,7 +6283,7 @@ sasha_(haguhagu),4,サーシャちゃん|萨沙,莎夏,491,画师 haguhagu 的�
 sekiro,4,狼,只狼,491,《只狼：影逝二度》的主角，侍奉御子的忍者
 senkawa_minato,4,千川みなと|千川湊,千川凑,491,名为千川凑的角色
 shizuhara_hiruko,4,,雫原比留子,491,《百日战纪 最终防卫学园》中的角色
-sonsaku_hakufu_(ikkitousen),4,,孙策伯符（一骑当千）,491,《一骑当千》的主角，孙策的转世
+sonsaku_hakufu_(ikkitousen),4,sonsaku_hakufu,孙策伯符（一骑当千）,491,《一骑当千》的主角，孙策的转世
 tirpitz_(azur_lane),4,ティルピッツ,提尔比茨（碧蓝航线）,491,《碧蓝航线》中德国战列舰提尔比茨的拟人化
 tsurumaru_tsuyoshi_(umamusume),4,ツルマルツヨシ|鹤丸强志,鹤丸刚志（赛马娘）,491,《赛马娘》中体弱却潜力巨大的赛马娘
 wendy_marvell,4,温蒂|温蒂·马贝尔,温蒂·玛贝尔,491,《妖精的尾巴》的天空灭龙魔导士
@@ -35381,3 +35381,5 @@ yakumo_beni_(3rd_costume),4,,八云红（第三套服饰）,50,VSPO! VTuber 八�
 yotsuba_satsuki,4,,四叶五月,50,《魔法老师》中2-A班的学生，料理部成员
 yui_(new_year)_(princess_connect!),4,,优衣（新年）（公主连结）,50,《公主连结》中优衣的新年和服造型
 yumiya_rakko,4,弓箭猟虎,弓箭猎虎,50,《魔法禁书目录》中 SCHOOL 组织的狙击手
+fenrir_(final_fantasy),4,,芬里尔（最终幻想）,28,《最终幻想》系列中以巨狼形态登场的召唤兽
+killer_bee_cammy,4,,嘉米（杀手蜂装）,0,《街头霸王Zero》系列中嘉米·怀特的默认造型，以她的代号「杀手蜂」命名

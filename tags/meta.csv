@@ -1,10 +1,14 @@
 ﻿tag,category,aliases,zh,count,notes
 highres,5,high_res|high_resolution|hires,高分辨率,8033637,宽至少1600像素或高至少1200像素的高分辨率图
 commentary_request,5,,请求注释翻译,6264839,画师注释尚未完整译成英文，等待翻译
+rating:sensitive,5,rating:s,敏感,5270447,Danbooru 分级标签：敏感，介于全年龄与擦边之间
+rating:general,5,rating:g,全年龄,4486953,Danbooru 分级标签：全年龄，适合所有观众
 commentary,5,commentaries,作者注释,3190166,画师注释可被英语读者读懂的帖子，含已英译的情况
 absurdres,5,,超高分辨率,2939616,宽至少3200或高至少2400像素的超高分辨率图
 bad_id,5,,错误ID,1440267,原来源链接已失效（图被删或设私）的帖子
 english_commentary,5,,英文注释,1299333,画师注释原文为英文的图
+rating:explicit,5,rating:e,露骨,1234414,Danbooru 分级标签：露骨，含明确的性描写
+rating:questionable,5,rating:q,擦边,1233734,Danbooru 分级标签：擦边，含轻度性暗示
 bad_pixiv_id,5,,错误Pixiv ID,1099603,Pixiv 原图已被删除或设为私密
 translation_request,5,,请求翻译,840027,图中非英文文字需要翻译成英文的帖子
 photoshop_(medium),5,photoshop,Photoshop,709666,用 Adobe Photoshop 创建或合成的图片
@@ -543,15 +547,11 @@ autismmix,5,,AutismMix,0,以二次元插画为主的 Stable Diffusion 混合模�
 bad_quality,5,,质量差,0,画质低劣、模糊或结构崩坏的图片
 based_mix,5,,BasedMix,0,以二次元风格为主的 Stable Diffusion 混合模型，非 Danbooru 标签
 best_quality,5,,质量最好,0,画质极佳、细节丰富的图，也常被 AI 绘图用作正面提示词
-canvas_(medium),5,,画布,0,已废弃，并入 painting_(medium)
-cat_tower,5,cat_tower_(model),猫爬架,0,供猫攀爬、磨爪和休息的多层猫爬架
-chinese,5,chinese_(nationality),中国国籍,0,中国国籍或中国背景设定的角色
 collaboration_request,5,,请求合作,0,已废弃，改用 artist_request 与 artist_collaboration
 counterfeit,5,counterfeit_(model),Counterfeit,0,以二次元插画为主的 SDXL 微调模型，非 Danbooru 标签
 doujinshi,5,,同人志,0,已废弃的标签，同人漫画请改用 comic
 explicit,5,rating_explicit,露骨,0,已停用的分级标签，改用 rating:explicit
 extraction,5,,提取,0,第三方把角色从原图中提取出、背景被去除的图
-game_cg,5,,游戏CG,0,电子游戏内的剧情或立绘 CG 图
 general,5,rating_general,全年龄,0,含义模糊，可指 general 分级或名为 general 的标签
 gyozanmix,5,,GyozanMix,0,画风偏写实的二次元融合模型，非 Danbooru 标签
 hassaku_xl_(pony),5,,Hassaku XL,0,基于 Pony Diffusion 的二次元向 SDXL 微调模型，非 Danbooru 标签
@@ -559,9 +559,6 @@ huge_filesize,5,,超大文件,0,已废弃，改用 filesize 搜索超大文件
 illustrious_xl,5,illustrious-xl,Illustrious XL,0,以二次元插画为主的 SDXL 基座模型
 japanese_(nationality),5,,日本国籍,0,设定为日本国籍的角色
 japanese_commentary,5,,日文注释,0,已停用，改用 commentary 或 commentary request
-korean,5,korean_(nationality),韩国国籍,0,设定为韩国国籍的角色
-merchandise,5,merchandise_(medium),周边商品,0,基于动画、游戏等作品制作的周边商品实拍照片
-metadata_pun,5,,元数据梗,0,图片元数据本身构成谐音或双关笑点的图
 metadata_request,5,,元数据请求,0,请求补充或说明图片元数据的标签
 model_request,5,,请求模型,0,请求他人识别生成该图所用 AI 模型的帖子
 nijijourney,5,,Niji Journey,0,Midjourney 的二次元风格 AI 绘图模型，非 Danbooru 标签
@@ -576,10 +573,8 @@ promotional_menu,5,,宣传菜单,0,餐饮店等宣传用的菜单图片，非 Da
 questionable,5,rating_questionable,擦边,0,已废弃的分级标签，改用 rating:questionable
 sensitive,5,rating_sensitive,敏感,0,已废弃的分级标签，改用 rating:sensitive
 stable_diffusion_xl,5,,Stable Diffusion XL,0,Stability AI 的 SDXL 文生图模型，非 Danbooru 标签
-symbol-only_commentary,5,,纯符号评论,0,注释内容只有符号表情、没有文字的帖子
 t-ponynaiv3,5,,T-ponynai3,0,基于 Pony 与 NovelAI 的二次元 AI 绘图模型，非 Danbooru 标签
 trinart,5,,TrinArt,0,早期动漫风格的 Stable Diffusion 微调模型，非 Danbooru 标签
-twitter_thumbnail_collage,5,,推特缩略图拼贴,0,在推特缩略图中拼成一张完整图的系列帖
 wai-nsfw-illustrious-sdxl,5,,WAI NSFW Illustrious SDXL,0,基于 Illustrious 的 NSFW 向 AI 绘图模型
 waifudiffusion,5,waifu_diffusion,Waifu Diffusion,0,以动漫图训练的早期 Stable Diffusion 微调模型
 worst_quality,5,,质量最差,0,AI 绘图常用的负面质量提示词，非 Danbooru 标签

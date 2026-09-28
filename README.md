@@ -8,16 +8,17 @@ Danbooru 标签的中文翻译数据库，收录截至 2026 年 8 月图片数�
 
 - 收录 2026 年 8 月时图片数量大于 50 的标签
 - 按分类收录：画师（artist）、作品/版权（copyright）、角色（character）、通用（general）、元标签（meta）
+- 另收录少量图数不足 50 的标签（含 Danbooru 已废弃者），这些是打标器（如 [pixai-tagger-v1.0](https://huggingface.co/pixai-labs/pixai-tagger-v1.0)）会输出、但尚未达到收录阈值的标签，用以保证打标结果全部可查
 
 当前收录情况：
 
 | 分类 | 标签数 |
 | --- | --- |
 | 画师 artist | 24881 |
-| 作品/版权 copyright | 8413 |
-| 角色 character | 35382 |
-| 通用 general | 30664 |
-| 元标签 meta | 585 |
+| 作品/版权 copyright | 8414 |
+| 角色 character | 35384 |
+| 通用 general | 30692 |
+| 元标签 meta | 580 |
 
 ## 特点
 
