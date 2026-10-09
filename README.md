@@ -9,6 +9,7 @@ Danbooru 标签的中文翻译数据库，收录截至 2026 年 8 月图片数�
 - 收录 2026 年 8 月时图片数量大于 50 的标签
 - 按分类收录：画师（artist）、作品/版权（copyright）、角色（character）、通用（general）、元标签（meta）
 - 另收录少量图数不足 50 的标签（含 Danbooru 已废弃者），这些是打标器（如 [pixai-tagger-v1.0](https://huggingface.co/pixai-labs/pixai-tagger-v1.0)）会输出、但尚未达到收录阈值的标签，用以保证打标结果全部可查
+- 另收录少量常用于打标的自定义补充标签（如 `three_quarter_view`），在 notes 中注明非 Danbooru 标签，count 填 0
 
 当前收录情况：
 
@@ -17,7 +18,7 @@ Danbooru 标签的中文翻译数据库，收录截至 2026 年 8 月图片数�
 | 画师 artist | 24881 |
 | 作品/版权 copyright | 8414 |
 | 角色 character | 35384 |
-| 通用 general | 30692 |
+| 通用 general | 30693 |
 | 元标签 meta | 580 |
 
 ## 特点
@@ -38,11 +39,11 @@ tag, category, aliases, zh, count, notes
 
 | 字段 | 说明 |
 | --- | --- |
-| `tag` | Danbooru 标签原名（小写、下划线分隔） |
+| `tag` | Danbooru 标签原名或自定义补充标签名（小写、下划线分隔） |
 | `category` | 标签分类：0 通用 / 1 画师 / 3 作品 / 4 角色 / 5 元标签 |
 | `aliases` | 该标签的常用别名，以 `\|` 分隔 |
 | `zh` | 简体中文译名；没有通用译名的（多见于画师）保留原名 |
-| `count` | 该标签的图片数量（2026 年 8 月） |
+| `count` | 该标签的图片数量（2026 年 8 月）；自定义补充标签填 0，不代表实际图数 |
 | `notes` | 一句话说明该标签指什么；查不到可靠信息时留空 |
 
 ## 目录

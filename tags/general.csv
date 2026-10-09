@@ -30691,3 +30691,4 @@ basin,0,,盆,0,已废弃的模糊标签，Danbooru建议改用washbowl / washtub
 arm_around_leg,0,,手臂环抱腿,0,已废弃的模糊标签，Danbooru建议改用hugging_own_legs / leg_lift等
 holding_shell,0,,手持贝壳,0,已废弃的模糊标签，Danbooru建议改用holding_seashell等
 biting_finger,0,,咬手指,0,已废弃标签，改用biting_own_finger或biting_another's_finger
+three_quarter_view,0,three quarter view|three-quarter_view|three-quarter view|3/4_view|斜侧视,四分之三视角,0,自定义补充标签（非Danbooru标签）；从斜前方观察角色或主体，介于正面与纯侧面之间，通常约为45°但不要求精确角度
