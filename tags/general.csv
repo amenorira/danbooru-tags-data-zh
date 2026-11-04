@@ -39,7 +39,7 @@ ribbon,0,ribbons|丝带,缎带,1448028,用于系扎的细长缎带
 cleavage,0,谷间,乳沟,1401622,女性胸部之间露出的乳沟
 very_long_hair,0,hair_past_waist,超长发,1397857,长过腰部、最长可及脚部的头发
 white_shirt,0,white_blouse|白色衬衫,白衬衫,1393654,白色的衬衫，注意与日语「ワイシャツ」的歧义
-bare_shoulders,0,bare_shoulder|露肩装,露肩,1380353,衣服为无肩带或滑落而露出的肩膀
+bare_shoulders,0,bare_shoulder|露肩装,露肩,1380353,因无袖、无肩带、露肩设计或衣物滑落等而露出的双肩；裸体或赤裸上身不使用，单肩裸露另用 single_bare_shoulder
 standing,0,,站立,1317210,由一只或两只脚支撑身体站立的姿势
 sitting,0,sit|sitting_down|椅子尻,坐姿,1299077,臀部落于椅面等平面上的坐姿
 full_body,0,全景镜头|全身绘,全身,1265112,全身完整入镜、占据画面大部分
@@ -103,7 +103,7 @@ multiple_boys,0,群像,多名男性,687758,画面中出现多名男性角色
 nude,0,naked,裸体,685559,胸部和裆部没有衣物，其他部位可穿着
 greyscale,0,black_and_white|grayscale|灰度图|白黑|黑白,灰度,684010,以黑白灰为主的灰度画面，可带少量点缀色
 horns,0,兽角|有角人|角娘,角,681005,头上坚硬的角状突起
-black_gloves,0,black_glove|黑手袋|黑色手套,黑手套,669077,双手佩戴的黑色手套
+black_gloves,0,black_glove|黑手袋|黑色手套,黑手套,669077,黑色的手套
 necktie,0,neck_tie|tie,领带,655437,系在颈部的长条布料，多配西装
 censored,0,censor|censoring|遮盖,打码,652984,为符合法规或制造笑点而遮挡画面
 shorts,0,short_pants,短裤,652537,腰部以下穿着但不完全覆盖双腿的下装
@@ -144,7 +144,7 @@ black_skirt,0,,黑裙,462037,黑色的裙子或短裙
 day,0,daytime|昼间|白昼,白天,453132,太阳当空的白天场景
 fang,0,八重歯|犬齿,虎牙,449604,单颗明显的犬齿虎牙
 white_dress,0,,白色连衣裙,446605,以白色为主的连衣裙
-white_gloves,0,white_glove|白手袋|白色手套|白长手袋,白手套,437549,覆盖双手的白色手套
+white_gloves,0,white_glove|白手袋|白色手套|白长手袋,白手套,437549,白色的手套
 signature,0,artist_signature|autograph|signed,签名,437440,画师、声优或角色留下的显眼签名
 hood,0,头巾|帽兜,兜帽,436884,连接在衣服上或独立覆盖头颈的兜帽
 twitter_username,0,artist_twitter|x_username,Twitter用户名,430077,画面中标出Twitter账号的标识
@@ -285,7 +285,7 @@ horse_girl,0,pony_girl,马娘,224700,带马耳或马尾巴等特征的女性角�
 black_bow,0,,黑色蝴蝶结,223749,黑色的蝴蝶结，可作发饰或衣饰
 gradient_hair,0,,渐变发色,222529,发色由一种平滑过渡到另一种的头发
 white_socks,0,白靴下,白袜,221582,白色的短袜或及膝袜
-cat_tail,0,cat_tails,猫尾,220650,猫娘猫男的长毛猫尾
+cat_tail,0,cat_tails,猫尾,220650,猫娘或猫男身上的猫状长尾巴
 see-through_clothes,0,see-through|seethrough|sheer_clothes|sheer_clothing|translucent_clothing|transparent_clothing|半透明衣服|透视服装,透视装,216944,可透见衣物下实际颜色或细节的透明衣物，与仅显现身体轮廓的衣物区分
 buttons,0,扣子|钮扣,纽扣,215549,衣服上的纽扣，多用于系合衣襟袖口
 fox_ears,0,,狐耳,215161,长而尖、颜色较浅的狐耳
@@ -407,7 +407,7 @@ beret,0,,贝雷帽,148555,扁平圆顶、无帽檐的贝雷帽
 frilled_dress,0,frilly_dress|褶边连衣裙,荷叶边连衣裙,148521,带荷叶边的连衣裙
 white_flower,0,,白花,148359,花瓣为白色、常作装饰的花
 wavy_hair,0,,波浪卷发,147925,呈波浪起伏弧度的头发
-nose_blush,0,赤面,鼻尖红晕,147493,脸红蔓延到鼻梁处
+nose_blush,0,赤面,鼻梁红晕,147493,脸红蔓延到鼻梁处
 soles,0,sole|足里,脚底,147413,脚底，多数脚底可见时使用
 black_socks,0,black_kneehighs|黑生|黑靴下,黑袜,147206,黑色的袜子或小腿袜
 chair,0,chairs,椅子,146102,供单人坐、有靠背的椅子
@@ -794,7 +794,7 @@ interlocked_fingers,0,interlaced_fingers|intertwined_fingers|手指交叉,十指
 furry_female,0,female_furry|furry_girl|女性兽人|獣人|獣娘,福瑞女性,67799,女性的兽人角色
 hair_bobbles,0,hair_bobble,圆球发圈,67776,用弹性带和圆球扎头发的发饰
 wind,0,windy,风,67598,画面中描绘风吹过被摄对象的场景
-red_gloves,0,红手套,红色手套,67521,覆盖双手的红色手套
+red_gloves,0,红手套,红色手套,67521,红色的手套
 white_wings,0,,白色翅膀,67456,白色翅膀
 string_bikini,0,纽水着|细绳比基尼,细绳比基尼,67390,用细绳取代宽带的比基尼
 hakama,0,巫女裙|神道裙|袴裙|裤裙,袴（和服裙裤）,67222,和服中的褶裙或宽腿裤
@@ -849,7 +849,7 @@ veins,0,vein|veiny|血管,青筋,63418,皮肤下凸起的粗大血管
 close-up,0,closeup,特写,63104,被摄主体非常靠近镜头的特写
 freckles,0,,雀斑,62989,脸上浅褐色的雀斑
 :p,0,:b|闭嘴吐舌,:p,62969,闭嘴向下吐舌的表情
-white_skin,0,白肌,白皙皮肤,62957,纯白无色素如牛奶或雪的皮肤，与苍白肤色不同
+white_skin,0,白肌,纯白皮肤,62957,纯白无色素如牛奶或雪的皮肤，与苍白肤色不同
 brown_jacket,0,,棕色夹克,62881,棕色夹克，短款外穿上衣
 dragon_girl,0,竜人|竜娘|辰娘,龙娘,62733,有龙类外观的女性角色
 genderswap,0,crossgender|genderbend|genderbent|rule_63|sex_change|性転人格|性転换,性别转换,62637,将角色描绘为不同于原设定的性别
@@ -860,7 +860,7 @@ spot_color,0,spot_colors|专色|单色基调,局部上色,62288,以单色为主�
 glowing_eyes,0,眼光,眼睛发光,61899,双眼发光，可表示特殊能力或情绪
 motor_vehicle,0,,机动车辆,61683,非轨道自行驱动的地面车辆，包括农机和工程车辆
 pink_panties,0,,粉色内裤,61655,以粉色为主的内裤
-purple_shirt,0,purple_blouse,紫色衬衫,61629,紫色衬衫，有领有袖的上衣
+purple_shirt,0,purple_blouse,紫色衬衫,61629,紫色的上衣，包括衬衫、T 恤及无袖等款式
 black_sleeves,0,,黑色袖子,61581,独立的或与衣物其余部分异色的黑色袖子
 breasts_apart,0,,胸部向两侧分开,61554,两乳向两侧分开、露出胸骨
 white_hairband,0,,白色发箍,61482,用来束发的白色发箍
@@ -900,7 +900,7 @@ half_updo,0,half_down_half_up,半扎发,58627,上半头发扎起下半自然披�
 paizuri,0,tit_fuck|titfuck|titjob|乳交|大量挟射|挟射,乳交,58583,用乳房夹住阴茎摩擦的性行为
 jingle_bell,0,cat_bell|jingle_bells|jinglebell|jinglebells|响铃铛|猫铃铛,铃铛,58500,内有小珠的球形铃铛，常挂圣诞装饰或宠物项圈
 low-tied_long_hair,0,,低扎长发,58445,在发中或发尾低位束起的长发
-knee_up,0,单膝抬高|坐立腿,屈膝,58211,单膝抬起的动作
+knee_up,0,单膝抬高|坐立腿,单膝抬起,58211,单膝抬起的动作
 smoke,0,,烟雾,58148,燃烧或化学反应产生的悬浮颗粒与气体
 sleeves_rolled_up,0,folded_sleeves|rolled_sleeves|sleeves_folded_up|sleeves_rolled,卷起袖子,58143,把一只或两只袖子卷起来，如为降温或防脏
 covering_privates,0,covering|遮挡隐私部位|遮羞|隐私遮挡,遮挡私处,58108,因害羞或挑逗遮住私处
@@ -974,7 +974,7 @@ fake_tail,0,fake_animal_tail,假尾巴,52626,用物件模拟的尾巴
 wide-eyed,0,eyes_wide|shocked_eyes|wide_eyes|瞠目,睁大眼睛,52618,双眼完全睁开、虹膜四周露出眼白的表情
 purple_flower,0,,紫色花朵,52583,紫色的花朵，可为真实或虚构品种
 frilled_bikini,0,带褶边的比基尼,荷叶边比基尼,52557,带荷叶边的比基尼
-notice_lines,0,realization_lines|注意到,集中线,52511,角色头部或物体周围用于表示注意或强调的线条
+notice_lines,0,realization_lines|注意到,察觉线,52511,角色头部周围表示察觉事物或物体周围用于提示其存在的少量线条
 skin_tight,0,skintight|skintightsuit,贴身衣物,52488,紧贴身体、不留空隙的衣物
 hand_on_another's_head,0,,手放在他人头上,52383,一只手放在他人头顶
 hand_in_pocket,0,单手插兜,手插口袋,52364,单手插进一个口袋
@@ -1109,7 +1109,7 @@ off-shoulder_dress,0,滑肩连衣裙,露肩连衣裙,44870,领口宽大、袖子
 mature_male,0,dilf|大叔,成熟男性,44826,中年或年长的男性，通常有胡须或体毛
 epaulettes,0,,肩章,44744,军服肩部带流苏的装饰性肩章
 head_rest,0,chin_rest,头部依靠（头枕）,44716,把头或下巴搭在某物上休息
-black_collar,0,,黑色衣领,44701,黑色的独立衣领
+black_collar,0,,黑色颈圈,44701,独立佩戴的黑色颈圈，不指衣服自带衣领或分离式衬衫领
 red_rose,0,红色玫瑰|赤蔷薇,红玫瑰,44677,红玫瑰，常象征爱情与浪漫
 jeans,0,blue_jeans,牛仔裤,44612,牛仔布制的裤子
 hoop_earrings,0,hoop_earring,圆环耳环,44563,大圆环形的耳环
@@ -1638,7 +1638,7 @@ after_vaginal,0,阴道性交之后,阴道插入后,25604,阴道被性交或性�
 blue_rose,0,蓝色玫瑰|青蔷薇,蓝玫瑰,25575,蓝色的玫瑰，自然界并不存在
 disposable_cup,0,paper_cup|plastic_cup|soda_cup|纸杯,一次性杯子,25570,纸或塑料制的一次性杯子
 shoulder_tattoo,0,,肩部纹身,25555,位于肩膀或上臂处的纹身
-white_collar,0,,白色衣领,25544,白色的独立衣领，不指衬衫领
+white_collar,0,,白色颈圈,25544,独立佩戴的白色颈圈，不指衣服自带衣领或分离式衬衫领
 surrounded_by_penises,0,丁丁包围网|阴茎包围,被阴茎包围,25474,角色被许多无名阴茎包围，常见于轮奸场面
 glass,0,,玻璃,25469,以硅砂熔制、可做窗与器皿的材料
 looking_afar,0,,远望,25455,视线投向远处、不聚焦近处物体的注视
@@ -2024,7 +2024,7 @@ black_neckerchief,0,,黑色领巾,18555,系在颈部的黑色领巾
 gym_shirt,0,,体操服上衣,18550,体育课制服中的短袖上衣，常为白底彩色滚边
 bracer,0,bracers|护臂,护腕（腕甲）,18528,护住手腕和小臂的护甲
 black_halo,0,,黑色光环,18525,环绕头顶的黑色光环
-chestnut_mouth,0,三角嘴倒|栗子嘴,板栗嘴（花栗鼠嘴）,18521,一端尖、另一端圆的栗形嘴，可上尖下圆或下尖上圆
+chestnut_mouth,0,三角嘴倒|栗子嘴,栗子嘴,18521,一端尖、另一端圆的栗形嘴，可上尖下圆或下尖上圆
 game_controller,0,gamepad|手柄,游戏手柄,18497,与主机分离、用于操作游戏的手柄
 sparkling_eyes,0,sparkle_eyes,闪亮的眼睛,18487,瞳孔旁带有星形闪光的眼睛
 two-tone_skin,0,,双色皮肤,18482,仅由两种颜色构成的异色皮肤
@@ -4481,7 +4481,7 @@ onee-loli,0,,大姐姐×萝莉,4935,年长女性与幼女之间的情色或恋�
 finger_to_own_chin,0,finger_to_chin,手指抵下巴,4932,手指抵着自己下巴，多为思考状
 ghost_tail,0,,幽灵尾巴,4928,下半身呈幽灵般飘带状尾巴
 licking_finger,0,licking_fingers|舔舐手指,舔手指,4928,用舌头舔自己手指，常带挑逗意味
-blue_collar,0,,蓝色衣领,4922,蓝色的独立衣领，非衬衫一部分
+blue_collar,0,,蓝色颈圈,4922,独立佩戴的蓝色颈圈，不指衣服自带衣领或分离式衬衫领
 pink_border,0,,粉红色边框,4921,图像四周的粉色边框
 possessed,0,possession|凭依|附身,被附身,4920,角色的身体被幽灵、寄生虫等操控
 green_lips,0,green_lipstick|口绿|绿嘴唇|绿色口红|绿色嘴唇,绿色的嘴唇,4916,涂成绿色的嘴唇
@@ -6924,7 +6924,7 @@ mouth_piercing,0,,嘴部穿孔,2103,嘴唇或嘴部周围的穿孔饰品
 seaweed,0,,海藻,2103,大型多细胞海生藻类的统称
 shinda_sekai_sensen_uniform,0,,死后世界战线制服,2103,《Angel Beats!》死后世界战线的制服
 bartender,0,调酒师,酒保,2101,在酒吧调制并供应酒类的酒保
-brown_collar,0,,棕色衣领,2101,棕色的独立衣领
+brown_collar,0,,棕色颈圈,2101,独立佩戴的棕色颈圈，不指衣服自带衣领或分离式衬衫领
 bishamonten's_pagoda,0,jeweled_pagoda|宝塔,毘沙门天宝塔,2099,《东方Project》中寅丸星持有的宝塔
 blood_on_leg,0,bloody_leg,腿上的血,2099,腿部表面沾有血迹
 gigantic_penis,0,超根,巨大的阴茎,2099,与躯干相当、极其夸张的巨大阴茎
@@ -7846,7 +7846,7 @@ arm_pouch,0,,手臂袋,1618,戴在手臂上的小包
 license_plate,0,,牌照,1618,固定在车辆上显示注册信息的车牌
 aristocratic_clothes,0,,贵族服装,1617,近代欧洲贵族风格或受其启发的服装
 frontless_outfit,0,,前镂空服装,1617,正面露出胸腹与裆部的服装
-green_collar,0,,绿领,1616,独立的绿色衣领
+green_collar,0,,绿色颈圈,1616,独立佩戴的绿色颈圈，不指衣服自带衣领或分离式衬衫领
 helmet_over_eyes,0,,头盔在眼睛上,1616,头盔遮住眼睛但露出其余面部
 masturbation_under_clothes,0,伸入衣服下手淫|着衣自慰,衣服内自慰,1616,把手伸进衣服里自慰
 ornate_ring,0,gem_ring|gemstone_ring,华丽的戒指,1616,镶有宝石或刻有文字等装饰的戒指
@@ -10738,7 +10738,7 @@ gradient_border,0,,渐变边框,807,带渐变色的图片边框
 head_hug,0,hugging_another's_head,抱住他人头,807,抱住他人头部的动作
 mochitsuki,0,mochi_pounding|打年糕,捣年糕,807,日本传统用杵臼捣制年糕的活动
 tavern,0,酒场,酒馆,807,供人喝酒吃饭的中世纪风格酒馆，常见于奇幻题材
-yellow_collar,0,,黄色领子,807,单独佩戴的黄色衣领，不含衬衫自带领子
+yellow_collar,0,,黄色颈圈,807,独立佩戴的黄色颈圈，不指衣服自带衣领或分离式衬衫领
 ave_mujica_(bang_dream!),0,ave_mujica|avemujica,Ave Mujica（BanG Dream!）,806,《BanG Dream!》中的乐队Ave Mujica
 grey_lips,0,grey_lipstick|口灰|灰嘴唇|灰色口红|灰色嘴唇,灰色的嘴唇,806,嘴唇呈灰色，多用于病态或非人角色
 pokefication,0,pokefied,宝可梦化,806,把角色变成宝可梦的创作，通常属于动物化或拟兽化
@@ -11266,7 +11266,7 @@ holding_unworn_cape,0,,手持未穿的斗篷,719,手中拿着未穿的披风
 machete,0,,砍刀,719,刀刃宽长的砍刀、开山刀
 pile_of_books,0,book_pile,一堆书,719,杂乱地一本本叠在一起的书堆
 foodification,0,,食物化,718,把角色画成活着的食物的物化表现
-grey_collar,0,,灰色的衣领,718,独立佩戴的灰色衣领
+grey_collar,0,,灰色颈圈,718,独立佩戴的灰色颈圈，不指衣服自带衣领或分离式衬衫领
 holding_tennis_racket,0,,手持网球拍,718,手中拿着网球拍
 seaplane,0,水上机,水上飞机,718,可在水面起降的飞机，分船身式与浮筒式
 vietnamese_clothes,0,越服,越南传统服饰,718,越南传统服装，多源自阮朝
@@ -14716,7 +14716,7 @@ slime_sex,0,,史莱姆性爱,378,与史莱姆生物进行的插入式性行为
 sprite_art,0,,游戏图素像素画,378,游戏中使用的像素风图素素材
 toucan,0,,巨嘴鸟,378,南美洲产的大型巨嘴鸟类
 waist_poke_ball,0,waist_pokeball,腰间精灵球,378,挂在角色腰间的精灵球，通常配可见腰带
-aqua_collar,0,,水色衣领,377,水色（蓝绿色）的独立衣领
+aqua_collar,0,,水色颈圈,377,独立佩戴的水色（蓝绿色）颈圈，不指衣服自带衣领或分离式衬衫领
 crown_earrings,0,,王冠耳环,377,迷你王冠形状的耳环
 fenrir_(ff7),0,,芬里尔（最终幻想VII）,377,《最终幻想VII圣子降临》克劳德的摩托车及狼形标志
 firecrackers,0,firecracker|爆竹,鞭炮,377,制造响声的小型爆竹
