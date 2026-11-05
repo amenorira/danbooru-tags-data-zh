@@ -561,7 +561,7 @@ black_belt,0,,黑色腰带,103277,黑色的腰带，与武术黑带区分
 eyepatch,0,eye_patch|眼帯,眼罩,103243,遮住单只眼睛的布片
 cloudy_sky,0,昙天|阴天,多云天空,103180,云量过半的多云天空
 double-parted_bangs,0,双分刘海,双分刘海,103172,刘海分向左右两处
-skin_fang,0,flesh_fang|lip_fang|虎牙（皮下）,皮肤上的尖牙,103132,与肤色同色、画在嘴部轮廓上的单颗尖牙
+skin_fang,0,flesh_fang|lip_fang|虎牙（皮下）,肉牙（单颗）,103132,与肤色同色、画在嘴部轮廓上的单颗尖牙
 feathered_wings,0,feather_wings,羽翼,102778,覆盖羽毛的翅膀
 hair_tubes,0,hair_tube,发筒,102697,将发束与主体头发分开的筒形发饰
 shoulder_armor,0,shoulder_armour|肩当,肩甲,102522,保护肩部的小块护甲
@@ -1971,7 +1971,7 @@ uneven_legwear,0,,不对称的腿部穿着,19406,左右腿袜或护腿长度不�
 autumn_leaves,0,fall_leaves|红叶|黄叶,秋叶,19405,秋天飘落的红黄褐色落叶
 ear_blush,0,,耳朵红晕,19402,耳朵泛红，可表示极度尴尬
 three-quarter_sleeves,0,sleeves_past_elbows|七分丈,七分袖,19384,长及前臂中部的袖子，盖过肘但不到腕
-lowleg,0,low-rise|低腰,低开叉,19366,腰线较低的服装，如低腰内裤、短裤或裙子
+lowleg,0,low-rise|低腰,低腰服饰,19366,腰线较低的服装，如低腰内裤、短裤或裙子
 paintbrush,0,paint_brush|画笔,画笔,19347,各类画笔的统称，需搭配具体笔种标签
 holding_another's_wrist,0,grabbing_another's_wrist|wrist_grab,握住他人的手腕,19339,握住他人的手腕或小臂
 chest_tattoo,0,胸部纹身,胸口纹身,19334,上胸部的纹身，男性可延伸到腹部
@@ -2523,7 +2523,7 @@ third_eye,0,3rd_eye,第三只眼,13388,角色头或身上长出的第三只眼
 name_connection,0,namesake|名字相同/相近,同名联想,13379,因名字相同或相似而玩梗、配对或引用
 bound_legs,0,双腿捆绑|足枷,腿被束缚,13377,双腿被绑在一起
 standing_split,0,淫兰|站立一字马|站立劈腿,站立劈叉,13370,单腿站立、另一腿抬起形成纵向一字马
-brown_bag,0,brown_backpack|brown_handbag,棕色袋子,13363,褐色纸袋；再生褐色纸袋另用 paper_bag
+brown_bag,0,brown_backpack|brown_handbag,棕色袋子,13363,棕色的包或袋，包括背包、手袋等；再生棕色纸袋另用 paper_bag
 monster_boy,0,亜人|怪物男孩,魔物男孩,13346,半人半怪物的男孩，魔物娘的男性版
 shiny_pokemon,0,shinypokemon,闪光宝可梦,13326,具有官方闪光配色的宝可梦
 single_sock,0,one_sock,单只袜子,13323,只在一只脚上穿的袜子
@@ -2868,7 +2868,7 @@ grey_sailor_collar,0,,灰色水手领,10781,颜色为灰色的水手领
 river,0,,河流,10781,天然形成的大型流动水体
 rectangular_eyewear,0,rectangular_glasses,矩形眼镜,10780,镜框为矩形而非圆形的眼镜
 star_symbol_background,0,,星形符号背景,10769,由星形图案构成的背景
-arm_garter,0,,手臂袜带,10763,戴在上臂的松紧带饰物
+arm_garter,0,,上臂松紧饰带,10763,戴在上臂的松紧带饰物
 purple_leotard,0,,紫色紧身连衣裤,10757,紫色紧身连衣裤，覆盖躯干但露出腿部
 blue_overalls,0,,蓝色工作服,10752,蓝色的背带工作服
 grey_cardigan,0,,灰色开衫,10743,颜色为灰色的开襟毛衣
@@ -2897,10 +2897,10 @@ updo,0,盘发,头发往上蜷的发型,10622,头发在脑后高高绾起的女�
 sideways_mouth,0,cheek_mouth|side_mouth|侧嘴,把嘴画在侧脸,10621,侧脸时嘴画在脸侧，有时看似两张嘴
 ankle_socks,0,anklehighs|short_socks|短袜,踝袜,10614,长及脚踝上方、未到小腿的短袜
 snout,0,鼻口部,动物口鼻部,10612,动物面部突出的口鼻部
-manly,0,益荒男,强壮的,10603,强调肌肉、体格等传统男性气质的画面
+manly,0,益荒男,阳刚,10603,强调传统男性气质的画面
 panty_peek,0,内裤露出,微微露出内裤,10599,短裤等衣物下露出内裤的边
 cowlick,0,,翘起的头发,10592,一撮翘起或与其他头发方向不一致的不服帖头发
-thank_you,0,arigatou|thanks|thankyou|谢谢,感谢绘,10589,用任意语言写出的感谢词，常见于纪念或答谢委托的图
+thank_you,0,arigatou|thanks|thankyou|谢谢,感谢语,10589,用任意语言写出的感谢词，常见于纪念或答谢委托的图
 multicolored_wings,0,,有多种颜色的翅膀,10588,至少有两种以上颜色（含渐变）的翅膀
 shopping_bag,0,shopping_bags|买物袋,购物袋,10575,装购买商品、常印有店标的袋子
 leopard_print,0,cheetah_print|jaguar_print|leopardprint|豹柄,豹纹,10571,豹纹或豹子身体、脸部图案；常为黄底黑色或棕色斑点，也可使用其他颜色
@@ -3349,7 +3349,7 @@ karakasa_obake,0,karakasa|karakasa-obake|kasa-obake|kasa_obake,唐伞妖怪,8344
 brown_scarf,0,,棕色围巾,8342,棕色围巾，绕在脖子上保暖
 orange_necktie,0,,橙色领带,8342,衬衫领下打结的橙色领带
 pocket_watch,0,pocketwatch|懐中时计,怀表,8335,放在口袋里而非戴在手腕上的怀表
-silk,0,绢糸|蜘蛛糸,丝绸,8333,某些节肢动物或怪物吐出的强韧蛋白纤维
+silk,0,绢糸|蜘蛛糸,丝（生物丝）,8333,某些节肢动物或怪物吐出的强韧蛋白纤维
 underboob_cutout,0,南半球开口,衣服有下半乳开口,8333,衣服开洞露出乳房下缘的设计
 albino,0,白皮症,白化病,8328,缺乏黑色素的白化个体
 reverse_trap,0,伪郎|正莉,伪男,8326,外貌男性化、易被误认为男性的女性角色
@@ -3460,7 +3460,7 @@ rabbit_pose,0,bunny_pose,兔耳手势,7887,双手举到头顶模仿兔耳的手�
 cow_print_gloves,0,,奶牛纹手套,7881,带奶牛斑纹的手套
 gym_shorts,0,,体操短裤,7877,体育课穿的宽松直筒短裤
 inverted_bob,0,斜切波波头,反鲍勃头,7875,后短前长、越往前越长的鲍勃发型
-red-tinted_eyewear,0,,红色的眼镜,7875,镜片带红色着色的眼镜
+red-tinted_eyewear,0,,红色镜片眼镜,7875,镜片带红色着色的眼镜
 blue_cardigan,0,,蓝色开衫,7867,前开扣的蓝色针织开衫
 garreg_mach_monastery_uniform,0,,加尔格·马可大修道院制服,7859,《火焰纹章：风花雪月》士官学校的校服
 reflective_liquid,0,reflective_water|反射（水面）|水镜|水面,反光液面,7859,能映出倒影的水面或其他液面
@@ -3754,7 +3754,7 @@ pokephilia,0,,宝可梦性爱,6841,人类与宝可梦之间的性爱或恋爱关
 city_lights,0,,城市灯光背景,6838,照亮城市的灯光，尤其夜景
 cum_pool,0,cum_puddle|cumpool|精液水洼,淌成一滩的精液,6838,精液在地面淌成一小滩
 character_profile,0,,角色简介,6832,介绍角色姓名、性格等资料的图片
-skin_fangs,0,lip_fangs,皮肤牙,6826,与肤色同色、画在嘴部轮廓上的尖牙
+skin_fangs,0,lip_fangs,肉牙（多颗）,6826,与肤色同色、画在嘴部轮廓上的尖牙
 danmaku,0,弹幕（东方）|弾幕,弹幕,6820,弹幕射击游戏中铺满屏幕的密集弹幕
 black_feathers,0,,黑色羽毛,6819,黑色的羽毛，长在翅膀上时不适用
 small_penis,0,little_penis|短小,小阴茎,6819,比成年男性平均更小、勃起约一指长的阴茎
@@ -3956,7 +3956,7 @@ layered_bikini,0,层叠比基尼,分层比基尼,6273,有两层或以上可辨�
 clothes_in_mouth,0,叼着衣服|嘴里含着衣服,嘴里的衣服,6271,用嘴叼住衣物的样子
 yellow_sash,0,,黄色饰带,6271,斜挎肩背或系于腰间的黄色饰带
 gekkoukan_high_school_uniform,0,,月光馆学园校服（女神异闻录3）,6270,《女神异闻录3》月光馆学园的校服
-banner,0,vertical_flag,横幅,6269,用于展示文字或图案的横幅或旗帜，常为竖向
+banner,0,vertical_flag,旗幡或标语布幅,6269,用于展示文字或图案的布幅或旗帜，可为横向或竖向
 defloration,0,処女|処女丧失|破瓜,破处,6268,作品中以处女膜破裂或性交出血表现失去处子之身；现实中出血及处女膜状态不能可靠判断是否有性交经历
 chicken,0,chickens,鸡,6267,家禽鸡，供肉用或蛋用
 cone_horns,0,,锥形角,6267,圆锥形状的角，常见于鬼
@@ -4023,7 +4023,7 @@ mochi,0,,麻薯,6096,糯米蒸熟捣成糊再塑形的日式点心，新年传�
 multicolored_fur,0,,多色皮毛,6095,由多种颜色组成的体毛
 grey_border,0,gray_border,灰色边界,6094,图像四周带有灰色边框
 medal,0,medals,勋章,6093,刻有铭文或图案的金属圆片，用于纪念或奖励功绩
-chain_leash,0,collar_with_chain,链皮带,6091,连接项圈用作牵绳的链条
+chain_leash,0,collar_with_chain,链式牵绳,6091,连接项圈用作牵绳的链条
 unusually_open_eyes,0,开眼,异常睁开眼睛,6089,平时总闭着眼的角色在图中睁开了眼睛
 blowing_bubble_gum,0,,吹泡泡糖,6087,用口香糖吹出泡泡
 fellatio_gesture,0,blowjob_gesture|口交手势,口交手势,6086,模仿口交动作的手势
@@ -4034,7 +4034,7 @@ electric_fan,0,扇风机|风扇,电风扇,6079,用电动叶片送风的电风扇
 magazine_cover,0,,杂志封面,6077,杂志封面或仿制的杂志封面
 shoulder_boards,0,,硬式肩章,6077,军警制服肩上的长条硬式肩章，用于标示军衔
 lace_panties,0,,蕾丝内裤,6076,完全由蕾丝制成的内裤
-car_interior,0,inside_car|车内|车里,汽车内饰,6075,汽车内部的场景
+car_interior,0,inside_car|车内|车里,汽车内部,6075,汽车内部的场景
 virgin_killer_sweater,0,童贞杀手毛衣,处男杀手毛衣,6075,高领露背、颈后有抽绳的童贞杀手毛衣
 in_box,0,,在盒子里的,6074,人或物待在箱子里
 tucking_hair,0,hair_tucking,拢发,6073,把头发从脸前拢开的动作
@@ -4156,7 +4156,7 @@ flats,0,绣花鞋,平底鞋,5721,没有鞋跟的平底鞋
 green_bra,0,,绿色胸罩,5719,呈绿色的胸罩或上身内衣
 yellow_hoodie,0,,黄色连帽衫,5716,带兜帽的黄色连帽衫
 red_tattoo,0,,红色纹身,5715,颜色为红色的纹身
-pink-tinted_eyewear,0,,粉红色的眼镜,5708,粉色镜片的眼镜
+pink-tinted_eyewear,0,,粉色镜片眼镜,5708,粉色镜片的眼镜
 snot,0,鼻水,鼻涕,5702,因哭泣、感冒或过敏从鼻中流出的黏液
 horned_headwear,0,,角状头饰,5701,带假角的头饰，头盔另计
 ice_cube,0,ice_cubes,冰块,5701,方形或长方形的冰块，用来给饮料降温
@@ -4552,7 +4552,7 @@ pink_vest,0,,粉色背心,4763,粉色马甲，套在衬衫外的无袖上衣
 holding_panties,0,,拿着内裤,4762,手里拿着脱下的内裤
 balcony,0,,阳台,4757,从墙面伸出、带栏杆的无顶平台
 open_robe,0,,敞开的长袍,4755,未系合、露出身体的长袍
-turnaround,0,三面図,前后身对比图,4755,同一角色多角度并排的角色设定图
+turnaround,0,三面図,角色多视图,4755,同一角色多角度并排的角色设定图
 studded_belt,0,stud_belt|studbelt,镶钉皮带,4754,表面镶有金属铆钉的皮带
 tied_up_(nonsexual),0,被绑（非性关系）,捆绑（非性）,4753,喜剧或非色情语境下的身体拘束
 blue_border,0,,蓝色边框,4749,图片四周为蓝色的边框
@@ -4974,7 +4974,7 @@ rocket_launcher,0,missile_launcher|recoilless_rifle|无反动炮,火箭筒,4054,
 red_petals,0,,红色花瓣,4052,红色的花瓣，指从花上散落的花瓣
 dalachi_(headdress),0,大拉翅,达拉翅（头饰）,4051,清代满洲贵族女性戴的翅形大帽
 black_armband,0,,黑色臂章,4050,套在上臂作标识用的黑色臂章
-frilled_shorts,0,,褶皱短裤,4049,带荷叶边的短裤
+frilled_shorts,0,,荷叶边短裤,4049,带荷叶边的短裤
 oc_x_canon,0,canon_x_oc|canonxoc|ocxcanon|original_character_with_canon_character,OC×原作角色,4049,原创角色与某作品官方角色互动的图，多为配对向
 star_brooch,0,,星胸针,4046,星形主题的胸针
 hands_on_another's_cheeks,0,,双手放在对方的脸颊上,4045,双手放在他人两侧脸颊上
@@ -5127,7 +5127,7 @@ energy_ball,0,光球,能量球,3844,由能量凝聚成的球体
 liquid,0,,液体,3841,无法明确辨认且不带性暗示的液体
 holding_tablet_pc,0,,持有平板电脑,3839,手中拿着平板电脑
 manga_(object),0,doujin_(object)|doujinshi_(object),漫画（物件）,3839,画面中出现漫画或同人志等书本
-arm_cutout,0,,手臂切口,3836,衣服在手臂处的镂空开口
+arm_cutout,0,,手臂处的服装镂空,3836,衣服在手臂处的镂空开口
 green_capelet,0,,绿色短斗篷,3835,呈绿色的披肩式短斗篷
 pixiv_username,0,,Pixiv用户名,3835,图像上写有画师Pixiv用户名的帖子
 lycoris_uniform,0,,Lycoris制服,3833,Lycoris Recoil中Lycoris特工穿的制服
@@ -5212,7 +5212,7 @@ layered_kimono,0,multilayer_kimono|十二単|十二単衣,分层和服,3745,多�
 leg_armor,0,,腿部装甲,3740,保护腿部的甲具
 strapless_bra,0,,无肩带胸罩,3739,靠加宽带身固定、没有肩带的胸罩
 traditional_nun,0,,传统修女,3739,传统基督教式的修女服，非动漫化设计
-park_bench,0,公园长椅,公园的长椅上,3737,设在公园里的木制长椅
+park_bench,0,公园长椅,公园长椅,3737,设在公园里的木制长椅
 linked_piercing,0,linked_piercings,相连的穿刺,3736,互相连接的两处穿刺饰品，常由链条连接
 mechanical_ears,0,,机械耳朵,3736,外形仿照真实耳朵的机械耳
 wrist_bow,0,,手腕蝴蝶结,3736,直接系在手腕上的蝴蝶结
@@ -5222,7 +5222,7 @@ head_down,0,,低着头,3730,身体直立时头部向下低垂
 meiji_schoolgirl_uniform,0,,明治年间女学生制服,3730,源自明治时期的女式和服加袴裙及系带靴装束，也用于后世
 dark_anus,0,brown_anus,深色肛门,3729,颜色明显偏深褐或偏黑的肛门
 hair_brush,0,hairbrush,发刷,3724,用于梳理头发或动物毛的刷子
-ankle_strap,0,,脚踝丝环,3723,绕脚踝一圈、多连在凉鞋或高跟上的带子
+ankle_strap,0,,鞋踝带,3723,绕脚踝一圈、多连在凉鞋或高跟上的带子
 green_bodysuit,0,green_bikesuit,绿色紧身衣,3723,呈绿色的全身紧身衣
 striped_headwear,0,,条纹头饰,3722,带条纹图案的头饰或帽子
 year_of_the_rabbit,0,兔年|卯年,兔年,3719,十二生肖中的兔年，排在第四位
@@ -5437,7 +5437,7 @@ hand_on_another's_leg,0,,手放在他人腿上,3457,一只手放在他人腿上
 curtain_grab,0,holding_curtain|pulling_curtains,抓住窗帘,3455,角色抓住窗帘的动作
 cardigan_around_waist,0,,开衫系腰间,3454,系在腰间的开衫
 orange_halo,0,,橙色光环,3454,橙色的光环，常出现在角色头顶
-frilled_sailor_collar,0,,褶皱的水手领,3453,带荷叶边的水手领
+frilled_sailor_collar,0,,荷叶边水手领,3453,带荷叶边的水手领
 tennis_uniform,0,网球服,网球服,3452,打网球穿的轻便服装，男为T恤短裤、女为T恤配短裙
 bilingual_text,0,,双语文字,3449,用两种语言呈现相同内容的文字
 coin_on_string,0,,弦上的硬币,3447,用线吊起的硬币，多用于催眠
@@ -6290,7 +6290,7 @@ white_bridal_gauntlets,0,,白色婚纱长手套,2557,白色的婚纱长手套
 animal_ear_legwear,0,animal_band_legwear,兽耳腿袜,2556,上缘带动物图案的腿部穿着
 golden_week,0,,黄金周,2555,日本4月底至5月初的连续假期黄金周
 clapping,0,clap|拍手,鼓掌,2554,双掌相击发出声响的鼓掌
-frilled_camisole,0,,褶皱的吊带,2554,带荷叶边的吊带背心
+frilled_camisole,0,,荷叶边吊带背心,2554,带荷叶边的吊带背心
 spiked_club,0,金棒|金砕棒,狼牙棒,2553,带有尖刺的棍棒，日式金砕棒常与鬼相关
 cleave_gag,0,cleave_gagged|cleavegag,勒嘴口枷,2551,勒在牙齿之间撑开口腔的布条口枷
 umamusume_horse_relations,0,the_dark_side_of_the_horse_(umamusume)|史実亲子|史実夫妇|史実爷孙|皇帝一家,原型赛马的亲属关系,2550,影射马娘原型赛马之间真实血缘关系的图像
@@ -7088,7 +7088,7 @@ hair_dryer,0,blow_dryer|blowdryer|hairdryer|吹风机,电吹风,2010,吹干和�
 orange_tank_top,0,,橙色背心,2010,贴身无袖的橙色背心上衣
 red_nose,0,,红鼻子,2010,红色的鼻子，包括小丑假鼻或冻红、酒糟鼻
 two-sided_gloves,0,,掌面异色手套,2010,掌面与手背颜色或花纹不同的手套
-frilled_armband,0,,褶皱臂章,2009,带荷叶边的臂章
+frilled_armband,0,,荷叶边臂章,2009,带荷叶边的臂章
 casting_spell,0,咏唱,施咒,2008,施放魔法，常有可见魔法效果，也可通过吟唱等语境表现
 maple_leaf_print,0,,枫叶印花,2008,印有枫叶图案的衣物或物件
 borderless_panels,0,,无边界面板,2006,用空隙分隔、无框线的漫画分格
@@ -7858,7 +7858,7 @@ copy_ability,0,,复制能力,1612,《星之卡比》中复制敌人能力的机�
 hands_on_another's_chest,0,,双手放在他人胸口,1612,双手放在他人胸口上
 queen_(chess),0,,皇后(国际象棋),1612,国际象棋中的皇后棋子
 cigarette_pack,0,cigarette_box,香烟包,1611,装香烟出售的烟盒
-frilled_umbrella,0,,褶皱雨伞,1611,带荷叶边的雨伞
+frilled_umbrella,0,,荷叶边雨伞,1611,带荷叶边的雨伞
 <o>_<o>,0,,<o>_<o>,1610,大黑瞳孔的宽杏仁形眼睛
 croissant,0,,羊角面包,1610,层酥卷成新月形的可颂面包
 green_tea,0,,绿茶,1610,未经发酵、以绿茶粉冲泡的茶
@@ -9088,7 +9088,7 @@ multiple_hats,0,,多顶帽子,1167,角色同时戴多顶帽子或帽子加其他
 piano_keys,0,,琴键,1167,琴键为画面主要焦点，或无法判断键盘乐器类型时使用
 bee_girl,0,蜂娘,蜜蜂女孩,1166,带蜇针和蜂翅等特征的蜜蜂女孩
 blood_on_wall,0,bloody_wall,墙上的血,1166,墙面溅上或留下血迹
-frilled_bonnet,0,ruffled_bonnet,褶皱软帽,1166,带荷叶边的系带软帽
+frilled_bonnet,0,ruffled_bonnet,荷叶边软帽,1166,带荷叶边的系带软帽
 joystick,0,,操纵杆,1166,带握杆和按键的游戏控制器，常见于街机
 shared_object_insertion,0,shared_dildo|shared_insertion,多人共用物体插入,1166,同一物体被插入多个人体内
 brass_knuckles,0,指虎,指节铜环,1165,套在指节上增强拳力的金属武器
@@ -9205,7 +9205,7 @@ yellow_mask,0,,黄色面具,1137,覆盖面部的黄色面具
 ashigaya_high_school_uniform,0,,芦谷高中校服,1136,芦谷高中的校服
 diorama,0,,西洋镜,1136,像被切开的缩微立体场景
 fakemon,0,,自创宝可梦,1136,同人创作的原创宝可梦
-frilled_shawl,0,,褶皱披肩,1136,带荷叶边的披肩
+frilled_shawl,0,,荷叶边披肩,1136,带荷叶边的披肩
 mutual_masturbation,0,masturbating_each_other|互相手淫,相互手淫,1136,两名以上的人同时互相手淫
 weights,0,,哑铃、杠铃等重物,1136,供人举起的金属重物，如哑铃和杠铃
 clothes_on_floor,0,,地板上的衣服,1135,散落在地板上的衣物
@@ -9967,7 +9967,7 @@ removing_eyewear,0,removing_glasses|removing_sunglasses,摘下眼镜,954,手拿�
 studded_gloves,0,,铆钉手套,954,指节或手背镶有金属铆钉的手套
 udon,0,,乌冬面,954,粗的日式小麦面条
 expression_chart,0,表情练习,角色的多表情展示,953,网格状排列多种表情的图表
-frilled_babydoll,0,,褶皱babydoll,953,带荷叶边的娃娃装睡衣
+frilled_babydoll,0,,荷叶边娃娃装睡衣,953,带荷叶边的娃娃装睡衣
 jester_costume,0,,小丑服,953,小丑或宫廷弄臣的服装，多带尖角帽与铃铛
 liquid_clothes,0,,液体衣服,953,全部或部分由液体构成的衣服
 taut_bodysuit,0,,紧绷的紧身衣裤,953,紧到布料在胸前或臀上绷出褶皱的连体紧身衣
@@ -10039,7 +10039,7 @@ apple_slice,0,,苹果切片,938,切下的一块苹果
 catching,0,,捕捉,938,在人或物落地前接住
 crosshair,0,crosshairs|reticle|准星,准星,938,狙击镜等瞄具中看到的十字准线
 fighting_game,0,,格斗游戏,938,画面体现格斗游戏机制，如血条或选人画面；单纯出现角色不足以使用
-frilled_vest,0,,褶皱背心,938,带荷叶边的背心马甲
+frilled_vest,0,,荷叶边马甲,938,带荷叶边的背心马甲
 grey_male_underwear,0,,灰色男性内衣,938,颜色为灰色的男性内衣
 texture,0,,质地,938,含义模糊的标签，具体质感应改用画布、网点等专门标签
 cocktail_shaker,0,,摇酒壶,937,摇匀并冷却鸡尾酒的摇酒壶
@@ -10584,7 +10584,7 @@ oxfords,0,牛津鞋,牛津鞋,833,鞋带融入鞋面的正装牛津鞋
 sheriff_badge,0,,警长徽章,833,警长佩戴的星形金属徽章
 comic_sans,0,,Comic Sans字体（梗）,832,模仿手写漫画字体的Comic Sans
 energy_barrier,0,force_field,能源屏障,832,由能量形成的屏障，常呈透明墙面或气泡状
-frilled_sash,0,,褶皱的腰带,832,带荷叶边的腰带
+frilled_sash,0,,荷叶边腰带,832,带荷叶边的腰带
 funeral_dress,0,mourning_dress|丧服|丧服（西式）|葬礼服,葬礼连衣裙,832,葬礼上穿的多为黑色长裙
 piano_bench,0,琴凳,钢琴凳,832,弹钢琴时坐的木凳，有长有短
 riverbank,0,川岸,河岸,832,河流旁边的地带
@@ -11704,7 +11704,7 @@ boobs_in_book_(meme),0,book_as_bra_(meme)|booktrend,书里藏胸（梗）,654,�
 colored_stripes,0,,多彩条纹,654,两种颜色且不含白色的条纹
 corn_dog,0,corndog,玉米热狗,654,玉米面糊裹热狗油炸的玉米热狗
 d-sword,0,,妄想之剑（混沌之子）,654,《混沌之子》中的妄想之剑
-frilled_footwear,0,,褶皱鞋类,654,带荷叶边的鞋类
+frilled_footwear,0,,荷叶边鞋类,654,带荷叶边的鞋类
 holding_cleaver,0,,手持菜刀,654,手里握着宽刃的菜刀或斩骨刀
 mismatched_socks,0,,不成对的袜子,654,左右袜子的颜色、图案或设计不同
 racetrack,0,,赛道,654,供汽车或摩托车竞速的赛道
@@ -12471,7 +12471,7 @@ vanripper_(style),0,,vanripper（画风）,564,模仿《Helltaker》作者vanrip
 willow,0,,柳树,564,枝条细长下垂、常见于东方场景的柳树
 colored_penis,0,,异色阴茎,563,颜色与角色肤色不同的阴茎
 crayon_drawing,0,,蜡笔画,563,用蜡笔绘制的图画
-frilled_nightgown,0,,褶皱的睡衣,563,带荷叶边的睡裙
+frilled_nightgown,0,,荷叶边睡裙,563,带荷叶边的睡裙
 hula_hoop,0,hulahoop,呼啦圈,563,在腰或四肢上旋转的塑料呼啦圈
 pointy_hat,0,,尖头帽子,563,含义模糊的尖顶帽，应改用具体帽型标签
 aztec_clothes,0,,阿兹特克服饰,562,阿兹特克风格的传统服装
@@ -15371,7 +15371,7 @@ packet,0,,小包装,340,小袋小包状包装
 pov_dating,0,,POV约会,340,表现与角色正在约会的观看者视角
 sanada_clan_(emblem),0,六文銭|六连銭,真田氏家纹,340,真田家的六连钱家纹，图案为六枚钱币
 too_many_belts,0,,皮带太多,340,身上笨重地系着过多皮带
-frilled_necktie,0,,褶皱领带,339,带荷叶边的领带
+frilled_necktie,0,,荷叶边领带,339,带荷叶边的领带
 fruit_earrings,0,,水果耳环,339,水果造型的耳环
 gold_headband,0,,金头带,339,呈金色、束于额头的头带
 inverted_eyelashes,0,,内翻睫毛,339,睫毛朝眼球方向内翻
@@ -15690,7 +15690,7 @@ beach_house,0,,海滨小屋,323,海边季节性营业的小吃店
 blue_surcoat,0,,蓝色罩袍,323,穿在铠甲外的蓝色无袖外袍
 enoshima_junko_(cosplay),0,,江之岛盾子（角色扮演）,323,《弹丸论破》江之岛盾子的角色扮演
 fluffy_legwear,0,,蓬松的腿衣,323,像动物毛皮般蓬松的袜类
-frilled_bracelet,0,,褶皱手镯,323,带荷叶边的手镯
+frilled_bracelet,0,,荷叶边手镯,323,带荷叶边的手镯
 harmonica,0,,口琴,323,口琴，吹奏式自由簧管乐器
 homeworld_gem_uniform,0,,母星宝石制服,323,《宇宙小子》中母星宝石人的制服
 marigold,0,,万寿菊,323,万寿菊或金盏花类的橙黄色菊科花卉
@@ -15711,7 +15711,7 @@ cummerbund,0,,腹带,322,正式礼服腰间所系的宽腰带
 doll_(nikke),0,,玩偶（妮姬）,322,妮姬中仿照指挥官制作的玩偶
 dress_over_shirt,0,,连衣裙叠穿衬衫,322,连衣裙穿在衬衫外面的叠穿
 excalibur_(fate/prototype),0,,誓约胜利之剑（Fate/Prototype）,322,Fate/Prototype中亚瑟·潘德拉贡所持的誓约胜利之剑
-frilled_pants,0,,褶皱裤子,322,带荷叶边的裤子
+frilled_pants,0,,荷叶边裤子,322,带荷叶边的裤子
 grey_headband,0,,灰色头带,322,戴在额头上的灰色头带
 gris_swimsuit,0,grisswimsuit,Gris泳衣,322,无肩带透明连体泳衣，胸前窄条与裆部薄片不透明
 group_pose,0,,合影姿势,322,多人一起摆出的统一姿势
@@ -16152,7 +16152,7 @@ elbowing,0,,用肘推,299,用肘部顶撞他人
 feature_scout_1_(ensemble_stars!),0,,Feature Scout 1（偶像梦幻祭）,299,《偶像梦幻祭》Feature Scout第一期卡面系列
 first_aid,0,応急処置|応急手当,急救,299,对伤者进行的简单紧急救治
 footjob_from_behind,0,,背后足交,299,从背后绕过腰用脚进行的足交
-frilled_cape,0,,褶皱斗篷,299,带荷叶边装饰的斗篷
+frilled_cape,0,,荷叶边斗篷,299,带荷叶边装饰的斗篷
 fur_skirt,0,,毛皮裙,299,整体由毛皮制成的裙子
 h&k_mp5k,0,mp5k,HK MP5K冲锋枪,299,MP5的缩短型冲锋枪
 hip_flask,0,,酒壶,299,随身携带的扁身金属酒壶
@@ -20008,7 +20008,7 @@ duck_print,0,,鸭印花,168,印有鸭子图案的服饰
 esp_guitars,0,,ESP吉他,168,日本ESP公司生产的电吉他及贝斯品牌
 fishnet_shrug,0,,渔网短开衫,168,渔网材质的短开衫
 fluffy_hands,0,,毛茸茸的手,168,毛绒蓬松的手或爪子
-frilled_hakama,0,,褶皱哈卡马,168,带荷叶边的袴；按裙袴、裤袴或短袴分别使用 frilled_skirt hakama_skirt、frilled_pants hakama_pants 或 frilled_shorts hakama_shorts。
+frilled_hakama,0,,荷叶边袴,168,带荷叶边的袴；按裙袴、裤袴或短袴分别使用 frilled_skirt hakama_skirt、frilled_pants hakama_pants 或 frilled_shorts hakama_shorts。
 gynecology_chair,0,delivery_table,妇科椅,168,妇科检查用的开腿座椅
 hezi,0,诃子,诃子（汉服）,168,汉服中无肩带、可外穿或内搭的诃子
 horse_pose,0,golshi's_first_place_pose,马姿势,168,模仿马雕像的姿势，双臂一高一低弯曲
@@ -20483,7 +20483,7 @@ durumagi,0,周莫衣|周衣|周遮衣,周衣（韩服外套）,158,韩服最外�
 excavator,0,,挖掘机,158,用铲斗挖掘地面的工程机械
 feature_scout_2_(ensemble_stars!),0,,Feature Scout 2（偶像梦幻祭）,158,《偶像梦幻祭》Feature Scout第二期卡面系列
 fish_skeleton_print,0,fish_bone_print,鱼骨印花,158,鱼骨图案的印花
-frilled_underwear,0,,褶皱内衣,158,带荷叶边的内衣
+frilled_underwear,0,,荷叶边内衣,158,带荷叶边的内衣
 gold_gauntlets,0,,金色臂铠,158,呈金色的金属臂铠
 gradient_sarong,0,,渐变纱笼,158,带渐变色的纱笼。
 great_trichiliocosm_(e.g.o),0,,三千大千世界（E.G.O）,158,《边狱公司》中由「纠缠蝴蝶」提取的E.G.O
@@ -24066,7 +24066,7 @@ houraisan_kaguya_(cosplay),0,,蓬莱山辉夜（角色扮演）,101,扮演《东
 ironclad,0,,铁甲舰,101,19世纪下半叶的铁甲蒸汽战舰
 ishikawa_ken_(style),0,,石川贤画风,101,模仿石川贤的画风
 katsu_curry,0,,猪排咖喱,101,配炸肉排的咖喱饭。
-kneehighs_pull,0,,膝盖拉,101,用手拉扯及膝袜
+kneehighs_pull,0,,拉扯及膝袜,101,用手拉扯及膝袜
 leg_brace,0,,腿支架,101,支撑腿部的支架
 loose_panties,0,,松动的内裤,101,没有系紧但仍穿在身上的内裤
 marciana_(nikke)_(cosplay),0,,Marciana（妮姬）（角色扮演）,101,扮演《妮姬》角色Marciana的角色扮演
@@ -25489,7 +25489,7 @@ dinosaur_print,0,,恐龙印花,86,印有恐龙图案的服饰
 don't_you_ever_stop_(meme),0,tomarunjaneezo|不要停下来啊,你永远不会停下来（模因）,86,铁血孤儿中团长倒地指向前方的姿势
 double_barrels,0,,双枪管,86,并排的两根枪管
 fetch,0,,拿来,86,扔出物品让动物叼回的游戏
-frilled_scarf,0,,褶皱围巾,86,带荷叶边的围巾
+frilled_scarf,0,,荷叶边围巾,86,带荷叶边的围巾
 fuzzy_clothes,0,,毛绒衣服,86,表面绒毛浓密的衣服
 gable_roof,0,,山墙屋顶,86,两侧斜屋面、两端为人字山墙的屋顶
 gingham_bowtie,0,,方格纹领结,86,方格纹布做的领结

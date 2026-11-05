@@ -29,7 +29,7 @@ paid_reward_available,5,reward_available|付费内容,有付费内容,129716,画
 traditional_media,5,handdrawn|traditional_art|traditionalart|手绘|素描,传统媒介,125017,用铅笔、马克笔、颜料等传统工具手绘的图
 copyright_request,5,series_request,请求作品,123117,请求识别帖子出处作品（copyright）的标签
 md5_mismatch,5,,MD5不匹配,115334,文件MD5与来源处不同的帖子，来源可能有改动
-lowres,5,,低分辨率,112321,宽或高小于500像素的低分辨率图
+lowres,5,,低分辨率,112321,宽和高均不超过500像素的低分辨率图
 skeb_commission,5,skeb,Skeb约稿,111460,通过Skeb平台委托创作的作品
 large_variant_set,5,,大量差分,109590,属于含6张以上图片的差分组中的帖子
 third-party_source,5,搬运|盗作|转载|遗作,第三方来源,101769,来源为画师官方之外的搬运、转载等第三方网站
@@ -113,7 +113,7 @@ hard-translated,5,hard_translated|hard_translation|hardsub,硬翻,7087,第三方
 mihuashi_commission,5,,米画师约稿,6866,通过米画师平台委托创作的约稿作品
 resized,5,补分辨率,已缩放,6693,尺寸被改动过的图，需配合upscaled或downscaled
 incredibly_absurdres,5,,极高分辨率,6521,宽或高至少10000像素的极高分辨率图
-pen_(medium),5,,钢笔,6514,用钢笔等硬笔蘸墨绘制的作品，线条细而锐利
+pen_(medium),5,,墨水笔绘,6514,用墨水笔绘制的作品，包括圆珠笔、针管笔和蘸水笔等
 bad_twitter_link,5,,错误Twitter链接,6239,来源为Twitter图片直链，而非推文页面
 spanish_commentary,5,,西班牙文注释,5803,注释用西班牙文写成的帖子
 bad_nicoseiga_id,5,,错误Niconico静画ID,5751,Niconico静画原图不可见，2024年起限制日本境外访问
@@ -347,7 +347,7 @@ character_counter_request,5,,请求角色计数,252,图中角色数量或性别�
 korean_audio,5,,韩语音频,251,含韩语人声或韩语歌词的帖子
 download_link,5,,下载链接,244,来源为下载链接而非普通页面或直链的帖子
 gumroad_reward,5,,Gumroad内容,244,Gumroad的付费赞助图，现已禁止上传
-non-repeating_animation,5,non-repeating_gif,非循环动图,242,播放到结尾即停止、不循环的GIF或PNG动画
+non-repeating_animation,5,non-repeating_gif,有限循环动画,242,循环次数少于10次的动画图像，包括播放一次后停止的动画
 custom_maid_3d_2,5,,定制女仆3D2,238,用KISS的成人游戏《定制女仆3D2》制作或截取的CG
 thumbnail_surprise,5,,缩略图反差,235,缩略图与完整图观感差别很大的帖子
 reference_request,5,,请求参考,230,请求他人补充参考素材的帖子
