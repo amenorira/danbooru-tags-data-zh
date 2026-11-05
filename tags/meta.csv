@@ -198,7 +198,7 @@ completion_time,5,drawing_time,完成耗时,1270,图中或注释标明绘制该�
 end_card,5,endcard,片尾卡,1267,动画片尾由客座画师绘制的插图
 koikatsu_(medium),5,koikatu,恋活,1242,用Illusion的成人游戏《恋活》制作的3D图或动画
 bad_nijie_id,5,,错误Nijie ID,1227,Nijie原帖或原图已不可见
-paint_chat_(medium),5,绘茶,绘聊,1208,Magma、Drawpile等协作绘画网站上的多人合绘作品
+paint_chat_(medium),5,绘茶,绘聊,1208,使用Magma、Drawpile等协作绘画网站或工具创作的作品，多人共同作画可另用 artist_collaboration
 flash,5,,Flash,1202,用Adobe Flash制作的游戏、动画或MV，现已停止上传
 aliasing,5,resampling_artifacts,锯齿,1200,线条呈锯齿或像素块状的画质缺陷
 microsoft_paint_(medium),5,ms_paint|ms_paint_(medium)|mspaint|mspaint_(medium),画图,1180,用Windows画图（MS Paint）制作或编辑的图
