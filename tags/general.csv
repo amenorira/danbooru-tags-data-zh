@@ -10557,7 +10557,7 @@ rolling,0,,滚动,838,在地面上不断翻转着移动
 tucked_money,0,money_hold|money_in_cleavage|money_in_clothes|money_tuck,塞在身上的钱,838,把钱塞在乳沟、股沟或衣物里
 vertical-striped_coat,0,,竖条纹大衣,838,带竖条纹的大衣
 gaijin_4koma_(meme),0,gaijin4koma|gaijin_4koma|四老外,Gaijin 4Koma（模因）,837,基于IGN员工反应照片的四格反应梗
-holding_maracas,0,,手持沙锤,837,双手握着沙锤，多为演奏姿态
+holding_maracas,0,,手持沙锤,837,手中拿着沙锤
 railgun,0,railgun_(weapon)|电磁炮|电磁炮（武器）,电磁炮,837,用电磁力高速发射弹丸的电磁炮
 see-through_hair,0,translucent_hair|transparent_hair,透光头发,837,发丝实体部分能让光透过的头发
 vest_lift,0,,掀起马甲,837,掀起马甲，常露出胸罩或胸部
@@ -10626,7 +10626,7 @@ earphones_removed,0,,耳机卸下,825,耳机被摘下、无人佩戴
 other_with_male,0,,其他角色与男性,825,男性与中性外貌角色之间的恋爱或性描写
 parasite_suit_(darling_in_the_franxx),0,,寄生服（DARLING in the FRANXX）,825,《DARLING in the FRANXX》驾驶员穿的寄生服
 razor,0,,剃刀,825,用于剃须的剃刀
-stiff_tail,0,straightened_tail,僵硬的尾巴,825,因情绪紧张而僵直的尾巴
+stiff_tail,0,straightened_tail,僵硬的尾巴,825,原本柔软的尾巴因情绪反应而明显僵直，可见于愤怒、惊吓、恐惧或兴奋等情况
 yuki_onna,0,,雪女,825,日本传说中雪夜里出现的雪女妖怪
 ...!,0,,...!,824,省略号后接感叹号，常配惊讶表情
 fold-over_gloves,0,,翻折式手套,824,上部向下翻折成袖口的手套
@@ -10668,7 +10668,7 @@ ice_skating,0,滑冰,溜冰,818,穿冰刀在冰面滑行，可娱乐也可作冰
 o-ring_panties,0,,O形圈内裤,818,用O形环连接、通常在两侧的内裤
 orchid,0,兰（植物）,兰花,818,兰科植物，种类极多、外形差异很大的花卉
 panties_over_garter_belt,0,,吊袜带上的内裤,818,把内裤穿在吊袜带外面
-backless_panties,0,assless_panties,露背内裤,817,遮住阴部但露出臀部的内裤
+backless_panties,0,assless_panties,露臀内裤,817,遮住阴部但露出臀部的内裤
 cattail,0,bulrush|cattail_(plant),香蒲,817,香蒲属的水生植物
 connected_beard,0,,胡须相连,817,上唇胡须与下巴胡须相连
 energy_weapon,0,,能源武器,817,定向发射能量毁伤目标的武器
@@ -10818,7 +10818,7 @@ saturn_(planet),0,土星,土星（行星）,792,太阳系第六颗行星，以�
 see-through_dress_layer,0,transparent_dress_layer,透视裙层,792,叠穿连衣裙上覆盖上下半身的透明外层布料
 weapon_in_garters,0,,吊袜带中的武器,792,用大腿绑带、长袜等固定在大腿处的武器
 wool,0,,羊毛,792,羊等动物身上细软卷曲的毛，多用于纺线织布
-black_straps,0,,黑色皮带,791,黑色的皮带或绑带
+black_straps,0,,黑色带子,791,黑色的带子；该标签已停用
 hanafuda,0,花札,花札,791,以花鸟为图案的日本传统纸牌
 leg_focus,0,,腿部聚焦,791,画面以角色的腿部为焦点
 spreading_own_ass,0,,掰开自己臀部,791,用手掰开自己的臀部
@@ -10826,7 +10826,7 @@ cassette_tape,0,,磁带,790,卷绕磁性磁带的小型塑料盒
 clam,0,clams,蛤蜊,790,双壳类软体动物蛤蜊
 coughing,0,cough,咳嗽,790,因呼吸道刺激而咳嗽
 cross_ornament,0,,十字装饰,790,十字形状的装饰物
-meteor,0,陨石,流星体,790,坠入大气层并剧烈燃烧的岩石类天体
+meteor,0,,流星,790,流星体进入大气层时产生的发光现象
 multiple_unit_train,0,,动车组,790,由一节以上车厢组成、可统一控制的动车组
 on_toilet,0,,在马桶上,790,角色在马桶上，坐蹲站卧均可
 print_hairband,0,,印花发箍,790,印有图案的发箍
@@ -10851,10 +10851,10 @@ boyshort_panties,0,,Boyshort内裤,786,覆盖臀部和大腿根的女式平角�
 hane_(hanetsuki),0,,羽子（板羽球）,786,玩板羽球用的彩色羽毛毽
 red_bull,0,redbull,红牛,786,知名能量饮料品牌红牛
 yen_sign,0,yen_symbol|円记号|圆符号,日元标志,786,表示日元或人民币的¥符号
-begging,0,恳愿|祈求,乞讨,785,向他人恳求或求饶的动作
+begging,0,恳愿|祈求,恳求,785,向他人恳求某事或请求原谅
 flesh,0,,血肉,785,难以辨认结构或脱离身体的人体或动物组织块
 heart-shaped_bag,0,,心形袋子,785,心形的包袋
-ink_wash_painting,0,墨绘|帧水墨|水墨画,中国水墨画,785,用不同浓淡的黑墨绘成的中国画形式
+ink_wash_painting,0,墨绘|帧水墨|水墨画,水墨画,785,用不同浓淡的墨绘制的画作，也包括日本等地的水墨画
 saxophone,0,,萨克斯管,785,常用于爵士与古典乐的管乐器，有四种常见音域
 sunken_cheeks,0,,凹陷的脸颊,785,面颊向内凹陷，可因吸吮、饥饿、疲劳等产生
 wet_floor,0,,地面湿滑,785,明显湿漉漉的地面，旁边可能有警示牌
