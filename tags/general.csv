@@ -11017,14 +11017,14 @@ embroidered_bra,0,,刺绣胸罩,759,带刺绣装饰的胸罩
 orange_lips,0,orange_lipstick|口橙|橙色口红|橙色嘴唇,橙色的嘴唇,759,涂成橙色的嘴唇
 skull_belt,0,,骷髅腰带,759,带扣或带身带有骷髅设计的腰带
 trolling,0,,恶搞行为,759,以言语等方式故意激怒他人的行为
-x-ray_vision,0,透视|透视视图,X射线视觉,759,角色或设备具备的透视能力
+x-ray_vision,0,透视|透视视图,X射线视觉,759,角色通过自身能力或设备透视衣物、墙壁等；仅供观者看到的透视另用 x-ray
 chain_around_arm,0,,链条缠臂,758,缠绕在手臂上的锁链
 front_zipper,0,,前拉链,758,位于衣物正面的拉链
 resting,0,,休息,758,从活动中休息，或一般地放松
 single_unworn_glove,0,,单只脱下手套,758,已废弃的标签；可结合语境使用单只手套及未佩戴手套等具体标签
 string_of_light_bulbs,0,,一串灯泡,758,串在两点之间、比圣诞灯更大的圆灯泡串
 turkey_(food),0,七面鸟,火鸡（食物）,758,感恩节等节日食用的烤火鸡肉
-body_pillow,0,,身体枕头,757,睡觉时抱着的长条抱枕
+body_pillow,0,,长抱枕,757,睡觉时用于支撑身体的长枕，印有动漫角色的另用 dakimakura_(object)
 christmas_sweater,0,,圣诞毛衣,757,带圣诞图案的针织毛衣
 hemokinesis,0,blood_magic|blood_manipulation,血液操控,757,以魔法或超能力生成或操控血液
 silver_armlet,0,,银臂环,757,银制的臂环，戴在上臂的环状饰品
@@ -11049,7 +11049,7 @@ garnish,0,,食物点缀,753,菜肴或饮品上点缀用的香草、果皮等
 pinky_swear,0,pinky_promise|拉钩,勾小指,753,两人勾住小指以示约定或亲密的动作
 radar,0,,雷达,753,用无线电波探测定位目标的设备
 sports_sandals,0,hiking_sandals|teva_sandals,运动凉鞋,753,适合户外活动、鞋底厚实的凉鞋
-v_legs,0,,V腿,753,双腿伸直张开成V形的姿势
+v_legs,0,,V字张腿,753,双腿伸直或几乎伸直张开成V形的姿势；站立时双腿分开另用 legs_apart
 fish_hook,0,fishing_hook,鱼钩,752,系在钓线上用来钓鱼的金属钩
 onigiri_print,0,,饭团印花,752,印有一个或多个饭团图案的衣物或物品
 panda_girl,0,,熊猫女孩,752,带熊猫耳朵或尾巴的女孩
@@ -11097,7 +11097,7 @@ imminent_bite,0,,即将咬下,746,角色即将咬住某人或某物
 jewel_butt_plug,0,princess_plug|珠宝肛塞,宝石肛塞,746,末端镶有宝石的肛塞
 kobeya_uniform,0,神戸屋|神戸屋制服,神户屋制服,746,神户屋面包餐厅的女服务员制服
 longcat_(meme),0,long_cat_(meme)|longcat,Longcat（梗）,746,因身体极长而走红的白猫网络梗
-multiple_cutouts,0,,多个剪影,746,图中多个裁切剪影式的人物或图形
+multiple_cutouts,0,,多处服装镂空,746,服装上有多处镂空开口
 pink_overalls,0,,粉色背带裤,746,带胸兜和背带的粉色背带裤
 video_call,0,zoom_chat,视频电话,746,用摄像头进行的可视通话画面
 washbowl,0,洗面器|风吕桶,洗脸盆,746,洗澡或洗衣时盛水用的小盆，又称洗脸盆
@@ -11339,7 +11339,7 @@ winged_boots,0,,带翼靴,707,附有翅膀的靴子
 afro_puffs,0,space_puffs,爆炸头双髻,706,爆炸头质感的双丸子头
 artist_self-reference,0,,艺术家自我参考,706,画面中包含画师对自己其他作品的引用
 bait_and_switch,0,,误导与反转,706,看似一种内容实则完全不同的诱导性画面
-knights_of_blood_uniform_(sao),0,,血统骑士（SAO）,706,《刀剑神域》血盟骑士团的制服
+knights_of_blood_uniform_(sao),0,,血盟骑士团制服（刀剑神域）,706,《刀剑神域》血盟骑士团的制服
 pink_nose,0,,粉红色的鼻子,706,面部呈粉色的鼻子
 supermarket,0,超市,超级市场,706,出售食品和日用百货的大型自选商场
 yatai,0,,屋台,706,日本街头售卖拉面等热食的小型移动摊车
@@ -11398,7 +11398,7 @@ cracked_screen,0,,破裂的屏幕,698,手机、显示器等设备屏幕出现裂
 hannya,0,般若,般若,698,表现嫉妒女性的能面
 holding_coat,0,,拿着外套,698,手里拿着脱下的外套，并未穿在身上
 jinbei_(clothes),0,甚平,甚平,698,日本夏季家居或睡衣用的甚平
-king_(playing_card),0,,国王（扑克牌）,698,扑克牌中最大的人头牌K
+king_(playing_card),0,,国王（扑克牌）,698,扑克牌中的K人头牌
 saturated,0,,高饱和,698,画面颜色饱和度极高，可能令人刺眼
 butterfly_print_kimono,0,,蝴蝶纹和服,697,印有蝴蝶图案的印花和服
 ice_cream_spoon,0,,冰淇淋勺,697,吃冰淇淋或圣代用的小勺
@@ -11409,7 +11409,7 @@ cheesecake,0,,乳酪蛋糕,696,以奶油芝士为原料的蛋糕
 front_zipper_swimsuit_(realise),0,,前拉链泳衣（Realise）,696,带前拉链开口的竞赛连体泳衣
 gendou_pose,0,,gendou姿势,696,双手交握遮住下半张脸、眼镜反光的姿势
 hibiscus_print,0,,扶桑花印花,696,扶桑花图案的印花，常见于夏威夷衬衫
-toddler,0,乳児,学步的儿童,696,三到五岁、比婴儿大一些的幼童
+toddler,0,乳児,学步的儿童,696,处于学步阶段的幼童，通常约一至三岁
 yamaha,0,,雅马哈,696,生产乐器、摩托等产品的日本企业雅马哈
 double_anal,0,double_anal_penetration,双重肛交,695,两根阴茎或阴茎状物体同时插入同一肛门
 faceplant,0,,脸着地,695,角色脸朝下摔倒在地
@@ -11472,7 +11472,7 @@ multiple_cats,0,,多只猫,689,画面中有一只以上的猫
 pecha_berry,0,,桃桃果,689,《宝可梦》中能解除中毒状态的树果
 postbox_(outgoing_mail),0,mail_collection_box|postbox,邮筒（寄出邮件）,689,设在街边供投递寄出邮件的邮筒
 washing_another,0,,帮他人洗澡,689,帮他人洗头发或身体的行为
-for_adoption,0,待领养,收养,688,角色被送养，常坐在纸箱里等人收养
+for_adoption,0,待领养,待领养,688,角色被送养，常坐在纸箱里等人收养
 hands_on_another's_shoulder,0,,双手放在他人同一肩上,688,双手放在他人同一侧肩上
 implied_murder,0,,暗示谋杀,688,谋杀发生在画面之外
 oil_lamp,0,magic_lamp,油灯,688,以油和灯芯燃烧照明的古代灯具
@@ -11495,7 +11495,7 @@ holding_mushroom,0,,拿着蘑菇,685,手里拿着一朵蘑菇
 kupaa,0,,扒开拟声词,685,出现日语拟声词「くぱぁ」的画面；不能仅因扒开阴部而使用
 shamisen,0,shamisen_(instrument),三味线,685,日本传统三弦乐器，用拨子演奏
 blue_screen_of_death,0,bluescreen|bsod,蓝屏死机,684,Windows系统崩溃时出现的蓝屏报错画面
-double_blade,0,double-blade|two-bladed_sword,双刃,684,一根柄上接两把刀身的武器
+double_blade,0,double-blade|two-bladed_sword,双头刃武器,684,一根柄上接两把刀身的武器
 eye_of_senri,0,,千里之眼（连缘Project）,684,《连缘Project》中反复出现的三个半圆组成的符号
 masamune_(ff7),0,masamune_(ffvii),正宗（最终幻想7）,684,《最终幻想7》中萨菲罗斯的长刀正宗
 pig_girl,0,豚娘,猪女孩,684,长着猪耳等猪特征的女孩
