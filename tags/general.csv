@@ -8972,7 +8972,7 @@ facebook_logo,0,,Facebook徽标,1200,画面中出现Facebook标志
 music,0,楽曲|音楽,音乐,1200,含义宽泛的音乐相关标签，需配合具体标签使用
 stomping,0,stomp,踩踏,1200,角色正用力踩踏人或物的动作
 band_uniform,0,,乐队制服,1199,乐团成员穿的制服，常配高筒帽
-bust_cup,0,alcohol_between_breasts|breast_cup|breasts_cup|胸间酒|谷间酒,胸围杯,1199,双乳聚拢盛放液体
+bust_cup,0,alcohol_between_breasts|breast_cup|breasts_cup|胸间酒|谷间酒,双乳作杯,1199,双乳聚拢盛放液体
 european_architecture,0,,欧式建筑,1199,采用欧洲传统风格建造的建筑
 pinstripe_skirt,0,,细条纹裙子,1199,带细条纹图案的裙子
 green_overalls,0,,绿色工作服,1198,绿色的背带工作服
@@ -9004,7 +9004,7 @@ arrancar,0,破面,破面(死神系列),1189,《死神》中由虚进化、拥有
 congratulations,0,,恭喜,1189,表达祝贺或赞许的文字
 depressed,0,抑郁|郁病,郁闷,1189,情绪低落抑郁的状态或抑郁症
 flying_teardrops,0,,飞行的泪珠,1189,从眼睛向外飞散的泪珠
-knee_blush,0,,膝盖脸红,1189,膝盖泛红像脸红一样
+knee_blush,0,,膝盖泛红,1189,膝盖泛红像脸红一样
 reverse_spitroast,0,逆位串烧性爱,反向前后夹击,1189,两端各有一名女性夹住第三人的反向夹击
 biting_neck,0,neck_bite|neck_biting,咬脖子,1188,用牙齿咬住对方脖子，常见于吸血鬼场景
 brown_suit,0,,棕色西装,1187,棕色西装，外套与裤子同色的套装
@@ -9041,7 +9041,7 @@ balance_scale,0,balance_scales|天平|天秤,天平,1180,用于称重的双盘�
 clothes_pin,0,clothes_pins|clothespin|clothing_pin|衣夹,晾衣夹,1180,晾衣或夹发用的夹子
 leopard_tail,0,,豹尾,1180,长着豹子尾巴的角色特征，常配兽耳
 tit_(bird),0,,山雀（鸟）,1180,山雀科的小型鸟类
-audio_jack,0,headphone_jack|jack_plug,音频插孔,1179,耳机等设备使用的音频插孔
+audio_jack,0,headphone_jack|jack_plug,音频插头,1179,耳机等音频设备使用的单根金属针式插头
 cockroach,0,cockroaches|roach|roaches|小强,蟑螂,1179,常见害虫蟑螂，常被打码处理
 fried_rice,0,,炒饭,1179,在锅里翻炒的米饭料理
 plaid_sleeves,0,,格子袖,1179,格纹独立袖套，或与衣身图案不同的格纹衣袖
@@ -9124,7 +9124,7 @@ baking,0,,烘烤,1157,用烤箱烘焙面包或甜点的行为
 presenting_removed_panties,0,presenting_panties,递上脱下的内裤,1157,把脱下的内裤递向观看者
 refraction,0,屈折,折射,1157,光穿过水或玻璃等透明介质时发生的折射现象
 holding_paint_palette,0,holding_palette,手持调色盘,1156,手里拿着调色盘
-horned_hood,0,,角罩,1156,帽顶带角的兜帽
+horned_hood,0,,带角兜帽,1156,帽顶带角的兜帽
 looking_at_flowers,0,,看花,1156,角色看花；春季赏樱习俗使用 hanami
 on_boat,0,,在小船上,1156,坐、站或躺在船上
 ankle_wrap,0,ankle_wraps,脚踝套,1155,缠在脚踝上的布条
@@ -9672,7 +9672,7 @@ low_drills,0,,低位螺旋卷,1022,仅在发尾处出现的螺旋卷发型
 pillory,0,颈手枷|首枷,颈手枷,1022,限制躯干和／或颈部的枷具，四肢也常被限制
 can't_choose_your_own_family,0,,无法选择家人,1021,家人之间不合、互相嫌弃的情形
 paizuri_invitation,0,,乳交邀请,1021,以表情或敞开衣物邀请对方进行乳交
-right-over-left_kimono,0,左前,右前和服,1021,右襟压在左襟上的和服，通常为死者装束
+right-over-left_kimono,0,左前,左前和服（右襟压左襟）,1021,右襟压在左襟上的和服，通常为死者装束
 rosary,0,,念珠,1021,末端带十字架、用于诵念祈祷的念珠
 pairing_name,0,ship_name,CP名称,1020,画面中出现角色配对名称的文字
 paw_hair_ornament,0,,爪子发饰,1020,爪子形状的发饰
@@ -9832,7 +9832,7 @@ flaming_hand,0,burning_hand|fiery_hand|fire_fist,燃烧的手,984,手或手指�
 flower_basket,0,,花篮,984,用来装花的篮子
 kickboard,0,beatboard|flutter_board|swim_board|swimming_board|wakeboard|浮板,打水板,984,游泳练习打水用的浮板
 motosu_school_uniform,0,,本栖高校校服,984,《摇曳露营》本栖高校的水手服校服
-afterword,0,后记,后词,983,漫画末尾介绍创作或背景的后记
+afterword,0,后记,后记,983,漫画末尾介绍创作或背景的后记
 furious,0,enraged|rage|怒不可遏|愤怒,狂怒,983,失去理智的极度愤怒
 original_race_uniform_(umamusume),0,,原始比赛制服（赛马娘）,983,《赛马娘》中所有赛马娘通用的体操服式比赛服
 pleated_sleeves,0,,百褶袖,983,带褶裥的袖子，布面呈规则折痕
@@ -10024,7 +10024,7 @@ st._chronica_academy_school_uniform,0,st._chronica_academy_uniform,圣克罗尼�
 stocks,0,,足枷,942,只固定手臂或腿的木板刑具
 aegis_sword_(xenoblade),0,,天之圣杯之剑（异度神剑）,941,异度神剑2中焰与光使用的圣杯之剑
 aqua_horns,0,,水色角,941,水色（蓝绿色）的角
-pendant_watch,0,,吊坠手表,940,像吊坠一样挂在脖子上的表
+pendant_watch,0,,吊坠表,940,像吊坠一样挂在脖子上的表
 reverse_ryona,0,male_ryona|男性受虐,反向ryona,940,以男性受虐受伤为主题的逆向ryona
 studying,0,勉强|学习,学习,940,为增长知识而查阅资料或做功课
 bamboo_shoot,0,bamboo_sprout,竹笋,939,可食用的竹子嫩芽
@@ -10296,7 +10296,7 @@ partially_open_jacket,0,,半开夹克,886,拉链只拉了一半或纽扣松开�
 swing_set,0,,秋千架,886,由金属或木制框架和一个以上秋千组成的游乐设施
 tantrum,0,地団太|地団駄|痫癪,发脾气,886,因愤怒或受挫而哭闹、尖叫、打滚的情绪爆发
 checkered_haori,0,,方格羽织,885,带方格图案的羽织外套
-cheese_trail,0,,奶酪径,885,披萨等拉出的奶酪丝
+cheese_trail,0,,奶酪拉丝,885,披萨等拉出的奶酪丝
 clarent_(fate),0,,克拉伦特（Fate）,885,《Fate》系列中莫德雷德的宝具克拉伦特
 himejoshi,0,,姬女子,885,喜欢百合作品的女性爱好者
 spasm,0,,痉挛,885,角色受惊或兴奋时身体周围迸出的尖刺状线条
