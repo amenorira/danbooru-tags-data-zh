@@ -11692,7 +11692,7 @@ fur_(clothing),0,,毛皮衣物,656,用动物毛皮制成的衣物
 poi_(phrase),0,,poi（口头禅）,656,《舰队Collection》夕立的「poi」口头禅
 souya_high_school_uniform,0,,宗谷高中校服,656,《月姬》重制版中宗谷高中的校服
 stuffed_fish,0,,鱼玩偶,656,鱼形状的毛绒玩具
-taking_shelter,0,,避雨,656,在屋檐、桥下或树下躲避风雨等恶劣天气
+taking_shelter,0,,躲避恶劣天气,656,在屋檐、桥下或树下等处躲避雨雪等恶劣天气
 wave_print,0,,波浪印花,656,印有海浪拍打图案的布料或物品，区别于青海波纹样
 wiping_blood,0,擦拭血迹,擦血,656,擦去血迹，通常来自伤口
 carriage,0,马车,载客马车,655,马拉的两轮或四轮载客马车
@@ -11744,7 +11744,7 @@ pyramid_(geometry),0,角锥,金字塔（几何）,651,几何学中的棱锥体
 summoning,0,,召唤,651,借魔法从虚空中唤出生物或物品的行为
 yellow_tongue,0,,黄色的舌头,651,伸出的舌头呈黄色
 arm_mounted_weapon,0,臂挂式武器,装在手臂上的武器,650,安装在手臂外侧的武器
-armpit_carry,0,,腋下夹持,650,双手从腋下把人或动物提起
+armpit_carry,0,,托住腋下提起,650,用手托住人或动物的腋下将其提起；与夹在自己腋下搬运的姿势不同
 hands_on_another's_arms,0,,双手放在他人双臂上,650,双手分别放在他人两条手臂上
 keytar,0,,肩背式电子琴,650,带背带可站姿演奏的肩背键盘
 m16a1,0,,M16A1步枪,650,M16的早期型号，三角握把配20发弹匣
@@ -11966,7 +11966,7 @@ naked_necktie,0,,裸体系领带,624,全裸只系一条长领带垂在身前
 shiny_footwear,0,,闪亮的鞋类,624,明显有光泽的鞋类
 slug_girl,0,,蛞蝓女孩,624,蛞蝓拟人化的女孩
 star-shaped_pillow,0,star_pillow,星形抱枕,624,星形的抱枕或靠垫
-blowing_whistle,0,,吹口哨,623,吹响哨子的动作，区别于吹口哨
+blowing_whistle,0,,吹哨子,623,吹响哨子发声的动作，区别于用嘴唇吹口哨
 chibigurumi,0,,Q版毛绒,623,万代魂推出的极小Q版毛绒玩偶
 exposed_brain,0,,暴露的大脑,623,大脑外露或位于颅骨之外
 eyewear_lift,0,,抬起眼镜,623,把眼镜从原位向上抬起
@@ -12148,7 +12148,7 @@ lace-trimmed_bikini,0,,蕾丝边比基尼,601,带蕾丝边的比基尼
 lipstick_mark_on_breast,0,,胸上的口红印,601,乳房上的口红印
 nail_(hollow_knight),0,,骨钉（空洞骑士）,601,空洞骑士中骑士等虫子使用的骨钉武器
 tracen_winter_coat,0,,特雷森冬季大衣,601,赛马娘中特雷森学园的深蓝或黑色冬季大衣
-bamboo_print,0,,竹印花,600,印有竹笋图案的衣物或布制物品
+bamboo_print,0,,竹子印花,600,印有竹子图案的衣物或物品
 blue_bike_shorts,0,,蓝色骑行短裤,600,蓝色的骑行短裤
 dog_paws,0,,狗爪,600,狗爪形状的手或手套
 evolution,0,,进化,600,展示角色或生物随时间变化的图
@@ -12431,7 +12431,7 @@ head_and_hip_pose,0,,手放头后叉腰姿势,569,一手放头后一手叉腰的
 hestia_(danmachi)_(cosplay),0,,赫斯提亚（在地下城寻求邂逅是否搞错了什么）（角色扮演）,569,《在地下城寻求邂逅是否搞错了什么》赫斯提亚的角色扮演
 rope_around_neck,0,,脖子上的绳索,569,绳子缠绕在脖子上
 staff_of_homa_(genshin_impact),0,护摩之杖,护摩之杖（原神）,569,《原神》中胡桃的五星长柄武器
-team_star,0,,明星队,569,《宝可梦 朱/紫》中由问题学生组成的组织明星队
+team_star,0,,天星队,569,《宝可梦 朱／紫》中由学生组成的天星队
 against_table,0,,靠着桌子,568,倚靠桌子的姿势
 antler_ornament,0,,鹿角装饰,568,鹿角形状的装饰物
 ass_on_glass,0,,屁股在玻璃上,568,臀部明显压在玻璃上
@@ -12570,7 +12570,7 @@ brown_scrunchie,0,,棕色大肠发圈,552,棕色大肠发圈，扎头发的布�
 fruit_tart,0,,水果挞,552,表面铺满水果的挞
 holding_golf_club,0,,手持高尔夫球杆,552,手里拿着高尔夫球杆
 in_bottle,0,,在瓶中,552,角色待在瓶子里
-koala,0,袋熊,考拉,552,澳大利亚的树袋熊考拉
+koala,0,树袋熊,考拉,552,澳大利亚的树袋熊考拉
 modeling,0,,当模特,552,人物作为摄影或绘画的模特
 shower_curtain,0,,浴帘,552,防止水溅出淋浴区的防水帘
 6koma,0,,六格漫画,551,由六格组成的连续漫画
@@ -12583,7 +12583,7 @@ peacock,0,,孔雀,551,孔雀类；雄性印度孔雀常有带眼斑的长尾羽
 red_garter_straps,0,,红色吊袜带皮带,551,红色的吊袜夹带
 waiting,0,,等待,551,角色正在等待某人到来或某事发生
 bankai,0,,卍解,550,《死神》中斩魄刀的第二阶段最终解放
-bondage_mittens,0,,束缚手套,550,束缚用固定双手的袋状手套
+bondage_mittens,0,,束缚手套,550,束缚用袋状手套，固定在手腕处以限制手部活动
 held_down,0,按住,被按住,550,角色被另一角色按住、无法自由行动
 long_nipples,0,,长乳头,550,比正常更长的乳头
 metal_belt,0,,金属皮带,550,用金属制成的腰带
@@ -12887,7 +12887,7 @@ rusty_trombone,0,trombone_(sex_act),生锈长号,520,同时对伴侣进行舔肛
 saigyouji_yuyuko's_fan_design,0,charisma_fan|yuyuko's_fan_design|yuyuko's_fan_pattern,西行寺幽幽子的团扇纹样,520,西行寺幽幽子所持扇子上的图案设计
 t-back,0,,T字裤,520,从背后看呈T字形的女式内裤
 finger_gun_to_own_head,0,,手指枪指头,519,用手指比的手枪对着自己头部
-holding_collar,0,,抱着衣领,519,手里拿着衣领或项圈
+holding_collar,0,,手持颈圈,519,手中拿着独立佩戴的颈圈或项圈
 traumatized,0,受创,受创伤,519,经历创伤事件后处于精神受创状态的角色
 3d_glasses,0,,3D眼镜,518,供观看3D影片的眼镜；旧式常用红蓝或红绿异色镜片，现代也有灰色镜片
 chaise_longue,0,,贵妃椅,518,可支撑双腿的躺椅
@@ -15727,7 +15727,7 @@ tricycle,0,,三轮车,322,三个轮子的脚踏车，含玩具车与人力车
 tryzub,0,,三叉戟徽,322,乌克兰国徽中的金色三叉戟图案
 tsukumogami,0,,付丧神,322,满百年而获得灵性的器物妖怪
 untied_ribbon,0,,解开的缎带,322,缎带被解开仍挂在身上或身旁
-unworn_blindfold,0,blindfold_removed,未戴的蒙眼布,322,取下后仍出现在画面中的眼罩
+unworn_blindfold,0,blindfold_removed,未戴的蒙眼布,322,画面中出现但无人佩戴的蒙眼布
 unworn_vest,0,vest_removed,未穿的背心,322,画面中出现但无人穿着的背心
 wavebox,0,,波浪方框,322,带有波浪纹样的方框
 yellow_scales,0,,黄色鳞片,322,爬行类或鱼类体表的黄色鳞片
@@ -17008,7 +17008,7 @@ marching,0,行进,行军,262,一群人按节拍整齐向前行进的队伍
 on_vaulting_horse,0,,在跳马上,262,角色在体操跳马上
 palmar_flexion,0,,掌屈,262,手腕向前松垂的掌屈姿势
 shaped_liquid,0,,成形液体,262,没有容器和重力支撑仍保持固定形状的液体
-work_gloves,0,军手,工作手套,262,体力劳动时保护双手的布制或皮制手套
+work_gloves,0,军手,工作手套,262,体力劳动时保护手部的布制或皮制手套
 666,0,,666,261,启示录中兽的数字，常象征恶魔
 broken_heart_print,0,,破碎心形印花,261,碎心形状的印花
 burger_hair_ornament,0,,汉堡发饰,261,汉堡形状的发饰
@@ -28361,7 +28361,7 @@ overalls_removed,0,,脱掉背带裤,63,脱掉背带裤的状态
 paw_pendant,0,,爪子吊坠,63,爪印形状的吊坠
 perlica's_peeled_apple_(meme),0,,佩丽卡的削皮苹果（梗）,63,明日方舟终末地中佩丽卡递出削好苹果的梗
 pikachu_hood,0,,皮卡丘头套,63,皮卡丘造型的兜帽
-plaid_gloves,0,,格纹手套,63,格纹图案的手套，戴在双手上
+plaid_gloves,0,,格纹手套,63,带格纹图案的手套
 posture_collar,0,,姿势项圈,63,强制颈部保持挺直的宽硬项圈
 print_veil,0,,印花头纱,63,印有图案的头纱
 prone_masturbation,0,,俯卧摩擦自慰,63,男性或扶他俯卧用阴茎摩擦床垫等物自慰
