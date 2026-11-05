@@ -277,10 +277,10 @@ fur_trim,0,fur_lining,毛边,232644,衣物领口袖口下摆等处的毛皮镶�
 no_humans,0,no_human|不含人类|没有人类,无人类,232371,画面中没有人类或类人角色
 tree,0,trees|木本|树木,树,230841,有高大木质树干并分枝长叶的植物
 horse_ears,0,,马耳,230420,马一样细长的兽耳
-sleeveless_dress,0,,无袖连衣裙,229528,有领但没有袖子的连衣裙
+sleeveless_dress,0,,无袖连衣裙,229528,没有袖子的连衣裙
 sparkle,0,sparkles|sparkling,闪光特效,228739,短促闪烁的星形反光点
 hand_on_own_hip,0,hand_on_hip|hand_on_waist|单手叉腰|叉腰,手叉腰,226763,一只手叉在自己腰上
-sleeveless_shirt,0,sleeveless_blouse,无袖衬衫,226092,有领但无袖也无肩带的衬衫
+sleeveless_shirt,0,sleeveless_blouse,无袖衬衫,226092,没有袖子的上衣
 horse_girl,0,pony_girl,马娘,224700,带马耳或马尾巴等特征的女性角色
 black_bow,0,,黑色蝴蝶结,223749,黑色的蝴蝶结，可作发饰或衣饰
 gradient_hair,0,,渐变发色,222529,发色由一种平滑过渡到另一种的头发
@@ -1710,7 +1710,7 @@ low_twin_braids,0,低双麻花辫,低双辫,23886,在耳部以下低位束起的
 cityscape,0,都市,城市景观（城市风景）,23851,表现城市面貌的城市景观
 shared_bathing,0,,共浴,23791,多人一起泡澡或淋浴
 nipple_tweak,0,nipple_pinch,捏乳头（掐乳头）,23749,捏住乳头反复捻动
-precum,0,先走汁|先走液|尿道球腺液|我慢汁,前列腺液,23725,性兴奋时从阴茎流出的透明润滑液
+precum,0,先走汁|先走液|尿道球腺液|我慢汁,射精前液,23725,性兴奋时从阴茎流出的透明润滑液
 assault_rifle,0,突撃铳,突击步枪,23724,具备选择射击方式的步兵用突击步枪
 tile_floor,0,floor_tiles|瓷砖地板,铺砖地面,23711,以陶瓷、石材、玻璃或陶土砖等铺成的地面
 bandaid_on_leg,0,,腿上的创可贴,23687,腿上贴着创可贴
@@ -1826,7 +1826,7 @@ bench,0,,长椅,21685,可供多人并排坐的长椅
 chest_jewel,0,chest_gem|gem_on_chest|胸前宝石,胸口宝石,21665,位于胸口（多为胸骨）的宝石
 no_mouth,0,,没有嘴,21642,角色没有画嘴，多用于变形处理
 multiple_rings,0,rings,多戒指,21637,角色佩戴多枚戒指
-taut_clothes,0,taut_clothing|紧身衣（褶皱）,紧贴的衣物,21637,紧绷到布料起波纹的衣物，比普通紧身衣更贴身
+taut_clothes,0,taut_clothing|紧身衣（褶皱）,绷紧的衣物,21637,布料绷紧并出现张力褶皱的衣物，常见于两乳之间
 gohei,0,币束|御币,御币（神道祭祀用具）,21631,神道教仪式中缀有纸垂的木杖御币
 ninja,0,kunoichi,忍者,21627,从事隐秘活动、谍报及非常规战斗的日本忍者
 triangular_headpiece,0,三角头巾|额乌帽子,三角头饰,21626,日本民俗中鬼怪所戴的三角头巾
@@ -3116,7 +3116,7 @@ o-ring_thigh_strap,0,,O形环大腿绑带,9413,带O形环的大腿绑带
 revolver,0,回転式拳铳,转轮枪械,9412,使用旋转弹巢的枪械，包括转轮手枪、步枪、霰弹枪或榴弹发射器
 autumn,0,fall_(season)|秋季,秋天,9409,以红叶与厚衣物为特征的秋季
 hand_on_another's_waist,0,,手放在他人腰上,9398,一只手放在他人腰上
-holding_leash,0,,手持牵绳,9397,手里牵着宠物牵引绳的一端
+holding_leash,0,,手持牵绳,9397,手中拿着牵引绳
 orange_sky,0,,橙色的天空,9395,呈现橙色的天空，多由日出或日落造成
 mega_pokemon,0,,Mega形态宝可梦,9394,通过钥匙石与超级石进行超级进化后的宝可梦形态
 time_paradox,0,时间悖论场景,时间悖论,9393,角色遇见不同时间的自己或他人的场景
@@ -3202,7 +3202,7 @@ jacket_around_waist,0,,用夹克束腰,8982,把夹克系在腰间的穿法
 asymmetrical_footwear,0,,不对称鞋类,8977,设计本身不对称的鞋
 leotard_aside,0,,拨开紧身衣,8977,把紧身衣裆部拨向一侧
 blue_pupils,0,蓝色瞳孔,蓝色瞳孔,8974,角色瞳孔呈蓝色
-holding_another's_arm,0,arm_holding,握住另一只手臂,8972,握住他人的手臂
+holding_another's_arm,0,arm_holding,握住他人的手臂,8972,握住他人的手臂
 anchor_hair_ornament,0,,锚形发饰,8953,锚形状的发夹或发饰
 bicycle,0,bike|单车|脚踏车|自転车,自行车,8949,两轮人力脚踏自行车
 take_your_pick,0,多人身体展示,选哪个好呢,8945,多名角色展示身体或某部位、让对方挑选的画面
@@ -3302,7 +3302,7 @@ strap_pull,0,肩带下拉,拉拽衣物带子,8540,拉拽衣物带子，可为肩
 snowman,0,,雪人,8534,用雪堆成的雪人，通常以胡萝卜作鼻子
 mechanical_wings,0,robot_wings|机械翅膀,机械翼,8530,由金属制成的翅膀，常带液压件和齿轮
 pink_sleeves,0,,粉色袖子,8521,粉色的袖子，须可拆卸或与衣身异色
-taut_shirt,0,taut_blouse|贴身衬衫,绷紧的衬衫,8520,紧到布料在胸前绷出褶皱的上衣，比普通紧身衬衫更贴合
+taut_shirt,0,taut_blouse|贴身衬衫,绷紧的上衣,8520,布料绷紧并在胸前等处形成张力褶皱的上衣
 orange_nails,0,orange_fingernails,橙色指甲,8519,橙色的手指甲或脚趾甲
 dimples_of_venus,0,,腰窝,8507,臀部上方的对称腰窝
 pink_leotard,0,,粉色紧身连衣裤,8504,覆盖躯干、裆部收口的粉色紧身连衣裤
@@ -3366,7 +3366,7 @@ orange_bowtie,0,,橙色领结,8273,橙色的领结，系于衬衫领口
 female_pervert,0,,痴女,8271,好色主动的女性角色
 shop,0,shops|store,店铺,8271,售卖特定商品的小店
 big_belly,0,bigbelly|large_belly|腹肉|膨腹,大肚子,8269,明显鼓胀的大肚子
-ribbed_shirt,0,棱纹衫,棱纹衬衫,8269,有罗纹竖条纹理的衬衫
+ribbed_shirt,0,棱纹衫,罗纹衬衫,8269,有罗纹竖条纹理的衬衫
 middle_finger,0,flipping_off|the_finger|竖中指,竖中指,8263,竖起中指这一侮辱性手势
 brown_sweater_vest,0,,棕色毛衣背心,8261,棕色的毛衣背心
 robot_girl,0,,机器人女孩,8259,外形明显是机械的女性机器人
@@ -3744,7 +3744,7 @@ blue_bag,0,blue_backpack,蓝色包,6863,颜色为蓝色的手提或肩背包
 eyepatch_bikini,0,,眼罩比基尼,6861,上片形似医疗眼罩的无肩带比基尼
 borrowed_clothes,0,borrowed_garments,借穿的衣服,6860,非以扮作对方为主要目的借穿他人衣物，部分 cosplay 情况可并用
 red_hoodie,0,,红色连帽衫,6860,带兜帽、通常有抽绳的红色连帽衫
-spitroast,0,串烧性爱,女性的嘴和下半身被夹攻的体位,6859,中间者从后方被插入，同时为前方另一人进行口交或乳交的体位
+spitroast,0,串烧性爱,前后夹攻体位,6859,中间者从后方被插入，同时为前方另一人进行口交或乳交的体位
 holding_smoking_pipe,0,holding_kiseru|holding_pipe,手持烟斗,6857,手里握着抽烟用的烟斗
 wiffle_gag,0,威浮球口塞|带洞口球,镂空球口枷,6849,带透气孔的口枷，通常为镂空球状
 floor,0,,地板,6848,房间或车厢内的底面地板
@@ -4130,7 +4130,7 @@ quill,0,feather_pen,羽毛笔,5786,用鸟羽制成的蘸墨羽毛笔
 grey_sleeves,0,,灰色袖子,5781,灰色的独立或异色袖子
 black_hakama,0,,黑色的袴,5775,穿在和服外、带褶的黑色袴
 aqua_jacket,0,,水色夹克,5766,水色（蓝绿色）的夹克
-nipple_bar,0,乳杆,乳棒,5766,穿过乳头的杠铃形乳钉
+nipple_bar,0,乳杆,杠铃式乳钉,5766,穿过乳头的杠铃形乳钉
 purple_eyeshadow,0,,紫色眼影,5766,涂在眼皮上的紫色眼影
 lace-trimmed_dress,0,,蕾丝边连衣裙,5764,带蕾丝边的连衣裙
 arch,0,,拱门,5762,跨越空间、呈弧线形的拱形结构
@@ -4321,7 +4321,7 @@ restaurant,0,,餐厅,5320,可以看菜单点单用餐的餐馆
 gold_armor,0,,黄金盔甲,5316,呈金色外观的盔甲
 shark,0,,鲨鱼,5316,海洋中大型肉食性软骨鱼类鲨鱼
 single_hair_tube,0,,单发管,5313,头发上只套一个发管
-censored_nipples,0,nipple_censor,审查乳头,5305,被打码遮挡的乳头
+censored_nipples,0,nipple_censor,乳头打码,5305,被打码遮挡的乳头
 red_hands,0,,红色的手,5304,与角色肤色不同、呈红色的手
 cellphone_photo,0,cellphone_picture,手机照片,5302,手机屏幕上显示的照片
 blowing_kiss,0,air_kiss|blown_kiss|flying_kiss|thrown_kiss|飞吻,飞吻,5301,把手贴在唇边送出飞吻
@@ -4524,7 +4524,7 @@ vertical-striped_skirt,0,,竖条纹裙子,4827,带竖条纹的裙子
 bandage_on_face,0,,贴有绷带的脸,4824,脸部缠着绷带的角色
 fetal_position,0,胎儿姿势,胎儿状的蜷缩,4822,侧躺蜷缩、四肢紧贴胸前的胎儿姿势
 pillbox_hat,0,,药盒帽子,4822,平顶、无帽檐的圆形小帽，多为女性佩戴
-ribbed_dress,0,毛衣裙|毛衣连衣裙|罗纹连衣裙,棱纹连衣裙,4822,用罗纹面料制成的连衣裙
+ribbed_dress,0,毛衣裙|毛衣连衣裙|罗纹连衣裙,罗纹连衣裙,4822,用罗纹面料制成的连衣裙
 breastless_clothes,0,breastless_clothing|露胸服装,露胸的衣服,4821,故意露出胸部的服装
 cousins,0,,表亲,4821,有共同祖先的堂表亲角色
 goatee_stubble,0,,山羊胡茬,4818,修剪山羊胡后留下的下巴短须
@@ -5106,7 +5106,7 @@ purple_fire,0,purple_flame,紫色的火,3856,以紫色为主的火焰
 purple_socks,0,purple_kneehighs,紫色袜子,3856,紫色袜子，含长及膝下的款式
 starter_pokemon_trio,0,御三家,三只宝可梦御三家,3856,宝可梦御三家三只同时出镜成为主体
 ufo,0,未确认飞行物体,不明飞行物,3856,目击报告中的外星飞船，常呈碟形
-front_slit,0,前开衩,前缝,3855,裙装或衣物正面开出的长缝
+front_slit,0,前开衩,前开衩,3855,裙装或衣物正面开出的长缝
 penis_size_difference,0,,阴茎尺寸差异,3855,多个阴茎或凸起中一个明显更大
 sideburns_stubble,0,,鬓角胡渣,3855,鬓角处剃须后残留的短硬胡渣
 holding_fireworks,0,holding_firecrackers|holding_sparkler,握烟花,3854,手里拿着烟花或仙女棒
@@ -6123,7 +6123,7 @@ coffin,0,funerary_casket|棺桶,棺材,2710,安放遗体的六边形棺材
 two-tone_hoodie,0,,两色调连帽衫,2710,恰好由两种颜色构成的连帽衫
 holding_riding_crop,0,,手持马鞭,2709,手里握着骑乘用的短马鞭
 jack-o'_challenge,0,jackochallenge|jackopose|jackoposechallenge,Jack-O挑战姿势（梗）,2709,模仿Jack-O蹲姿的极端姿势
-ribbed_sleeves,0,,棱纹袖子,2709,单独成对或与衣身不同材质的罗纹袖套
+ribbed_sleeves,0,,罗纹袖子,2709,罗纹纹样与衣物其余部分不同的袖子，也包括分离式袖子
 grid_teeth,0,,网格状牙齿,2708,画成网格状方块的牙齿
 rolling_suitcase,0,滚轮行李箱|行李箱（拉杆式）,拉杆箱,2708,底部带轮子和拉杆的行李箱
 tail_piercing,0,,尾巴穿环,2707,在尾巴上打孔佩戴的穿孔饰品
@@ -6276,7 +6276,7 @@ struggling,0,struggle,挣扎,2571,挣扎着试图举起重物、挣脱束缚或�
 orange_sailor_collar,0,,橙色水手领,2569,水手服式样的橙色大翻领
 breast_expansion,0,growing_breasts|膨乳,丰胸,2568,胸部由小变大的过程
 dowsing_rod,0,dowsing_rods,探测棒,2566,用于探测水源等的占卜棒
-precum_drip,0,滴落的先走汁,前列腺液滴落,2566,前列腺液从阴茎滴落
+precum_drip,0,滴落的先走汁,射精前液滴落,2566,射精前液从阴茎滴落
 miku_day,0,mikupa,初音未来日,2565,为3月9日初音未来日创作的贺图
 nipple_indents,0,innie_nipples,乳头尖端凹陷,2565,尖端有凹陷或小孔的乳头
 holding_needle,0,,拿着缝衣针,2564,手里拿着缝衣针或织针
@@ -6392,7 +6392,7 @@ canvas_(object),0,,画布,2478,绷在木框上供作画的画布
 mahjong,0,mahjongg|麻雀,麻将,2478,起源于中国的四人麻将牌游戏，东亚十分流行
 doodle_inset,0,,涂鸦小窗,2477,填补画面空白的涂鸦小图
 wheat,0,麦子,小麦,2477,世界主要粮食作物小麦，多磨成面粉做面包
-dashed_eyes,0,dash_eyes|line_in_eye,虚线眼,2476,眼中出现横线，多表示强烈快感
+dashed_eyes,0,dash_eyes|line_in_eye,眼中横线,2476,眼中出现横线，多表示强烈快感
 presenting_own_breasts,0,胸部展示|presenting_breasts,展示自己胸部,2475,向观看者展示自己的胸部
 slapping,0,slap|耳光,掌掴,2475,用手掌击打他人，通常打脸
 unworn_dress,0,dress_removed,未穿的连衣裙,2474,画面中有但没被穿着的连衣裙
@@ -7548,7 +7548,7 @@ sitting_on_table,0,,坐在桌子上,1764,坐在桌子上；参见在桌上
 blue_petals,0,,蓝色花瓣,1763,已经从花朵脱落的蓝色花瓣；仍在花上的使用蓝花标签
 circled_9,0,,⑨（琪露诺）,1763,《东方Project》中琪露诺的代称⑨，意为笨蛋
 mast,0,帆柱,桅杆,1763,船上的立柱，原用于挂帆，后也用于升旗和布线
-ribbed_bodysuit,0,,棱纹紧身衣,1762,有纵向罗纹线条的紧身衣
+ribbed_bodysuit,0,,罗纹紧身衣,1762,有纵向罗纹线条的紧身衣
 art_brush,0,绘笔,画笔,1761,绘画用的小号圆头或平头画笔
 seatbelt,0,,安全带,1761,机动车内保障乘员安全的束缚带
 taller_female_shorter_male,0,身长差|逆体格差,女高男矮,1759,并肩或面对面时女性比男性高的身高差组合，不用于耽美
@@ -7581,7 +7581,7 @@ skeleton_print,0,,骨架印花,1747,印有整具骨架图案的衣物或织物
 tuanshan,0,,团扇,1746,中国式圆形丝质团扇
 anemo_symbol_(genshin_impact),0,,风元素符号（原神）,1745,原神中代表风元素的符号
 brazilian_flag,0,,巴西国旗,1745,绿底黄菱形配蓝色天球的巴西国旗
-censored_text,0,放送禁止用语,审查文本,1745,被打码遮挡的文字
+censored_text,0,放送禁止用语,文字打码,1745,被打码遮挡的文字
 dawn,0,破晓,黎明,1745,日出前天际微亮的黎明时分
 ketchup_bottle,0,,番茄酱瓶,1745,盛装番茄酱的瓶子
 group_hug,0,,团团抱,1744,三人以上的集体拥抱
@@ -10257,7 +10257,7 @@ alternate_shiny_pokemon,0,,替代闪亮的口袋妖怪,892,不同于该宝可梦
 chocolate_banana,0,choco_banana,巧克力香蕉,892,裹巧克力并撒彩针的冰香蕉
 collar_grab,0,,抓住领口,892,抓住对方衬衫的领口
 phone_booth,0,phonebooth|telephone_booth,电话亭,892,内有公用电话的封闭式电话亭
-precum_through_clothes,0,渗透衣服的先走汁,隔着衣服渗出前列腺液,892,前列腺液多到透过衣物渗出
+precum_through_clothes,0,渗透衣服的先走汁,射精前液渗透衣物,892,射精前液透过衣物渗出
 shopping_basket,0,,购物篮,892,超市里供顾客装商品的塑料篮
 adjusting_footwear,0,,调整鞋类,891,调整脚上穿的鞋
 flaming_eyes,0,burning_eyes|fiery_eyes,燃烧的眼睛,891,双眼冒出火焰，表现斗志或激情
@@ -11076,7 +11076,7 @@ tyrannosaurus_rex,0,t-rex,霸王龙,750,大型肉食恐龙霸王龙
 hands_on_own_knee,0,,双手放在自己一个膝盖上,749,双手放在自己的一只膝盖上
 holding_kunai,0,,手持苦无,749,手里握着忍者用的苦无，小型投掷刃具
 ok_sign_over_eye,0,,OK手势遮眼,749,用OK手势圈住一只眼睛
-precum_string,0,precum_trail|先走汁拉丝,前列腺液丝,749,在两点之间拉成丝的前列腺液
+precum_string,0,precum_trail|先走汁拉丝,射精前液拉丝,749,在两点之间拉成丝的射精前液
 socks_over_pantyhose,0,,袜子套在连裤袜外,749,在连裤袜外再穿袜子的穿法
 white_sweater_vest,0,,白色毛衣背心,749,白色的毛衣背心
 grabbing_another's_tongue,0,holding_another's_tongue|tongue_grab,抓住他人舌头,748,用手指或夹具抓住他人的舌头
@@ -12521,7 +12521,7 @@ tossing,0,toss,抛掷,557,把某物轻轻随手抛起的动作
 walkman,0,,随身听（Walkman）,557,索尼在70年代推出的便携式音频播放器，含后续卡带机型
 bmw,0,,宝马,556,德国汽车品牌宝马
 bucket_on_head,0,,头上的水桶,556,把真水桶扣在头上
-censored_anus,0,,审查肛门,556,被打码遮挡的肛门
+censored_anus,0,,肛门打码,556,被打码遮挡的肛门
 cocktail_umbrella,0,drink_umbrella,鸡尾酒雨伞,556,插在饮品上作装饰的小纸伞
 craft_essence_(fate),0,概念礼装,概念礼装（Fate）,556,带有Fate/Grand Order概念礼装卡面装饰与稀有度、攻防数值的图
 foreskin_insertion,0,伸入包皮,包皮插入,556,把物体等塞入包皮下，常见为手指或舌头
@@ -13998,7 +13998,7 @@ anti-eyebrow_piercing,0,,眉下穿孔,424,眉下或颧骨上方的穿孔
 backwards_virgin_killer_sweater,0,,向后处女杀手毛衣,424,把露背毛衣前后反过来穿的穿法
 blacksmith,0,锻冶师|锻造师,铁匠,424,锻造金属工具与武器的铁匠
 capricorn_(symbol),0,,摩羯座（符号）,424,代表摩羯座的占星符号
-censored_food,0,,审查的食物,424,因食物看起来过于恶劣或恶心而加以遮挡的搞笑表现
+censored_food,0,,食物打码,424,因食物看起来过于恶劣或恶心而加以遮挡的搞笑表现
 creator_name,0,author_name|mangaka_name,作者署名,424,画面上写出的歌曲制作人或小说作者等原作者姓名
 dog_print,0,,狗印花,424,印有狗或狗毛花纹的服饰
 dreamcatcher,0,dream_catcher,捕梦网,424,北美原住民用来捕梦的网饰
@@ -14658,7 +14658,7 @@ taurus_(constellation),0,,金牛座（星座）,381,北天黄道星座金牛座�
 accordion,0,,手风琴,380,靠推拉矩形风箱发声、一侧带琴键的乐器
 animate_object,0,,物体动起来,380,本无生命的物体被画成活的
 blood_on_armor,0,,盔甲上的血,380,盔甲上沾满血迹
-censored_gesture,0,censored_finger,审查的手势,380,被遮挡的敏感或冒犯手势
+censored_gesture,0,censored_finger,手势打码,380,被遮挡的敏感或冒犯手势
 coach,0,,教练,380,指导运动或队伍的教练
 cool_&_sexy_(idolmaster),0,,Cool & Sexy（偶像大师百万现场）,380,《偶像大师》中以酷与性感为主题的服装系列
 dvd_case,0,,DVD盒,380,装DVD光盘的盒子
@@ -18284,7 +18284,7 @@ border_collie,0,边牧,边境牧羊犬,215,源自英伦的牧羊犬边境牧羊�
 bug_bite,0,mosquito_bite,虫咬,215,昆虫叮咬留下的痕迹
 building_snowman,0,,堆雪人,215,正在堆雪人的动作
 cat_on_person,0,,猫在人身上,215,猫趴在人的身上
-censored_violence,0,,审查暴力,215,暴力或血腥内容被遮挡，也包括用遮挡暗示血腥以制造笑点。
+censored_violence,0,,暴力内容打码,215,暴力或血腥内容被遮挡，也包括用遮挡暗示血腥以制造笑点。
 ciao_churu,0,,啾噜条,215,Inaba出品的可舔食猫零食啾噜
 cum_on_tail,0,,射在尾巴上,215,精液沾在尾巴上
 dewlap,0,,颈部垂皮,215,兔、犬等动物颈下垂挂的皮肤皱褶

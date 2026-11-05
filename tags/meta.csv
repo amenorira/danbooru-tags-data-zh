@@ -136,7 +136,7 @@ alternate_language,5,官方翻译版|正规翻訳版,其他语言版,3872,画师
 fanbox_reward,5,,Fanbox内容,3849,Pixiv FANBOX的付费赞助图，现已禁止上传
 fan_request,5,,点图,3697,应观看者免费请求而创作的作品
 merchandise_available,5,,有周边,3666,被设计成可作手办、徽章、立牌等周边售卖的图
-annotated,5,,有批注,3664,图上附加了翻译、解说或人物标注的帖子
+annotated,5,,有批注,3664,使用站内批注标明图中人物、物品或嵌入作品身份的帖子
 has_censored_revision,5,,有和谐修订,3648,来源修订版被加码或遮挡更多的帖子
 romaji_commentary,5,,罗马字注释,3559,注释用罗马字拼写写成的帖子
 bad_lofter_id,5,,错误Lofter ID,3539,Lofter原帖或原图已不可见
@@ -151,7 +151,7 @@ bad_tumblr_link,5,,错误Tumblr链接,3253,来源为Tumblr图片直链，而非�
 thai_commentary,5,,泰文注释,3195,注释用泰文写成的帖子
 check_artist,5,,核对画师,3146,画师已识别，但需要第二人复核确认
 guest_art,5,商业绘图|商单|応援绘,嘉宾绘,3069,客座画师为作品绘制的官方应援插画
-upscaled,5,upscale,超分放大,3056,被超分辨率放大的图，第三方放大一般禁止上传
+upscaled,5,upscale,放大尺寸,3056,由较小的源图放大得到的图片
 multi-source_commentary,5,multiple_commentaries,多来源注释,2927,画师注释取自多个不同来源的帖子
 acrylic_paint_(medium),5,acrylic_paint,丙烯,2886,用丙烯颜料绘制的作品
 gift_art,5,,赠图,2825,画师无偿赠送给他人而绘制的图
@@ -205,7 +205,7 @@ microsoft_paint_(medium),5,ms_paint|ms_paint_(medium)|mspaint|mspaint_(medium),�
 comic_panel_redraw,5,manga_panel_redraw,漫画分镜重绘,1161,重绘漫画或同人志分镜、页面的作品
 mikumikudance_(medium),5,mikumikudance|mmd_(medium),MMD,1147,用MikuMikuDance制作的3D动画或静图
 headwear_request,5,,请求头饰,1142,请求识别帽子、头盔等头饰的标签
-annotation_request,5,,请求批注,1137,请求为图中人物补上翻译或标注
+annotation_request,5,,请求批注,1137,请求使用站内批注标明图中人物身份
 bad_blogspot_link,5,bad_blogger_link,错误Blogspot链接,1099,来源为Blogger图片直链，而非所在文章页面
 ych_commission,5,,YCH约稿,1076,画师先出模板角色、再由他人约稿替换成自己角色的委托
 ballpoint_pen_(medium),5,ballpoint_pen,圆珠笔,1070,用圆珠笔绘制的作品
@@ -548,7 +548,7 @@ bad_quality,5,,质量差,0,画质低劣、模糊或结构崩坏的图片
 based_mix,5,,BasedMix,0,以二次元风格为主的Stable Diffusion混合模型，非Danbooru标签
 best_quality,5,,质量最好,0,画质极佳、细节丰富的图，也常被AI绘图用作正面提示词
 collaboration_request,5,,请求合作,0,已废弃，改用artist_request与artist_collaboration
-counterfeit,5,counterfeit_(model),Counterfeit,0,以二次元插画为主的SDXL微调模型，非Danbooru标签
+counterfeit,5,counterfeit_(model),Counterfeit,0,以二次元插画为主的图像生成模型系列，V2.5和V3.0基于Stable Diffusion 1.5，非Danbooru标签
 doujinshi,5,,同人志,0,已废弃的标签，同人漫画请改用comic
 explicit,5,rating_explicit,露骨,0,已停用的分级标签，改用rating:explicit
 extraction,5,,提取,0,第三方把角色从原图中提取出、背景被去除的图

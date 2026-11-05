@@ -5201,7 +5201,7 @@ neko_daruma,1,nekodaruma_new,ねこだるま,289,
 sharumon,1,,しゃるもん,289,
 skj,1,skj_omr,skj,289,
 stoic_seraphim,1,Stoic-Seraphim|Stoic_Miiverse|Stoic_Seraphim,stoic seraphim,289,
-tam-u,1,tam-u_(high_tech_pen_case)|lovehoshinoko|tam_u|tam_u_(high_tech_pen_case)|tamu_yuu|u-ichi|u-ichi06|yuma_h|たむゆー|ハイテクペンケース|ユーイチ,たむ,289,
+tam-u,1,tam-u_(high_tech_pen_case)|lovehoshinoko|tam_u|tam_u_(high_tech_pen_case)|tamu_yuu|u-ichi|u-ichi06|yuma_h|たむゆー|ハイテクペンケース|ユーイチ|たむ,Tam-U,289,
 toshinoshin,1,asimatosinosin|toshi_noshin|toshinoshin00,としのしん,289,
 yamacchi,1,やまっち|乾和音|Inui_Waon|yam2344|乾_和音,乾和音,289,同人社团「INU-Chord」的画师
 yiduan_zhu,1,海岚之街|arashi|yuki_no_arashi|雪ノ岚と异端丶|雪之岚と异端丶,异端丶,289,
@@ -6957,7 +6957,7 @@ shijima_(shijima_tc),1,shijima_tc|shijimairo|シジマ色|she100legs,しじま,2
 yasai_(getsu),1,getsu|yasai|yasai_(hakusai)|getsu_121|sai_0121|はくさい,ヤサイ,202,相关社团：「はくさい」
 yatsuka_(846),1,yatsuka|yatsuka_(846k28)|yatsuka_(8_4_6_8_4_6)|yatsuka_y|846k28|8_4_6_8_4_6|ヤツカ,やつか,202,
 cong1991,1,atomu2992|konguu|o-kojo|okojo1992,こんぐぅ,201,「cong1991」为其站点名
-hakua_ugetsu,1,yellow_tag|白亜右月,白亚右月,201,参与动画《爆裂天使》《德鲁亚加之塔》的角色设计
+hakua_ugetsu,1,yellow_tag|白亜右月,白亚右月,201,担任动画《爆裂天使》《德鲁亚加之塔》的角色原案
 nazuka_(mikkamisaki),1,na_|nazuka|ナヅカ|chinami_no_chinami_ni|mikka_misaki|na_s|naduka|ちなみのちなみに,なづか,201,相关社团：「みっかみさき」
 pok_(pok_0002),1,po0000000000|pok_|pok_0002|pok_003|okmtaberuo,ぽk,201,
 terumii,1,tellme0705,てるみぃ,201,
@@ -11437,7 +11437,7 @@ oosawara_sadao,1,oosawarasadao|おおさわらさだお|さだお|大童貞男|�
 kikkasoon,1,,ナイトウ,202,
 sasanoneko,1,_ssnv|_ssnx|anflll|ささのねこ,ささお,202,
 geneva_bowers,1,gdbee|gdbeeart|prinnay,Geneva Bowers,202,
-lunamoon,1,lunamoon55|manpukujinja|manpukujinjya|yamamoto_hisashi|るなむー|山本尚志|満福神社|満福神社管理人|満福神社（中の人は脚本とか担当トミー朕）,るなむん,202,同人社团「満福神社」的成员，负责东方 Project 同人动画《幻想万华镜》的角色设计
+lunamoon,1,lunamoon55|yamamoto_hisashi|るなむー|山本尚志,るなむー,202,同人社团「満福神社」的成员，负责东方 Project 同人动画《幻想万华镜》的角色设计
 artnip,1,artartnip,artnip,202,
 shadman,1,Shadbase|TheRealShadman|shaddai_prejean|the_real_shadman,shadman,202,
 asahi_kuroi,1,Asahi_kuroi39|asahi,あさひ,202,
@@ -11800,7 +11800,7 @@ rocomani,1,rocomani63|真夏ろこ,真夏,197,
 magako,1,garchomp8|mgbg010,まがこ,197,
 andrian_januar_adilia,1,Andrian.J.Adilia|Andrian_Adilia,andrian_januar_adilia,197,
 hisama_tomoki,1,daio-do_(circle)|hisamatomoki|久間知毅|久间知毅,久间知毅,197,
-ixima,1,daisanji|eiko|ikushima|iximaxima|えこ|えこいくしま|イクシマ,ぇゎみ,197,插画师，负责《初音未来 V4X》的官方视觉插画
+ixima,1,daisanji|eiko|ikushima|iximaxima|えこ|えこいくしま|イクシマ|ぇゎみ,iXima,197,插画师，负责《初音未来 V4X》的官方视觉插画
 toriyarou,1,toritori_yaro|yakitori_teishoku_(circle),トリヤロウ,197,相关社团：「焼きトリ定食」
 lank_(lankdesu),1,,らんくちゃん,197,
 natu_zame,1,Natsuzame,ナツザメ,197,
@@ -18433,7 +18433,7 @@ kamekoya_sato,1,亀小屋サト|kamenokora|kamegoya310|3x1x0|pyoko07|oo077|サ�
 ojyomu,1,おぞむ|0w0_jomu,오죠무,134,
 zummy,1,zummy_mk|zummy★flyer|mizunokei|usaneri_island|zummyflyer|zf_mizunokei|zummypurify,zummy,134,
 kigan'eiji,1,kigan_eiji|hungry_camp_(circle)|camp_of_hunger,きがんえいじ,134,
-luna_(reclaimed_land),1,guaguaguaguamia|guaguaguaguamiao|kanari_lu|kanaria_lu|屡那,屡,134,轻小说《圣剑锻造师》的插画师
+luna_(reclaimed_land),1,guaguaguaguamia|guaguaguaguamiao|kanari_lu|kanaria_lu|屡那,屡那,134,轻小说《圣剑锻造师》的插画师
 yusao,1,納亜納亜椎|納亜納亜椎ユサオ,纳亚纳亚椎ユサオ,134,
 pasikon,1,piko|piko_(minmin)|ぴコ(みんみん),ぴコ,134,
 teletelo,1,,teletelo,134,
