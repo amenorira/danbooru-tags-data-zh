@@ -1,14 +1,14 @@
 ﻿tag,category,aliases,zh,count,notes
 highres,5,high_res|high_resolution|hires,高分辨率,8033637,宽至少1600像素或高至少1200像素的高分辨率图
 commentary_request,5,,请求注释翻译,6264839,画师注释尚未完整译成英文，等待翻译
-rating:sensitive,5,rating:s,敏感,5270447,Danbooru分级标签：敏感，介于全年龄与擦边之间
+rating:sensitive,5,rating:s,敏感,5270447,Danbooru 分级：含性暗示、暴露服装或轻度暴力等，不适合在所有公共场合观看
 rating:general,5,rating:g,全年龄,4486953,Danbooru分级标签：全年龄，适合所有观众
 commentary,5,commentaries,作者注释,3190166,画师注释可被英语读者读懂的帖子，含已英译的情况
 absurdres,5,,超高分辨率,2939616,宽至少3200或高至少2400像素的超高分辨率图
 bad_id,5,,错误ID,1440267,原来源链接已失效（图被删或设私）的帖子
 english_commentary,5,,英文注释,1299333,画师注释原文为英文的图
-rating:explicit,5,rating:e,露骨,1234414,Danbooru分级标签：露骨，含明确的性描写
-rating:questionable,5,rating:q,擦边,1233734,Danbooru分级标签：擦边，含轻度性暗示
+rating:explicit,5,rating:e,露骨,1234414,Danbooru 分级：含明确性行为、生殖器裸露、性体液或极强烈血腥暴力等内容
+rating:questionable,5,rating:q,裸露／明显性暗示／强烈暴力,1233734,Danbooru 分级：含裸露、近乎裸露、明显性暗示或较强烈暴力等内容，程度高于 sensitive
 bad_pixiv_id,5,,错误Pixiv ID,1099603,Pixiv原图已被删除或设为私密
 translation_request,5,,请求翻译,840027,图中非英文文字需要翻译成英文的帖子
 photoshop_(medium),5,photoshop,Photoshop,709666,用Adobe Photoshop创建或合成的图片
@@ -39,7 +39,7 @@ mixed-language_commentary,5,,多语言注释,84142,画师注释混用多种语�
 revision,5,revised|修改|修正|修正版|加工|加笔,修订版,82049,画师本人修正错误或加笔后的修订版本
 video,5,videos,视频,80789,站内的视频帖，支持WebM与MP4等格式
 character_request,5,tagme_(character),请求角色,73071,请求识别图中出自已知作品的具体角色
-bad_link,5,,错误链接,60451,来源为图片直链，而非包含该图的页面
+bad_link,5,,错误链接,60451,来源为已识别站点的图片直链，且无法转换为对应作品页面的链接
 self-datamine,5,,自行解包,48141,上传者自己从游戏中提取的资源图，来源为本地
 spoilers,5,spoiler|spoiler_warning|tma_spoilers|捏他,剧透,46930,内容会剧透作品情节或结局的帖子
 check_translation,5,,核对翻译,43740,原文已翻译，但需要第二人复核译文是否准确
@@ -138,7 +138,7 @@ fan_request,5,,点图,3697,应观看者免费请求而创作的作品
 merchandise_available,5,,有周边,3666,被设计成可作手办、徽章、立牌等周边售卖的图
 annotated,5,,有批注,3664,使用站内批注标明图中人物、物品或嵌入作品身份的帖子
 has_censored_revision,5,,有和谐修订,3648,来源修订版被加码或遮挡更多的帖子
-romaji_commentary,5,,罗马字注释,3559,注释用罗马字拼写写成的帖子
+romaji_commentary,5,,罗马字注释,3559,画师注释中用拉丁字母转写日语；仅人名、商标或已融入英语的日语借词不适用
 bad_lofter_id,5,,错误Lofter ID,3539,Lofter原帖或原图已不可见
 live2d,5,,Live2D,3520,用Live2D制作的2D动态立绘或动画
 redrawn,5,,重绘,3438,画师把旧作完全重画一遍的版本，常用于对比进步
@@ -223,7 +223,7 @@ check_clothing,5,,核对服装,929,服饰已识别，但需要第二人复核确
 imageboard_first-party_source,5,,图站一手来源,923,画师本人先发在其他图站、再从那里转来的帖子
 object_request,5,check_object,请求物品,922,请求他人识别图中物品名称的帖子
 audible_internal_cumshot,5,,可听出内射,911,带声音作品中能听到内射声响的帖子
-multilingual_commentary,5,,多语注释,902,同一段注释用两种以上语言重复书写的帖子
+multilingual_commentary,5,,多语注释,902,画师注释将相同内容用三种及以上语言重复书写，翻译不一定正确
 pdf_available,5,,有PDF,897,该帖作品另有PDF文件可下载，站内不能上传PDF
 bad_facebook_link,5,,错误Facebook链接,874,来源为Facebook图片直链，链接会过期且无法回溯
 french_commentary,5,,法文注释,840,画师注释为法文的图
@@ -304,7 +304,7 @@ has_watermarked_revision,5,,有水印修订,365,来源修订版被加上水印�
 animated_png,5,,动态PNG,356,APNG格式的动态图，支持全彩与透明度
 ascii_art_commentary,5,,ASCII艺术注释,356,画师注释以ASCII字符画形式呈现
 bird_request,5,,请求鸟类,356,图中有鸟但缺具体种类标签时的请求标签
-first-party_extraction,5,,官方提取,354,由原作者本人从原图中抠出角色、去除背景的图
+first-party_extraction,5,,原作者提取,354,由原作者本人从原图中抠出角色、去除背景的图
 ugoira_conversion,5,,动图转换,352,把Pixiv Ugoira转成其他动图或视频格式上传的图
 bad_pinterest_link,5,,错误Pinterest链接,351,来源为Pinterest图片直链，而非图钉页面
 chinese_audio,5,,中文语音,351,含可听中文说话声或中文歌词的作品
@@ -353,13 +353,13 @@ thumbnail_surprise,5,,缩略图反差,235,缩略图与完整图观感差别很�
 reference_request,5,,请求参考,230,请求他人补充参考素材的帖子
 nai_diffusion,5,novelaidiffusion|novelaidiffusionv3|novelaidiffusionv4,NovelAI,227,用NovelAI系列模型生成的AI图
 bad_bilibili_id,5,,错误Bilibili ID,225,Bilibili原帖或原图已不可见
-gibberish_commentary,5,,乱码注释,225,注释为无意义乱码、无法翻译的图
+gibberish_commentary,5,,无意义文字注释,225,画师注释包含无意义的文字，区别于编码错误造成的乱码
 hair_ornament_request,5,,请求发饰,224,请求补充具体发饰类型标签的标签
 aseprite_(medium),5,aseprite,Aseprite,223,用像素绘图软件Aseprite制作或编辑的作品
 bad_vkontakte_id,5,,错误VK ID,223,VKontakte来源链接已失效
 still_animation,5,,静止动画,223,播放后画面静止的动画，只有一帧或各帧相同
 song_request,5,,请求歌曲,215,请求识别背景音乐或歌声所用曲目与声库的帖子
-blueprint_(medium),5,図面,蓝图,214,以蓝图风格多角度展示机体或载具细节的设定图
+blueprint_(medium),5,図面,蓝图,214,以蓝图风格绘制的图像，常见机体或载具的多角度视图或机械细节
 check_source,5,,核对来源,213,来源需要复核，尤其怀疑是第三方来源时
 color_study,5,,色彩习作,212,以研究配色与有限色板为目的的练习作品
 bad_tinami_id,5,,错误Tinami ID,210,Tinami原帖或原图已不可见
@@ -470,7 +470,7 @@ check_weapon,5,,核对武器,84,武器已识别，但需要第二人复核确认
 alight_motion_(medium),5,,Alight Motion,83,用手机剪辑软件Alight Motion制作的补间动画
 bad_deviantart_link,5,,错误DeviantArt链接,83,来源为DeviantArt图片直链，缺少作品ID
 binding_discoloration,5,,装订变色,82,书页未贴合扫描仪造成的装订侧变色与模糊
-print_(medium),5,,版画,81,用木版或胶版刻制后印到纸上的版画作品
+print_(medium),5,,版画,81,在木板、油毡板等材料上刻版、上墨，再转印到纸或布料等载体上的版画作品
 fake_translation,5,,假翻译,80,第三方伪造、通常为恶搞的错误译文图，站内禁止上传
 airbrush_(medium),5,,喷枪,79,用喷枪喷绘上色的作品
 bad_lofter_link,5,,错误Lofter链接,79,来源为Lofter图片直链，而非帖子页面
@@ -566,11 +566,11 @@ non-asian,5,,非亚洲人,0,标记图中人物外貌为非亚洲人特征
 noobai-xl,5,,NoobAI XL,0,以动漫与furry图为主的Illustrious系SDXL微调模型，非Danbooru标签
 normal_quality,5,,质量一般,0,表示画面质量中等的分级提示词
 novelai,5,,NovelAI,0,Anlatan公司的AI绘图服务，其二次元模型对同人插画影响很大
-number-only_commentary,5,,纯数字评论,0,注释内容只有数字、没有可翻译文字的帖子
+number-only_commentary,5,,纯数字注释,0,注释内容只有数字、没有可翻译文字的帖子
 phone_screenshot,5,,手机截图,0,手机界面或其他手机画面的截图
 pony_diffusion_xl,5,,Pony Diffusion XL,0,以二次元与furry训练集为主的SDXL微调模型，非Danbooru标签
 promotional_menu,5,,宣传菜单,0,餐饮店等宣传用的菜单图片，非Danbooru标签
-questionable,5,rating_questionable,擦边,0,已废弃的分级标签，改用rating:questionable
+questionable,5,rating_questionable,裸露／明显性暗示／强烈暴力,0,已废弃的分级标签，改用rating:questionable
 sensitive,5,rating_sensitive,敏感,0,已废弃的分级标签，改用rating:sensitive
 stable_diffusion_xl,5,,Stable Diffusion XL,0,Stability AI的SDXL文生图模型，非Danbooru标签
 t-ponynaiv3,5,,T-ponynai3,0,基于Pony与NovelAI的二次元AI绘图模型，非Danbooru标签

@@ -753,7 +753,7 @@ hand_on_own_face,0,hand_on_face|hand_to_face|hand_to_own_face|单手托腮,手�
 pink_shirt,0,pink_blouse,粉色衬衫,72188,穿在上身的粉色衬衫
 bridal_gauntlets,0,,新娘指环手套,72168,以指环固定、无指孔的长手套
 microphone,0,mic|话筒,麦克风,72141,用于录音或扩音的麦克风
-waist_apron,0,half_apron|腰部围裙,腰围裙,72119,只遮到腰部的短围裙
+waist_apron,0,half_apron|腰部围裙,腰围裙,72119,从腰部向下遮盖身前、不带遮胸部分的半身围裙
 tearing_up,0,哭泣之前|泪目|流泪|涙目,含泪,72101,哭泣、大笑或刚醒来时眼中泛起但未落下的泪水
 one_eye_covered,0,covered_eye,遮单眼,72039,一只眼睛被完全遮住，隔发丝可见则不算
 yellow_bow,0,,黄色蝴蝶结,72029,系成蝴蝶结形状的黄色饰结
@@ -3094,7 +3094,7 @@ energy,0,,能量,9562,由物理、化学或魔法资源产生的能量
 long_tongue,0,长舌,长舌头,9539,伸出时超过下巴的长舌头
 looking_at_animal,0,,看着动物,9532,看着动物或虫子
 diagonal_bangs,0,,斜分刘海,9527,一侧长一侧短、斜线下垂的刘海
-single_sleeve,0,one_sleeve,单边没有袖管,9519,衣物只有一只袖子
+single_sleeve,0,one_sleeve,单袖,9519,衣物只有一只袖子
 stomach_tattoo,0,,腹部纹身,9516,纹在腹部而非耻骨上方的纹身
 partially_undressed,0,半裸,部分脱衣服,9515,衣物部分脱下，或平时穿的上装、下装缺失并暗示已脱去
 evil_grin,0,,邪恶的露齿笑,9513,露出牙齿、显得阴险恶意的笑
@@ -11678,7 +11678,7 @@ too_many_frills,0,,褶边太多,659,层层叠叠、多到夸张的褶边
 aphrodisiac,0,催情剂|媚药|媚薬,春药,658,提高性欲或敏感度的春药
 bnw_(umamusume),0,,BNW（赛马娘）,658,《赛马娘》中 BNW 三名成员全部同框时使用
 food_on_clothes,0,,衣服上的食物,658,洒在衣服上的食物
-liu_association_south_uniform,0,,刘氏协会南方制服（边狱公司）,658,《边狱公司》刘氏协会南支部的龙纹背心制服
+liu_association_south_uniform,0,,六协会南方制服（边狱公司）,658,《边狱公司》六协会南支部的龙纹背心制服
 sitrus_berry,0,,文柚果,658,宝可梦中回复体力的文柚果
 staff_of_selection_(fate),0,,选定之杖（Fate）,658,Fate中阿尔托莉雅·Caster的选定之杖
 steppee_focus,0,,以被踩者为画面主体,658,以被踩、被跪、被蹲或接受足交的角色为画面主体
@@ -13186,7 +13186,7 @@ nut_(food),0,nuts_(food),坚果（食物）,493,长在树上、松鼠爱吃的�
 omnic,0,,智械（守望先锋）,493,《守望先锋》中拥有自我意识的人工智能机器人
 overlighting,0,顶部打光,顶光,493,光源从正上方照射、下方出现明显阴影的顶光
 purity_seal,0,,纯洁封印,493,以蜡封固定、写有宣誓或祈祷文字的羊皮纸，表示持有者或物品未被腐化
-ring_(identity)_(project_moon),0,,指环（人格）（边狱公司）,493,边狱公司中指环帮相关的人格
+ring_(identity)_(project_moon),0,,环指（人格）（边狱公司）,493,边狱公司中环指帮相关的人格
 seahorse,0,,海马,493,头似马、身有骨板、尾可卷曲的小型海鱼
 sumo,0,日本相扑协会,相扑,493,日本传统相扑运动，也包括相扑姿势和相扑服装
 animal_on_back,0,,背部动物,492,趴在背上的动物
@@ -13243,7 +13243,7 @@ h&k_p30,0,p30,HK P30手枪,487,HK公司的聚合物框架手枪
 knotting,0,,锁结,487,犬科等交配时阴茎膨胀卡在对方体内
 nissan_skyline,0,,日产Skyline,487,日产Skyline轿车系列，以GT-R高性能版闻名
 template,0,exploitable,模板,487,留有空白供他人填写改图的模板，常用于制作梗图
-diamond_clan_outfit,0,,钻石氏族服装,486,《宝可梦传说 阿尔宙斯》中金刚队的蓝色兜帽装
+diamond_clan_outfit,0,,金刚队服装,486,《宝可梦传说 阿尔宙斯》中金刚队的蓝色兜帽装
 gingham_skirt,0,,方格纹裙,486,方格纹布料制成的裙子
 hirabitai,0,平额|钗子,平额（平安时代发饰）,486,平安时代女性用的平额金色发饰
 holding_rock,0,,握住岩石,486,手里握着一块石头
@@ -13271,7 +13271,7 @@ russian_clothes,0,,俄罗斯传统服饰,484,俄罗斯传统民族服装
 sleeve_belt,0,,袖子束带,484,用来束紧袖子末端的带子
 tail_around_another's_leg,0,,尾巴绕他人腿,484,用自己的尾巴缠住他人的腿
 warp_pipe,0,土管,水管（马力欧）,484,马力欧系列中用于传送到其他区域或关卡的绿色管道
-arm_bow,0,,手臂弯曲,483,把手臂弯成弓形或臂上安弓的姿势
+arm_bow,0,,手臂蝴蝶结,483,装饰在手臂上的蝴蝶结
 heel-less_heels,0,,无鞋跟高跟鞋,483,没有鞋跟的高跟鞋
 holding_scale,0,,手持秤,483,手里拿着天平或秤
 i_heart...,0,i_love...,"""I ❤...""字样",483,以「I ♥」开头的标语，常见于T恤
@@ -13513,7 +13513,7 @@ aquarius_(symbol),0,aquarius,水瓶座（符号）,463,宝瓶座对应的占星�
 arrest,0,,逮捕,463,被警察拘捕，通常戴着手铐
 aura_bullying_(meme),0,,气场碾压（梗）,463,《葬送的芙莉莲》中Aura被下令自刎的梗
 bar_phone,0,,直板手机,463,屏幕与按键在同一平面的直板手机
-famicom,0,,红白机,463,任天堂1983年发售的首款家用游戏机红白机
+famicom,0,,红白机,463,任天堂1983年发售的家用游戏机红白机
 hatchet_(axe),0,western_hatchet|手斧,短柄斧,463,单手使用的小型斧头
 holding_kettle,0,,握住水壶,463,手里提着烧水用的水壶，可正在倒水
 ice_cream_hair_ornament,0,,冰淇淋发饰,463,冰淇淋形状的发饰
@@ -13574,7 +13574,7 @@ corked_bottle,0,,软木塞瓶,459,塞着软木塞的瓶子
 flinch,0,畏缩,退缩,459,因惊讶或惊吓而突然抽动的身体反应
 goldfish_scooping,0,,捞金鱼,459,日本庙会中捞金鱼的游戏
 leaf_bikini,0,leafbikini|叶子比基尼,叶片比基尼,459,用叶子制成的比基尼
-liu_association_south_(identity)_(project_moon),0,,刘氏协会南部（人格）（边狱公司）,459,《边狱公司》中刘氏协会南支部相关的组织人格
+liu_association_south_(identity)_(project_moon),0,,六协会南部（人格）（边狱公司）,459,《边狱公司》中六协会南支部相关的组织人格
 necklace_between_breasts,0,,乳间项链,459,项链垂落在双乳之间
 oval_border,0,oval_image,椭圆边框,459,整体呈椭圆形状的画面构图
 slave_gear_(tsmg_nao!),0,,奴隶装具（TS魔法少女Nao）,459,《TS魔法少女Nao》中堕落形态的装具
@@ -13614,7 +13614,7 @@ rouman_academy_school_uniform,0,rouman_academy_uniform,罗曼学园校服,456,�
 sesame_seeds,0,胡麻|芝麻,芝麻籽,456,芝麻植物的小粒种子
 tramp_stamp,0,,后腰纹身,456,位于后腰或股沟上方的纹身
 x_anus,0,,X形肛门,456,画成简单X或星号形的卡通肛门
-arm_across_neck,0,,手臂环颈,455,手臂横在自己颈前
+arm_across_neck,0,,手臂横在颈前,455,角色的手臂横在自己的颈前
 companion/af,0,,赛场女郎装AF（Alice Gear Aegis）,455,《Alice Gear Aegis》中的赛车女郎装AF款
 glowing_clothes,0,,发光的衣服,455,衣服整体或局部在发光
 holding_case,0,,手持箱子,455,手里拿着箱盒或收纳盒
@@ -13757,7 +13757,7 @@ transformer,0,変圧器,变压器,444,改变电压的电力设备，常见于电
 verone_gakuin_school_uniform,0,,Verone Gakuin校服,444,《两人是光之美少女》中Verone学园的校服
 white_loincloth,0,,白色兜裆布,444,环绕腰部、遮盖下体的白色布条
 window_shutter,0,,木窗板,444,装在窗内外、多为木制的窗板
-corn_cob,0,,玉米芯,443,玉米穗剥去谷粒后的玉米芯
+corn_cob,0,,玉米棒,443,玉米果穗，包括带玉米粒的玉米棒及剥去谷粒后的玉米芯
 fujimi_high_school_uniform,0,,富士见高中校服,443,《学园默示录》藤美学园的校服
 gauze_on_leg,0,,腿上纱布,443,纱布贴在角色腿部或大腿的伤处
 gyate_gyate,0,ohayou_(meme)|粗乃丸|粗乃玩,盖特·盖特（Gyate Gyate）,443,源自东方角色表情的恶搞梗
@@ -13807,7 +13807,7 @@ conjoined,0,siamese_twins|结合双生児,连体,440,两个以上的人连在一
 extra_tails,0,,额外的尾巴,440,角色比平时多出的尾巴
 fabric,0,生地,织物,440,尚未缝制成成品的布料
 frilled_pajamas,0,,荷叶边睡衣,440,带荷叶边的睡衣
-holding_own_leash,0,,手持或嘴叼自己的牵绳,440,用手或嘴叼住连接自己项圈的牵绳
+holding_own_leash,0,,手持或嘴叼自己的牵绳,440,用手拿着或用嘴叼着连接自己项圈的牵绳
 in_the_name_of_love_and_hate_(e.g.o),0,,以爱与恨之名（E.G.O）,440,《边狱公司》中从憎恶女王异想体提取的E.G.O
 jack_daniel's,0,,杰克丹尼,440,美国田纳西威士忌品牌杰克丹尼
 necrophilia,0,尸奸|死奸,恋尸癖,440,与尸体或丧尸发生性行为的癖好
@@ -13816,7 +13816,7 @@ stone_mask_(jojo),0,石仮面|石鬼面,石鬼面（JOJO的奇妙冒险）,440,�
 unbuttoned_jacket,0,,敞开的夹克,440,没有扣上扣子而敞开的夹克
 wireless_sex_toy_controller,0,wireless_sex_toy_control,无线遥控性玩具,440,可由无线设备遥控的振动器或其他性玩具
 alraune,0,,花妖／植物娘,439,下半身为植物或花朵的植物娘，常从巨花中央长出上半身
-blood_on_feet,0,bloody_feet,脚上的血,439,双脚或脚趾沾有血迹
+blood_on_feet,0,bloody_feet,脚上的血,439,脚或脚趾沾有血迹
 compound_bow,0,,复合弓,439,用滑轮和缆索弯曲弓臂的现代复合弓
 gargoyle,0,,石像鬼,439,常雕刻在哥特建筑上的有翼恶魔石像
 grey_jumpsuit,0,,灰色连身裤,439,颜色为灰色的连体衣裤
@@ -14008,7 +14008,7 @@ lace-trimmed_eyepatch,0,,蕾丝边单眼罩,424,带蕾丝花边、只遮住单�
 looking_at_pectorals,0,,看着胸肌,424,注视他人的胸肌
 manually-operated_mounted_gun,0,,手动操作架设枪,424,装在载具固定架上由人手动操作的枪炮
 orbital_path,0,,轨道路径,424,描绘物体在轨道上运行轨迹的图
-skull_collar,0,,头骨衣领,424,带骷髅装饰的颈圈式衣领
+skull_collar,0,,骷髅颈圈,424,带骷髅装饰的颈圈
 stick_grenade,0,,棒手榴弹,424,带木柄、底部拉绳点火的手榴弹
 test_tube_rack,0,,试管架,424,放置试管的架子
 underwear_theft,0,panty_thief|stealing_underwear|underwear_thief,内衣盗窃,424,偷取他人胸罩、内裤等内衣的行为
@@ -14152,7 +14152,7 @@ sketch_inset,0,,草图小窗,413,在成图旁边附加的草图小图
 spoken_number,0,,气泡里的数字,413,气泡里说出的数字
 water_fight,0,,打水仗,413,常在夏天进行、使用水枪和水气球的打水仗
 alchemy,0,炼丹术|錬金术|黄金术,炼金术,412,把贱金属变成黄金的古代方术
-alternate_sleeve_length,0,,替代套筒长度,412,袖长与平时不同
+alternate_sleeve_length,0,,袖长改变,412,袖长与平时不同
 borrowed_accessory,0,,借来的饰品,412,佩戴其他角色配饰的情形
 chikuwa,0,,竹轮,412,鱼糜卷在棒上蒸烤成的竹轮
 elizabeth_tower,0,big_ben,伊丽莎白塔,412,威斯敏斯特宫的大本钟钟楼
@@ -14189,7 +14189,7 @@ transparent_innertube,0,transparent_swim_ring,透明游泳圈,411,透明或半�
 united_states_army,0,,美国陆军,411,美国武装力量中的陆军
 yuujo,0,,游女,411,日本封建时代的妓女游女
 zaft_uniform,0,,ZAFT制服（高达SEED）,411,《机动战士高达SEED》中ZAFT军的制服
-blade_lineage_(identity)_(project_moon),0,,刀锋血脉（人格）（边狱公司）,410,《边狱公司》中刀锋血脉相关的身份
+blade_lineage_(identity)_(project_moon),0,,剑契（人格）（边狱公司）,410,《边狱公司》中罪人加入剑契的镜世界人格
 crossover_couple,0,,跨作品配对,410,来自不同作品的角色之间的恋爱或性配对，通常为两人
 half_moon,0,上弦月|下弦月|弦月,半月,410,只能看到一半的月亮
 horizontal_bar,0,chin-up_bar|铁棒,单杠,410,体操用的单杠器材
@@ -14201,7 +14201,7 @@ neet,0,,尼特族,410,不升学、不就业也不接受培训的待业青年
 orange_sweater_vest,0,,橙色毛衣背心,410,橙色的毛衣背心
 pantyhose_around_one_leg,0,,连裤袜褪到单腿,410,连裤袜脱下只缠在一条腿上
 railroad_signal,0,railway_signal|腕木式信号机|铁道信号机,铁路信号,410,设在轨道旁向列车传递线路信息的信号机
-rebellion_(sword),0,叛逆之刃,叛乱（剑）,410,鬼泣系列中但丁的标志性长剑
+rebellion_(sword),0,叛逆之刃,叛逆之剑,410,鬼泣系列中但丁的标志性长剑
 scar_on_chin,0,,下巴伤疤,410,位于下巴上的伤疤
 soy_sauce_bottle,0,,酱油瓶,410,斜口细嘴的酱油调味瓶，也包括售卖酱油的棕色瓶装容器
 t-34,0,,T-34坦克,410,苏联中型坦克，对现代主战坦克的设计影响深远
@@ -14355,7 +14355,7 @@ working,0,仕事|労动,工作中,401,正在努力工作或加班的人
 asymmetrical_shirt,0,,不对称衬衫,400,设计不对称的衬衫
 bow_apron,0,,蝴蝶结围裙,400,带蝴蝶结的围裙
 calling,0,,呼唤,400,招手或呼喊叫人过来的动作
-card_in_mouth,0,,嘴里的卡,400,用嘴含着或叼着一张卡片
+card_in_mouth,0,,嘴含卡片,400,用嘴含着或叼着一张卡片
 cream_on_breasts,0,,乳房上的奶油,400,乳房上沾有奶油
 downward_dog,0,,下犬式,400,瑜伽中臀部朝上的下犬式
 eating_hair,0,,吃头发,400,咀嚼自己或他人的头发
@@ -15577,7 +15577,7 @@ large_earrings,0,,大耳环,329,尺寸很大的耳环
 orange_camisole,0,,橙色吊带背心,329,橙色的吊带背心
 pajamas_challenge_(meme),0,pajamachallenge|pajamaschallenge|t-shirt_challenge|tshirtchallenge|睡衣挑战,睡衣挑战（模因）,329,把睡衣前襟拉紧贴身的两图对比模因
 pot_on_head,0,,锅在头上,329,把锅或平底锅倒扣在头上当头盔
-rakuyo_(bloodborne),0,,rakuyo（血源）,329,《血源诅咒》中名为Rakuyo的曲刀
+rakuyo_(bloodborne),0,,落叶（血源诅咒）,329,《血源诅咒》中玛丽亚使用、可分为刀与短刀的变形武器
 reverse_prayer,0,反向祈祷捆绑,反向祈祷,329,双臂反绑、双手合十的捆绑姿势
 sagittarius_(constellation),0,,射手座（星座）,329,黄道星座人马座
 smash_invitation,0,,乱斗邀请函,329,《任天堂明星大乱斗》中带红蜡封印的白色邀请函
@@ -16525,7 +16525,7 @@ dim_sum,0,广式点心,点心,283,以蒸笼或小盘盛装并作为点心早午�
 energy_shield,0,holographic_shield,能量盾,283,由能量屏障构成的盾
 feathered_dragon,0,,羽毛龙,283,以羽毛代替或叠加鳞片的龙
 fir_tree,0,,冷杉树,283,针叶单生、球果直立的冷杉
-full-stop_office_(identity)_(project_moon),0,,句点事务所（人格）（边狱公司）,283,《废墟图书馆》句点事务所相关的人格
+full-stop_office_(identity)_(project_moon),0,,句点事务所（人格）（边狱公司）,283,《边狱公司》中罪人加入句点事务所的镜世界人格；原型组织登场于《废墟图书馆》
 himekaji,0,,姬休闲,283,「公主休闲」风格的日系少女穿搭
 macintosh,0,mac,麦金塔,283,苹果公司的Macintosh电脑
 marriage_certificate_(object),0,婚姻届|结婚证,结婚证书（对象）,283,画面中出现结婚证书这一物件
@@ -19974,7 +19974,7 @@ lock_necklace,0,,锁形项链,169,挂着锁形吊坠的项链
 makima_(chainsaw_man)_(cosplay),0,,玛奇玛（电锯人）（角色扮演）,169,扮演《电锯人》玛奇玛的角色扮演
 neck_brace,0,cervical_collar,颈托,169,支撑固定颈部的护具，伤后或术后使用
 nissin_cup_noodle_seafood,0,,日清杯面海鲜味,169,日清杯面的海鲜味版本，含北海道牛奶等变种
-osmanthus_blade,0,,桂花刀,169,名为桂花刀的长刀
+osmanthus_blade,0,,金木犀之剑,169,《刀剑神域》Alicization篇中爱丽丝使用的金木犀之剑
 overshirt,0,,衬衫外套,169,穿在衬衫外、当作薄外套的衬衫
 pink_blanket,0,,粉红色的毯子,169,盖在身上保暖的粉色毯子
 plasma,0,,等离子体,169,等离子态物质或血浆
@@ -20579,7 +20579,7 @@ dalmatian,0,,斑点狗（大麦町犬）,156,白底黑斑的斑点狗
 detached_eyes,0,,分离的眼睛,156,与身体分离的眼睛
 dice_necklace,0,,骰子项链,156,骰子吊坠的项链
 double_popsicle,0,,双棒冰棍,156,可从中掰开分食的双棒冰棍
-dragon_(arms),0,,龙（武器）,156,火焰纹章中名为龙的石制武器
+dragon_(arms),0,,龙（武器）,156,任天堂《ARMS》中的龙头形拳套
 enkephalin_(project_moon),0,,脑啡肽（月亮计划）,156,《脑叶公司》系列中从异常体提取的绿色能源物质
 external_fuel_tank,0,drop_tank|増槽,外挂油箱,156,挂在飞机等机体外部的副油箱
 finger_to_own_nose,0,,手指点自己鼻子,156,手指点着自己鼻子
@@ -21350,7 +21350,7 @@ playstation_symbols,0,playstation_shapes,PlayStation符号,141,PlayStation手柄
 pool_party_(league),0,pool_party_(league_of_legends)|poolparty,泳池派对（英雄联盟）,141,《英雄联盟》以海滩为主题的一系列皮肤
 priest_(dq3)_(cosplay),0,,僧侣（勇者斗恶龙3）（角色扮演）,141,《勇者斗恶龙3》僧侣的角色扮演
 primrose_(flower),0,,报春花（花）,141,报春花科报春花属的常见花卉
-red_sheet_(e.g.o),0,,红床单（E.G.O）,141,脑叶公司中从异想体So That No One Will Cry提取的E.G.O装备
+red_sheet_(e.g.o),0,,红床单（E.G.O）,141,《边狱公司》中从异想体 So That No One Will Cry 提取的 E.G.O 装备
 rococo_movement,0,rococo,洛可可风,141,18世纪中期在法国盛行的华丽装饰艺术风格
 rubbing_nose,0,,摩擦鼻子,141,用手指摩擦鼻子的动作，常表现自信或害羞
 scarabia_dorm_uniform,0,,Scarabia宿舍制服,141,《扭曲仙境》Scarabia宿舍成员所穿的制服
@@ -21839,7 +21839,7 @@ stitched_forehead,0,,缝合的额头,133,额头上缝有缝合线
 sua_(alien_stage)_(cosplay),0,,Sua（异形舞台）（角色扮演）,133,《异形舞台》中Sua的角色扮演
 surrounded_by_feet,0,,被脚包围,133,角色被大量脚包围、踩踏或掩埋
 syngup!_(idolmaster),0,syngup!,syngup!（学园偶像大师）,133,学园偶像大师中初星学园初中部的前偶像组合
-telepole_(e.g.o),0,,电击杆（E.G.O）,133,《边狱公司》中从异想体小巷看门狗提取的E.G.O
+telepole_(e.g.o),0,,电线杆（E.G.O）,133,《边狱公司》中从异想体小巷看门狗提取的E.G.O
 tetromino,0,四格骨牌,四格方块,133,《俄罗斯方块》中由四个方块拼成的几何形状
 the_world_(tarot),0,,世界（塔罗牌）,133,塔罗牌大阿尔卡那最后一张，女子持杖悬于地球上方
 tiger_tattoo,0,,老虎纹身,133,老虎图案的纹身
@@ -22079,7 +22079,7 @@ pie_chart,0,,饼形图,129,按比例划分扇形的圆形统计图
 pointy_chin,0,,尖下巴,129,尖得过分突出的下巴
 princess_rosa_costume,0,,罗莎公主装,129,罗莎公主主题的服装
 pussy_juice_drip,0,,爱液滴落,129,爱液成股滴落，区别于爱液拉丝
-qingming_sword,0,,清明剑,129,名为清明的剑，属具体武器名称
+qingming_sword,0,,青溟剑,129,《绝区零》中由叶瞬光执掌的青溟剑
 queen_of_diamonds,0,,方块皇后,129,扑克牌中手持花朵的方块Q皇后牌
 rafflesia_(flower),0,,Rafflesia（花）,129,散发腐臭、有五片斑点花瓣的寄生花
 ribbon-trimmed_bloomers,0,,缎带边灯笼裤,129,裤脚或腰部带缎带镶边的灯笼裤
@@ -22477,7 +22477,7 @@ tilted_border,0,,倾斜边框,123,倾斜而非方正的画面边框
 tsuganoki_second_junior_high_school_uniform,0,,Tsuganoki第二中学制服（物语系列）,123,物语系列中阿良良木姐妹就读的第二中学制服
 tsunako_(style),0,,tsunako风格,123,模仿画师tsunako（约会大作战等）的画风
 viltrumite_group_shot_(meme),0,,维特鲁姆人合影（梗图）,123,《无敌少侠》封底维特鲁姆人合影的梗图
-woren,0,,沃伦,123,专有名词，指名为沃伦（Woren）的角色或种族
+woren,0,,沃伦,123,《龙战士》系列中具有猫科动物特征的兽人族群
 yukianesa,0,,由岐亚涅萨（苍翼默示录）,123,《苍翼默示录》如月琴恩的冰之太刀
 2_fuel_4_ammo_11_steel,0,燃2弾4钢11,2燃料4弹药11钢,122,舰队Collection中那珂的绰号，源自解体所得资源
 4th_match_flame_(e.g.o),0,,第四根火柴（E.G.O）,122,边狱公司中从焦炭少女提取的E.G.O武器
@@ -23015,7 +23015,7 @@ prehistoric,0,石器时代,史前,115,史前时代相关的内容
 print_wrist_cuffs,0,,印花腕套,115,印有图案的腕套
 public_address_system,0,pa_system,公共广播系统,115,用麦克风和喇叭向大范围广播的公共广播系统
 realified,0,,真实化,115,把虚构生物画成写实动物的样子
-rickenbacker,0,,里肯贝克,115,1932年创立、最早量产电吉他的美国乐器公司
+rickenbacker,0,,里肯贝克,115,1931年创立、以电吉他和电贝斯闻名的美国乐器品牌
 rouge_the_bat_(cosplay),0,,露姬（角色扮演）,115,扮演刺猬索尼克中的蝙蝠露姬
 sakuya's_pads_(meme),0,,咲夜胸垫梗,115,调侃十六夜咲夜可能使用胸垫的梗
 shimekazari,0,,注连饰,115,日本新年挂在门前的稻草绳装饰
@@ -24180,7 +24180,7 @@ pedal_board,0,,效果器踏板,100,吉他手集中摆放效果器的踏板板
 pikachu_tail_(female),0,,皮卡丘尾巴（雌性）,100,模仿雌性皮卡丘、末端呈心形的假尾或兽化尾巴。
 pink_overskirt,0,,粉色外罩裙,100,罩在其他裙子外的粉色外罩裙
 pinstripe_ascot,0,,细条纹领巾,100,细条纹图案的领巾
-pipe_organ,0,,管风琴,100,最早为教堂建造、由音管发声的大型键盘乐器
+pipe_organ,0,,管风琴,100,通过键盘控制气流、使成排音管发声的乐器，常见于教堂和音乐厅
 print_cup,0,,印刷杯,100,印有图案的杯子
 qbz-191,0,,QBZ-191步枪,100,中国研制并列装的新一代QBZ-191突击步枪
 remington_model_700,0,m24_sws|m24a2|m40_rifle|m700|r700|remington_m700,雷明顿700型,100,雷明顿公司生产的700型栓动狙击步枪
@@ -25480,7 +25480,7 @@ brazilian_flag_bikini,0,,巴西国旗比基尼,86,巴西国旗图案的比基尼
 breast_missiles,0,,乳房导弹,86,从胸部发射导弹的机甲招式
 brown_male_swimwear,0,,棕色男性泳衣,86,棕色的男性泳装
 charo_(meme),0,,恰罗（梗）,86,出自《魔女的夜宴》的招呼语梗
-chilla_(arms),0,,奇拉（武器）,86,名为Chilla的一种冷兵器
+chilla_(arms),0,,奇拉（武器）,86,任天堂《ARMS》中的冰属性拳套
 chouzetsusaikawa_tenshi-chan_(cosplay),0,,超天酱（角色扮演）,86,角色扮演超绝最可爱天使酱
 cross-laced_bra,0,,交叉系带胸罩,86,在两罩杯之间交叉系带的胸罩
 cz_805_bren,0,cz_bren-2,CZ 805 BREN步枪,86,捷克 CZ 805 BREN 系列枪械，也包括 CZ 807、BREN 2 等型号及衍生型。
@@ -27040,7 +27040,7 @@ stuffed_shrimp,0,,虾玩偶,73,虾形状的毛绒玩具
 su-57,0,,苏-57战斗机,73,俄罗斯苏霍伊研制的苏-57隐身战斗机
 subaru_wrx,0,,斯巴鲁WRX,73,从翼豹车系独立出的斯巴鲁WRX运动轿车
 suuankou,0,,四暗刻,73,麻将役满牌型，即四组暗刻
-the_genesis,0,,创世纪,73,字面意为创世纪，多指作品中的创世设定或同名事物
+the_genesis,0,,创世纪,73,《闪电十一人》中的创世纪足球队
 tm_(pokemon),0,tm,技能机（宝可梦）,73,宝可梦中用来教授招式的光碟状道具
 tomato_plant,0,,番茄植株,73,结着番茄果实的植株
 topiary,0,,植物造型修剪,73,把树木灌木修剪成装饰造型
@@ -27125,7 +27125,7 @@ koi_(koisan)_(style),0,,koi画风,72,模仿koi画风的画作
 kuomintang,0,republic_of_china_(pre-1949),国民党,72,中国国民党的名称与党旗标志
 leotard_over_bodysuit,0,,紧身衣罩连体衣,72,在连体衣外面再穿紧身衣
 lifetime_stew_(e.g.o),0,,传世炖菜（E.G.O）,72,从异想体巴西利斯克汤中提取的E.G.O
-light_bow_shekinah,0,,轻弓Shekinah,72,名为轻弓Shekinah的武器
+light_bow_shekinah,0,,光弓Shekinah,72,《刀剑神域》中诗乃使用的光弓Shekinah
 marble_phantasm,0,,空想具现化（Fate）,72,Fate中自然灵按想象重构世界的能力
 meiji_milk_chocolate,0,,明治牛奶巧克力,72,明治公司自1926年起发售的牛奶巧克力
 meowth_(cosplay),0,,喵喵（角色扮演）,72,《宝可梦》中喵喵的角色扮演
@@ -28283,7 +28283,7 @@ back_double_bow,0,,背后双蝴蝶结,63,背后系着两个蝴蝶结
 balamb_garden_uniform_(ff8),0,,巴拉姆学园制服（FF8）,63,《最终幻想8》巴拉姆学园的制服
 bat_hat_ornament,0,,蝙蝠帽饰,63,蝙蝠形状的帽子装饰
 bear_claws,0,,熊爪,63,熊或熊类角色锋利的爪子
-beastlord_(sword),0,,野兽（剑）,63,名为野兽之主的剑
+beastlord_(sword),0,,百兽剑王（尼尔）,63,《尼尔》系列中的大型剑
 blacksteel_worldwide_(arknights),0,,黑钢国际（明日方舟）,63,《明日方舟》中的黑钢国际组织；至少三位成员同图，或画面明显与该组织整体有关时使用。
 bok_choy,0,小白菜|青梗菜,白菜,63,一种中国小白菜
 bound_calves,0,,被绑的小腿,63,两小腿被绑在一起
@@ -28341,7 +28341,7 @@ lashers,0,,鞭状触手,63,伊芙琳身上可当鞭子使用的触手状部位
 leaf_necklace,0,,叶子项链,63,叶子制成的项链
 lily_white_(cosplay),0,,莉莉怀特（角色扮演）,63,《东方Project》莉莉白（莉莉霍瓦特）的角色扮演
 madeleine,0,,玛德琳,63,贝壳形状的法国玛德琳小蛋糕
-magnum_shooter_40x,0,,Magnum Shooter 40X,63,名称保留原文的Magnum Shooter 40X相关标签
+magnum_shooter_40x,0,,Magnum Shooter 40X,63,《假面骑士Geats》中的枪械武器，可切换步枪模式与手枪模式
 magus_(synduality),0,,Magus（Synduality）,63,Synduality中与人类搭档的机器人，可协助探索与战斗
 mallard,0,,绿头鸭,63,绿头鸭，雄性头部呈墨绿色，家鸭的祖先
 model_train,0,,火车模型,63,列车的小比例模型
@@ -28688,12 +28688,12 @@ licking_eye,0,,舔眼,61,用舌头舔对方眼睛的动作
 lucky_oasis_(stella_sora),0,,幸运绿洲,61,Stella Sora中新星公会当作住所的房车
 luna_wolves,0,,月狼军团,61,战锤40K中帝皇创建的第十六军团月狼
 m1904_mastiff,0,,M1904獒犬霰弹枪,61,Apex Legends中的M1904獒犬霰弹枪
-maetenkan,0,,回天满愿,61,罗马字maetenkan，含义不明的日文标签
+maetenkan,0,,前天冠,61,巫女祭祀或献舞时戴在额前的冠饰，常插有花饰
 magazine_rack,0,,杂志架,61,用来摆放杂志的架子
 magnhild,0,,马格尼尔德,61,RWBY中诺拉使用的战锤榴弹发射器
 marie_(splatoon)_(cosplay),0,,小萤（斯普拉遁）（角色扮演）,61,扮演《斯普拉遁》中乌贼姐妹成员的角色扮演
 mechanical_dress,0,,机械连衣裙,61,带有机械构造或机械风格的连衣裙
-megawatt_(arms),0,,兆瓦（武器）,61,名为兆瓦的武器
+megawatt_(arms),0,,兆瓦（武器）,61,任天堂《ARMS》中的重型电属性拳套
 melee_weapon_(warframe),0,,近战武器（Warframe）,61,《Warframe》中剑、棍等所有近战武器的统称
 milking_cow,0,,挤奶牛,61,按压奶牛乳房使其泌乳的挤奶行为
 miyako_yoshika_(cosplay),0,,宫古芳香（角色扮演）,61,《东方Project》宫古芳香的角色扮演
@@ -29508,7 +29508,7 @@ military_patch,0,,军徽臂章,56,军服上标示部队或身份的徽章臂章
 miyamoto_musashi_(swimsuit_berserker)_(fate)_(cosplay),0,,宫本武藏（泳装狂战士）（Fate）（角色扮演）,56,《Fate/Grand Order》泳装狂战士宫本武藏的角色扮演
 mouse_hole,0,,老鼠洞,56,老鼠出入的墙洞
 naver_username,0,,naver用户名,56,指向Naver账号的用户名标注
-nereid_(romancing_saga_2),0,,涅瑞伊得（浪漫沙加2）,56,浪漫沙加2中的角色涅瑞伊得
+nereid_(romancing_saga_2),0,,涅瑞伊得（浪漫沙加2）,56,《浪漫沙加2》中生活在湖中的人鱼族群及对应职业
 nijiura_7_(meme),0,nijiura_7,Nijiura 7（模因）,56,高个角色抓住矮个角色衣领、镜头在其身后的梗图
 ntr_character_sheet,0,登场人物绍介,NTR角色设定表,56,四角色表格梗，前三名构成典型 NTR 情境，第四名是无关的随机角色。
 ochazuke_(food),0,,茶泡饭,56,在米饭上浇绿茶、高汤或热水的日式料理
@@ -29849,7 +29849,7 @@ makeover,0,,改头换面,54,角色被他人打扮得焕然一新、形象大变
 meiko_(vocaloid)_(cosplay),0,,MEIKO（VOCALOID）（角色扮演）,54,VOCALOID的MEIKO的角色扮演
 mikagura_uniform_(new_link),0,,御神乐制服（New Link）,54,《闪乱神乐 New Link》中的御神乐制服
 musical_note-themed_food,0,,音符主题食物,54,做成音符形状或带音符图案的食物
-nachiya,0,,纳奇亚,54,名为纳奇亚的专有名词标签
+nachiya,0,,纳奇亚,54,
 napa_cabbage,0,,大白菜,54,大白菜，常见蔬菜
 nasu_squad's_uniform,0,,那须小队制服（境界触发者）,54,境界触发者中那须队的队服
 nejikirio_(style),0,,nejikirio画风,54,模仿nejikirio的画风，其以Fumo玩偶闻名
@@ -29967,7 +29967,7 @@ chocolate_truffle,0,,松露巧克力,53,用甘纳许做成球形的松露巧克�
 chopper_crying_(meme),0,,乔巴大哭（梗）,53,《海贼王》乔巴在雪中大哭的反应图梗
 covered_wagon,0,,大篷车,53,带帆布篷顶的货运大篷车
 cream_on_hands,0,,手上的奶油,53,手上沾满奶油或乳状液体
-crow's_eye_view_(e.g.o),0,,乌鸦眼视图（E.G.O）,53,《边狱公司》中李箱专用的ZAYIN级E.G.O
+crow's_eye_view_(e.g.o),0,,乌瞰刀（E.G.O）,53,《边狱公司》中李箱专用的ZAYIN级E.G.O
 cum_on_goggles,0,,护目镜上的精液,53,精液沾在护目镜上
 curry_roux,0,,咖喱块,53,日式块状速食咖喱块及其包装
 dental_filling,0,,补牙,53,治疗蛀牙的补牙填充
@@ -30033,7 +30033,7 @@ mussel,0,,贻贝,53,贻贝等双壳类海产
 neck_snap,0,,扭断脖子,53,扭断脖子的动作
 newt,0,,水螈,53,蝾螈类中水生的有尾两栖动物
 nidaime_wa_alter-chan,0,,二代目是Alter酱,53,《Fate/Grand Order》2016年圣诞活动「二代目是Alter酱」相关
-night_awls_(identity)_(project_moon),0,,Night Awls（身份）（Project Moon）,53,《废墟图书馆》中与Night Awls相关的身份
+night_awls_(identity)_(project_moon),0,,Night Awls（身份）（Project Moon）,53,《边狱公司》中罪人加入 Night Awls 的镜世界人格；原型帮派登场于《废墟图书馆》
 nightborne_(warcraft),0,,夜之子（魔兽世界）,53,《魔兽世界》中的精灵种族夜之子
 no_stopping_sign,0,驻停车禁止,禁止停靠标志,53,表示该路段禁止车辆停靠的交通标志
 no_veil,0,,无头纱,53,角色没有佩戴头纱或面纱
@@ -30526,7 +30526,7 @@ what_i_watched_what_i_expected_what_i_got_(meme),0,,我看的、我期待的、�
 whisky_glass,0,,威士忌杯,51,盛威士忌用的矮玻璃杯
 white_knight_(nikke),0,,白骑士（妮姬）,51,《妮姬》中以皇冠和琪姆组成的小队
 white_pelvic_curtain,0,,白色裆帘,51,遮挡裆部的白色垂布
-white_snow's_merry_xmas_(ensemble_stars!),0,,White Snow's Merry Xmas（偶像梦幻祭）,51,偶像梦幻祭中White Snow's Merry Xmas相关的内容
+white_snow's_merry_xmas_(ensemble_stars!),0,,White Snow's Merry Xmas（偶像梦幻祭）,51,《偶像梦幻祭》中圣诞洗牌活动「SHUFFLE×白雪たちのMerryXmas」相关内容
 wicker_furniture,0,,柳条家具,51,用藤条编织的家具
 winged_cat,0,,带翼的猫,51,背上长有翅膀的猫
 wiping_hands,0,,擦手,51,用手帕或布擦拭双手
